@@ -10,8 +10,23 @@ namespace DAXService.Controllers
     {
         public ActionResult Index()
         {
-            ViewBag.Title="DAX Service";
-return View();
+            ViewBag.Title = "DAX Service";
+            return View();
         }
+
+        public ActionResult About()
+        {
+            ViewBag.Message = "About page";
+
+            return View();
+        }
+
+        public ActionResult Contact()
+        {
+            ViewBag.Message = "Contact page";
+
+            return View();
+        }
+
     }
 }
