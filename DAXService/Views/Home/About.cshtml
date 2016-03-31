@@ -2,29 +2,59 @@
     ViewBag.Title = "About";
 }
 
+@{
+    var language = ViewBag.Language ?? "EN";
+}
+
 <div class="featurette-divider"></div>
 
 <div class="container">
-@*    <div class="col-md-10">*@
-        <h2>About us</h2>
-        <p>We consider the company mission in providing professional consulting and development in Microsoft Dynamics AX.</p>
-        <p>The main features of our company are as follows:</p>
-        <p>Company employees implemented more than 120 000 hours of development in Microsoft Dynamics AX version 2.1 – 2009 and more than 100 successful projects;</p>
-        <p>Stable staff;</p>
-        <p>Great experience in remote work;</p>
-        <p>Great international experience, which makes it possible to reuse successful ideas of other projects made in different countries;</p>
-        <p>Great experience in Axapta versions upgrade projects, upgrade of implemented additional functionality in Axapta and customer data, it includes more than 15 upgrades to Axapta 4 and more than 7 upgrades to version 2009.</p>
-        <p>The company is located in Belarus, Minsk and its staff consists of 12 professional Microsoft Dynamics AX developers.</p>
+    @if (language == "EN")
+    {
+        <div class="text-justify">
+            <h2>About us</h2>
+            <p>We consider the company mission in providing professional consulting and development in Microsoft Dynamics AX.</p>
+            <p>The main features of our company are as follows:</p>
+            <p>Company employees implemented more than 120 000 hours of development in Microsoft Dynamics AX version 2.1 – 2009 and more than 100 successful projects;</p>
+            <p>Stable staff;</p>
+            <p>Great experience in remote work;</p>
+            <p>Great international experience, which makes it possible to reuse successful ideas of other projects made in different countries;</p>
+            <p>Great experience in Axapta versions upgrade projects, upgrade of implemented additional functionality in Axapta and customer data, it includes more than 15 upgrades to Axapta 4 and more than 7 upgrades to version 2009.</p>
+            <p>The company is located in Belarus, Minsk and its staff consists of 12 professional Microsoft Dynamics AX developers.</p>
+        </div>
+    }
 
+    @if (language == "DE")
+    {
+        <div class="text-justify">
+            <h2>Ueber uns</h2>
+            <p>We consider the company mission in providing professional consulting and development in Microsoft Dynamics AX.</p>
+            <p>The main features of our company are as follows:</p>
+            <p>Company employees implemented more than 120 000 hours of development in Microsoft Dynamics AX version 2.1 – 2009 and more than 100 successful projects;</p>
+            <p>Stable staff;</p>
+            <p>Great experience in remote work;</p>
+            <p>Great international experience, which makes it possible to reuse successful ideas of other projects made in different countries;</p>
+            <p>Great experience in Axapta versions upgrade projects, upgrade of implemented additional functionality in Axapta and customer data, it includes more than 15 upgrades to Axapta 4 and more than 7 upgrades to version 2009.</p>
+            <p>The company is located in Belarus, Minsk and its staff consists of 12 professional Microsoft Dynamics AX developers.</p>
+        </div>
+    }
+
+    @if (language == "RU")
+    {
+        <div class="text-justify">
+            <h2>О нас</h2>
+            <p>We consider the company mission in providing professional consulting and development in Microsoft Dynamics AX.</p>
+            <p>The main features of our company are as follows:</p>
+            <p>Company employees implemented more than 120 000 hours of development in Microsoft Dynamics AX version 2.1 – 2009 and more than 100 successful projects;</p>
+            <p>Stable staff;</p>
+            <p>Great experience in remote work;</p>
+            <p>Great international experience, which makes it possible to reuse successful ideas of other projects made in different countries;</p>
+            <p>Great experience in Axapta versions upgrade projects, upgrade of implemented additional functionality in Axapta and customer data, it includes more than 15 upgrades to Axapta 4 and more than 7 upgrades to version 2009.</p>
+            <p>The company is located in Belarus, Minsk and its staff consists of 12 professional Microsoft Dynamics AX developers.</p>
+        </div>
+    }
     <footer>
         <p class="pull-right">&copy; @DateTime.Now.Year - DAX Service</p>
     </footer>
 
-    @*<footer>
-        <p class="pull-right"><a href="#">Back to top</a></p>
-        <p>&copy; 2014 Company, Inc. &middot; <a href="#">Privacy</a> &middot; <a href="#">Terms</a></p>
-    </footer>*@
-    </div>
-@*</div>*@
-
-
+</div>
