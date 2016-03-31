@@ -179,6 +179,11 @@
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
+    <Content Include="img\about_us.jpg" />
+    <Content Include="img\reference.png" />
+    <Content Include="img\references.jpg" />
+    <Content Include="img\services.jpg" />
+    <Content Include="img\team.png" />
     <Content Include="js\bootstrap.js" />
     <Content Include="js\bootstrap.min.js" />
     <Content Include="Web.config" />
