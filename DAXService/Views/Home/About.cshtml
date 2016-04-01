@@ -3,7 +3,7 @@
 }
 
 @{
-    var language = ViewBag.Language ?? "EN";
+    var language = DAXService.ActionFilters.CultureAttribute.GetSavedCultureOrDefault(new HttpRequestWrapper(HttpContext.Current.Request));
 }
 
 <div class="featurette-divider"></div>

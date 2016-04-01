@@ -1,4 +1,5 @@
-﻿using System.Web;
+﻿using DAXService.ActionFilters;
+using System.Web;
 using System.Web.Mvc;
 
 namespace DAXService
@@ -8,6 +9,7 @@ namespace DAXService
         public static void RegisterGlobalFilters(GlobalFilterCollection filters)
         {
             filters.Add(new HandleErrorAttribute());
+            filters.Add(new CultureAttribute());
         }
     }
 }

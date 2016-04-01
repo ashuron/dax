@@ -40,11 +40,15 @@
                             <li><a href="about">About us</a></li>
                             <li><a href="#contact">Contact</a></li>
                             <li class="dropdown">
-                                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Dropdown <b class="caret"></b></a>
+                                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Language<b class="caret"></b></a>
                                 <ul class="dropdown-menu">
-                                    <li><a href="ChangeLanguageEN">EN</a></li>
+                                    <li>@Html.ActionLink("English", "Set", "Language", new { lang = "EN" }, null)</li>
+                                    <li>@Html.ActionLink("Deutsch", "Set", "Language", new { lang = "DE" }, null)</li>
+                                    <li>@Html.ActionLink("Русский", "Set", "Language", new { lang = "RU" }, null)</li>
+
+                                    @*<li><a href="ChangeLanguageEN">EN</a></li>
                                     <li><a href="ChangeLanguageDE">DE</a></li>
-                                    <li><a href="ChangeLanguageRU">RU</a></li>
+                                    <li><a href="ChangeLanguageRU">RU</a></li>*@
                                 </ul>
                             </li>
                         </ul>
