@@ -117,10 +117,31 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="about" xml:space="preserve">
+  <data name="about1" xml:space="preserve">
     <value>О нас</value>
   </data>
+  <data name="companyEmployeesImplemented" xml:space="preserve">
+    <value>Сотрудниками компании выполнено более 150 000 часов разрабоки в Microsoft Dynamics AX версий 2.1 – 2012 и реализованно более 150 успешных проектов;</value>
+  </data>
   <data name="companyMission" xml:space="preserve">
-    <value>Хехехехехе</value>
+    <value>Миссия компании: профессиональный консалтинг и разработка в Microsoft Dynamics AX.</value>
+  </data>
+  <data name="greatExperienceInAX" xml:space="preserve">
+    <value>Огромный опыт в проектах по миграции между версиями Axapta , реализованного в ней дополнительного функционала и данных клиента, в частности, более 15-ти миграций в Axapta 4, 15 в версию 2009 и 10 в версию 2012.</value>
+  </data>
+  <data name="greatExperienceInRemote" xml:space="preserve">
+    <value>Огромный навык удаленной работы;</value>
+  </data>
+  <data name="greatInternationalExperience" xml:space="preserve">
+    <value>Большой международный опыт, что позволяет использовать успешные идеи из проектов в других странах;</value>
+  </data>
+  <data name="stableStaff" xml:space="preserve">
+    <value>Стабильный коллектив;</value>
+  </data>
+  <data name="theCompanyIsLocated" xml:space="preserve">
+    <value>Компания расположена в Беларуси, г. Минск и включает 12 профессиональных разработчиков в Microsoft Dynamics AX.</value>
+  </data>
+  <data name="theMainFeatures" xml:space="preserve">
+    <value>Отличительные черты нашей компании:</value>
   </data>
 </root>

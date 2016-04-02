@@ -120,7 +120,28 @@
   <data name="about" xml:space="preserve">
     <value>About us</value>
   </data>
+  <data name="companyEmployeesImplemented" xml:space="preserve">
+    <value>Company employees implemented more than 150 000 hours of development in Microsoft Dynamics AX version 2.1 – 2012 and more than 150 successful projects;</value>
+  </data>
   <data name="companyMission" xml:space="preserve">
     <value>We consider the company mission in providing professional consulting and development in Microsoft Dynamics AX.</value>
+  </data>
+  <data name="greatExperienceInAX" xml:space="preserve">
+    <value>Great experience in Axapta versions upgrade projects, upgrade of implemented additional functionality in Axapta and customer data, it includes more than 15 upgrades to Axapta 4, more than 15 upgrades to version 2009 and over 10 upgrades to version 2012.</value>
+  </data>
+  <data name="greatExperienceInRemote" xml:space="preserve">
+    <value>Great experience in remote work;</value>
+  </data>
+  <data name="greatInternationalExperience" xml:space="preserve">
+    <value>Great international experience, which makes it possible to reuse successful ideas of other projects made in different countries;</value>
+  </data>
+  <data name="stableStaff" xml:space="preserve">
+    <value>Stable staff;</value>
+  </data>
+  <data name="theCompanyIsLocated" xml:space="preserve">
+    <value>The company is located in Belarus, Minsk and its staff consists of 12 professional Microsoft Dynamics AX and CRM developers.</value>
+  </data>
+  <data name="theMainFeatures" xml:space="preserve">
+    <value>The main features of our company are as follows:</value>
   </data>
 </root>

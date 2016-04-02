@@ -118,9 +118,30 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="about" xml:space="preserve">
-    <value>Ueber uns</value>
+    <value>Über uns</value>
+  </data>
+  <data name="companyEmployeesImplemented" xml:space="preserve">
+    <value>Unsere MitarbeiterInnen haben mehr als 150 000 Entwicklungsstunden in Microsoft Dynamics AX Version 2.1 – 2012 geleistet und mehr als 150 erfolgreiche Projekte abgewickelt;</value>
   </data>
   <data name="companyMission" xml:space="preserve">
-    <value>Tralalalalalalal</value>
+    <value>Mission des Unternehmens: professionelles Consulting und Entwicklung in Microsoft Dynamics AX.</value>
+  </data>
+  <data name="greatExperienceInAX" xml:space="preserve">
+    <value>Unser Unternehmen hat viel Erfahrung in den Projekten in Migration zwischen Axapta Versionen, insbesondere mehr als 15 Migrationen von Axapta 3.x auf Axapta 4.x, mehr als 15 Migrationen von Axapta auf Microsoft Dynamics AX 2009 und mehr als 10 Migrationen auf Version 2012;</value>
+  </data>
+  <data name="greatExperienceInRemote" xml:space="preserve">
+    <value>Wir haben viel Erfahrung in der Remote Entwicklung;</value>
+  </data>
+  <data name="greatInternationalExperience" xml:space="preserve">
+    <value>Wir verfügen über reiche internationale Erfahrung, und das hilft uns erfolgreiche Ideen aus den Projekten in anderen Ländern zu benutzen;</value>
+  </data>
+  <data name="stableStaff" xml:space="preserve">
+    <value>Wir sind ein eingespieltes Team;</value>
+  </data>
+  <data name="theCompanyIsLocated" xml:space="preserve">
+    <value>Das Unternehmen befindet sich in Minsk, Weißrussland. Das Team besteht aus 12 professionellen Software-EntwicklerInnen in Microsoft Dynamics AX.</value>
+  </data>
+  <data name="theMainFeatures" xml:space="preserve">
+    <value>Unser Team zeichnet sich durch folgende Leistungen aus:</value>
   </data>
 </root>

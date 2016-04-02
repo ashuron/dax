@@ -70,11 +70,74 @@ namespace Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Company employees implemented more than 150 000 hours of development in Microsoft Dynamics AX version 2.1 – 2012 and more than 150 successful projects;.
+        /// </summary>
+        internal static string companyEmployeesImplemented {
+            get {
+                return ResourceManager.GetString("companyEmployeesImplemented", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to We consider the company mission in providing professional consulting and development in Microsoft Dynamics AX..
         /// </summary>
         internal static string companyMission {
             get {
                 return ResourceManager.GetString("companyMission", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Great experience in Axapta versions upgrade projects, upgrade of implemented additional functionality in Axapta and customer data, it includes more than 15 upgrades to Axapta 4, more than 15 upgrades to version 2009 and over 10 upgrades to version 2012..
+        /// </summary>
+        internal static string greatExperienceInAX {
+            get {
+                return ResourceManager.GetString("greatExperienceInAX", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Great experience in remote work;.
+        /// </summary>
+        internal static string greatExperienceInRemote {
+            get {
+                return ResourceManager.GetString("greatExperienceInRemote", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Great international experience, which makes it possible to reuse successful ideas of other projects made in different countries;.
+        /// </summary>
+        internal static string greatInternationalExperience {
+            get {
+                return ResourceManager.GetString("greatInternationalExperience", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Stable staff;.
+        /// </summary>
+        internal static string stableStaff {
+            get {
+                return ResourceManager.GetString("stableStaff", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to The company is located in Belarus, Minsk and its staff consists of 12 professional Microsoft Dynamics AX and CRM developers..
+        /// </summary>
+        internal static string theCompanyIsLocated {
+            get {
+                return ResourceManager.GetString("theCompanyIsLocated", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to The main features of our company are as follows:.
+        /// </summary>
+        internal static string theMainFeatures {
+            get {
+                return ResourceManager.GetString("theMainFeatures", resourceCulture);
             }
         }
     }
