@@ -1,0 +1,34 @@
+﻿@{
+    ViewBag.Title = @Resources.Home.references;
+}
+
+<div class="featurette-divider"></div>
+
+<div class="container">
+    <div class="text-justify">
+        <h2>@Resources.Home.references</h2>
+        <p>@Resources.Home.theCompanySpecializes</p>
+    </div>
+
+    <div class="row">
+        <div class="col-xs-3"><strong>@Resources.Home.mainCustomers</strong></div>
+        <div class="col-xs-9"><strong>@Resources.Home.fieldsOfAutomation</strong></div>
+    </div>
+    <div class="row">
+        <div class="col-xs-3">Alfapeople</div>
+        <div class="col-xs-9">@Resources.Home.alfapeopleFields</div>
+    </div>
+    <div class="row">
+        <div class="col-xs-3">Viseo</div>
+        <div class="col-xs-9">@Resources.Home.viseoFields</div>
+    </div>
+    <div class="row">
+        <div class="col-xs-3">Lanit</div>
+        <div class="col-xs-9">@Resources.Home.lanitFields</div>
+    </div>
+
+    <footer>
+        <p class="pull-right">&copy; @DateTime.Now.Year - DAX Service</p>
+    </footer>
+
+</div>

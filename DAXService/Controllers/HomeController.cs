@@ -18,7 +18,21 @@ namespace DAXService.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "About page";
+            ViewBag.Message = @Resources.Home.about;
+
+            return View();
+        }
+
+        public ActionResult Services()
+        {
+            ViewBag.Message = @Resources.Home.services;
+
+            return View();
+        }
+
+        public ActionResult References()
+        {
+            ViewBag.Message = @Resources.Home.references;
 
             return View();
         }
@@ -30,30 +44,5 @@ namespace DAXService.Controllers
             return View();
         }
 
-        /*public ActionResult ChangeLanguageDE()
-        {
-            CultureAttribute.SavePreferredCulture(HttpContext.Response, "DE");
-
-            return View("Index");
-        }*/
-
-/*        public string getLanguage(HttpRequestBase httpRequestBase)
-        {
-            return CultureAttribute.GetSavedCultureOrDefault(httpRequestBase);
-        }*/
-        /*
-        public ActionResult ChangeLanguageEN()
-        {
-            CultureAttribute.SavePreferredCulture(HttpContext.Response, "EN");
-
-            return View("Index");
-        }
-
-        public ActionResult ChangeLanguageRU()
-        {
-            CultureAttribute.SavePreferredCulture(HttpContext.Response, "RU");
-
-            return View("Index");
-        }*/
     }
 }

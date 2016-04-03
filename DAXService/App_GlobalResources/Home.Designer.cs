@@ -70,6 +70,69 @@ namespace Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Dipl. Eng. Andrew Kuzmich.
+        /// </summary>
+        internal static string AKU {
+            get {
+                return ResourceManager.GetString("AKU", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Higher technical education, works with Microsoft Dynamics AX since 2000, participated in development and support of standard Axapta module “Cost accounting”. Axapta Certified Master since 2004..
+        /// </summary>
+        internal static string AKUDescr {
+            get {
+                return ResourceManager.GetString("AKUDescr", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Ph.D. Alexander Agranovich.
+        /// </summary>
+        internal static string ALA {
+            get {
+                return ResourceManager.GetString("ALA", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Higher technical education, works in Microsoft Dynamics AX since 2006. Axapta Certified Professional and Microsoft SQL Server Certified Professional since 2006..
+        /// </summary>
+        internal static string ALADescr {
+            get {
+                return ResourceManager.GetString("ALADescr", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Chemical industry, production, wholesale, document workflow management, engineering industry, electricity supply, light and heavy industry.
+        /// </summary>
+        internal static string alfapeopleFields {
+            get {
+                return ResourceManager.GetString("alfapeopleFields", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Dipl.Eng. Andrew Yaroslavtsev.
+        /// </summary>
+        internal static string ANY {
+            get {
+                return ResourceManager.GetString("ANY", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Higher technical education, higher economic education, works as above in Microsoft Dynamics AX since 2000. Axapta Certified Professional since 2004..
+        /// </summary>
+        internal static string ANYDescr {
+            get {
+                return ResourceManager.GetString("ANYDescr", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Company employees implemented more than 150 000 hours of development in Microsoft Dynamics AX version 2.1 – 2012 and more than 150 successful projects;.
         /// </summary>
         internal static string companyEmployeesImplemented {
@@ -84,6 +147,60 @@ namespace Resources {
         internal static string companyMission {
             get {
                 return ResourceManager.GetString("companyMission", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Completed projects appraisal;.
+        /// </summary>
+        internal static string completeAppraisal {
+            get {
+                return ResourceManager.GetString("completeAppraisal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to DAX Service.
+        /// </summary>
+        internal static string DAXService {
+            get {
+                return ResourceManager.GetString("DAXService", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Ph.D. Dmitri Stepanov.
+        /// </summary>
+        internal static string DMS {
+            get {
+                return ResourceManager.GetString("DMS", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Higher technical education, works with Microsoft Dynamics AX and Concorde XAL since 1999. Axapta Certified Master since 2004..
+        /// </summary>
+        internal static string DMSDescr {
+            get {
+                return ResourceManager.GetString("DMSDescr", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Economic and technical consulting, projects architecture;.
+        /// </summary>
+        internal static string ecoTechConsulting {
+            get {
+                return ResourceManager.GetString("ecoTechConsulting", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Fields of automation.
+        /// </summary>
+        internal static string fieldsOfAutomation {
+            get {
+                return ResourceManager.GetString("fieldsOfAutomation", resourceCulture);
             }
         }
         
@@ -115,6 +232,60 @@ namespace Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Wholesale, banking, food industry.
+        /// </summary>
+        internal static string lanitFields {
+            get {
+                return ResourceManager.GetString("lanitFields", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Main customers.
+        /// </summary>
+        internal static string mainCustomers {
+            get {
+                return ResourceManager.GetString("mainCustomers", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Optimization of system performance.
+        /// </summary>
+        internal static string optimPerformance {
+            get {
+                return ResourceManager.GetString("optimPerformance", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to References.
+        /// </summary>
+        internal static string references {
+            get {
+                return ResourceManager.GetString("references", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Remote Microsoft Dynamics AX and CRM development;.
+        /// </summary>
+        internal static string remoteAXandCRMDev {
+            get {
+                return ResourceManager.GetString("remoteAXandCRMDev", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Services.
+        /// </summary>
+        internal static string services {
+            get {
+                return ResourceManager.GetString("services", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Stable staff;.
         /// </summary>
         internal static string stableStaff {
@@ -133,11 +304,65 @@ namespace Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to The company specializes in providing Microsoft Dynamics AX and CRM development, deployment, and modification services in West-European countries (France, Germany, Switzerland, Sweden, United Kingdom), USA and Russia.
+        /// </summary>
+        internal static string theCompanySpecializes {
+            get {
+                return ResourceManager.GetString("theCompanySpecializes", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to The company Dynamics AX-Service Ltd. was founded in 2009 by four partners, each of whom had had seven years experience in a Microsoft Dynamics AX development team at that point in time..
+        /// </summary>
+        internal static string theCompanyWasFounded {
+            get {
+                return ResourceManager.GetString("theCompanyWasFounded", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to The main activity of the company is remote Microsoft Dynamics AX and CRM development.
+        /// </summary>
+        internal static string theMainActivity {
+            get {
+                return ResourceManager.GetString("theMainActivity", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to The main features of our company are as follows:.
         /// </summary>
         internal static string theMainFeatures {
             get {
                 return ResourceManager.GetString("theMainFeatures", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to The partners are.
+        /// </summary>
+        internal static string thePartnersAre {
+            get {
+                return ResourceManager.GetString("thePartnersAre", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Upgrade to version 3.X, 4.X, 2009 and 2012;.
+        /// </summary>
+        internal static string upgradeAX {
+            get {
+                return ResourceManager.GetString("upgradeAX", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Wholesale of food and computer goods.
+        /// </summary>
+        internal static string viseoFields {
+            get {
+                return ResourceManager.GetString("viseoFields", resourceCulture);
             }
         }
     }

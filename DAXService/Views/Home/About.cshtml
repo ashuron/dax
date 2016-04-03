@@ -2,15 +2,19 @@
     ViewBag.Title = @Resources.Home.about;
 }
 
-@{
-    var language = DAXService.ActionFilters.CultureAttribute.GetSavedCultureOrDefault(new HttpRequestWrapper(HttpContext.Current.Request));
-}
-
 <div class="featurette-divider"></div>
 
 <div class="container">
     <div class="text-justify">
         <h2>@Resources.Home.about</h2>
+        <p>@Resources.Home.theCompanyWasFounded</p>
+        <p>@Resources.Home.thePartnersAre:</p>
+        <ul>
+            <li><strong>@Resources.Home.AKU</strong> - @Resources.Home.AKUDescr</li>
+            <li><strong>@Resources.Home.DMS</strong> - @Resources.Home.DMSDescr</li>
+            <li><strong>@Resources.Home.ALA</strong> - @Resources.Home.ALADescr</li>
+            <li><strong>@Resources.Home.ANY</strong> - @Resources.Home.DMSDescr</li>
+        </ul>
         <p>@Resources.Home.companyMission</p>
         <p>@Resources.Home.theMainFeatures</p>
         <ul>
