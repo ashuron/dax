@@ -240,4 +240,7 @@
   <data name="sendEmail" xml:space="preserve">
     <value>Please send e-mails to</value>
   </data>
+  <data name="readMore" xml:space="preserve">
+    <value>More</value>
+  </data>
 </root>
