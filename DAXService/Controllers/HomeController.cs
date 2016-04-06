@@ -39,7 +39,7 @@ namespace DAXService.Controllers
 
         public ActionResult Contact()
         {
-            ViewBag.Message = "Contact page";
+            ViewBag.Message = @Resources.Home.contact;
 
             return View();
         }

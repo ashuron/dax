@@ -1,17 +1,23 @@
 ﻿@{
-    ViewBag.Title = "Contact";
+    ViewBag.Title = @Resources.Home.contact;
 }
-<h2>@ViewBag.Title.</h2>
-<h3>@ViewBag.Message</h3>
 
-<address>
-    One Microsoft Way<br />
-    Redmond, WA 98052-6399<br />
-    <abbr title="Phone">P:</abbr>
-    425.555.0100
-</address>
+<div class="featurette-divider"></div>
 
-<address>
-    <strong>Support:</strong>   <a href="mailto:Support@example.com">Support@example.com</a><br />
-    <strong>Marketing:</strong> <a href="mailto:Marketing@example.com">Marketing@example.com</a>
-</address>
+<div class="container">
+
+    <h2>@ViewBag.Title</h2>
+
+    <address>
+        @Resources.Home.address1<br />
+        @Resources.Home.address2<br />
+        @*DAX-Service Ltd.<br />
+            Minsk, Belarus, 220000<br />*@
+        <abbr title="@Resources.Home.phoneHelp">@Resources.Home.phoneAbbr:</abbr>
+        +375-29-3478546
+    </address>
+
+    <address>
+        @Resources.Home.sendEmail: <a href="mailto:welcome@dax-service.com">welcome@dax-service.com</a><br />
+    </address>
+</div>

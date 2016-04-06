@@ -219,4 +219,25 @@
   <data name="viseoFields" xml:space="preserve">
     <value>Оптовая торговля пищевыми и компьютерными товарами</value>
   </data>
+  <data name="address" xml:space="preserve">
+    <value>ООО "Динамикс-Акс Сервис"</value>
+  </data>
+  <data name="address2" xml:space="preserve">
+    <value>Минск, Республика Беларусь, 220000</value>
+  </data>
+  <data name="contact" xml:space="preserve">
+    <value>Контакт</value>
+  </data>
+  <data name="language" xml:space="preserve">
+    <value>Язык</value>
+  </data>
+  <data name="phoneAbbr" xml:space="preserve">
+    <value>Тел</value>
+  </data>
+  <data name="phoneHelp" xml:space="preserve">
+    <value>Телефон</value>
+  </data>
+  <data name="sendEmail" xml:space="preserve">
+    <value>Ждем Ваших сообщений на адрес электронной почты</value>
+  </data>
 </root>

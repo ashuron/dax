@@ -70,6 +70,24 @@ namespace Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to DAX-Service Ltd..
+        /// </summary>
+        internal static string address1 {
+            get {
+                return ResourceManager.GetString("address1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Minsk, Belarus, 220000.
+        /// </summary>
+        internal static string address2 {
+            get {
+                return ResourceManager.GetString("address2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Dipl. Eng. Andrew Kuzmich.
         /// </summary>
         internal static string AKU {
@@ -160,6 +178,15 @@ namespace Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Contact.
+        /// </summary>
+        internal static string contact {
+            get {
+                return ResourceManager.GetString("contact", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to DAX Service.
         /// </summary>
         internal static string DAXService {
@@ -232,6 +259,15 @@ namespace Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Language.
+        /// </summary>
+        internal static string language {
+            get {
+                return ResourceManager.GetString("language", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Wholesale, banking, food industry.
         /// </summary>
         internal static string lanitFields {
@@ -259,6 +295,24 @@ namespace Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to P.
+        /// </summary>
+        internal static string phoneAbbr {
+            get {
+                return ResourceManager.GetString("phoneAbbr", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Phone.
+        /// </summary>
+        internal static string phoneHelp {
+            get {
+                return ResourceManager.GetString("phoneHelp", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to References.
         /// </summary>
         internal static string references {
@@ -273,6 +327,15 @@ namespace Resources {
         internal static string remoteAXandCRMDev {
             get {
                 return ResourceManager.GetString("remoteAXandCRMDev", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Please send e-mails to.
+        /// </summary>
+        internal static string sendEmail {
+            get {
+                return ResourceManager.GetString("sendEmail", resourceCulture);
             }
         }
         

@@ -219,4 +219,25 @@
   <data name="viseoFields" xml:space="preserve">
     <value>Wholesale of food and computer goods</value>
   </data>
+  <data name="address1" xml:space="preserve">
+    <value>DAX-Service Ltd.</value>
+  </data>
+  <data name="address2" xml:space="preserve">
+    <value>Minsk, Belarus, 220000</value>
+  </data>
+  <data name="contact" xml:space="preserve">
+    <value>Contact</value>
+  </data>
+  <data name="language" xml:space="preserve">
+    <value>Language</value>
+  </data>
+  <data name="phoneAbbr" xml:space="preserve">
+    <value>P</value>
+  </data>
+  <data name="phoneHelp" xml:space="preserve">
+    <value>Phone</value>
+  </data>
+  <data name="sendEmail" xml:space="preserve">
+    <value>Please send e-mails to</value>
+  </data>
 </root>

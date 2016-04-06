@@ -219,4 +219,25 @@
   <data name="viseoFields" xml:space="preserve">
     <value>Großhandel mit Lebensmitteln und Computerwaren</value>
   </data>
+  <data name="address" xml:space="preserve">
+    <value>DAX-Service Ltd.</value>
+  </data>
+  <data name="address2" xml:space="preserve">
+    <value>Minsk, Belarus, 220000</value>
+  </data>
+  <data name="contact" xml:space="preserve">
+    <value>Kontakt</value>
+  </data>
+  <data name="language" xml:space="preserve">
+    <value>Sprache</value>
+  </data>
+  <data name="phoneAbbr" xml:space="preserve">
+    <value>T</value>
+  </data>
+  <data name="phoneHelp" xml:space="preserve">
+    <value>Telefon</value>
+  </data>
+  <data name="sendEmail" xml:space="preserve">
+    <value>Senden Sie bitte eine E-Mail an</value>
+  </data>
 </root>
