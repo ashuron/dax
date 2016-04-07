@@ -97,7 +97,7 @@ namespace Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Higher technical education, works with Microsoft Dynamics AX since 2000, participated in development and support of standard Axapta module “Cost accounting”. Axapta Certified Master since 2004..
+        ///   Looks up a localized string similar to Higher technical education, works with Microsoft Dynamics AX since 2000, participated in development and support of standard Axapta module “Cost accounting”. Axapta Certified Master since 2004.
         /// </summary>
         internal static string AKUDescr {
             get {
@@ -115,7 +115,7 @@ namespace Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Higher technical education, works in Microsoft Dynamics AX since 2006. Axapta Certified Professional and Microsoft SQL Server Certified Professional since 2006..
+        ///   Looks up a localized string similar to Higher technical education, works in Microsoft Dynamics AX since 2006. Axapta Certified Professional and Microsoft SQL Server Certified Professional since 2006.
         /// </summary>
         internal static string ALADescr {
             get {
@@ -142,7 +142,7 @@ namespace Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Higher technical education, higher economic education, works as above in Microsoft Dynamics AX since 2000. Axapta Certified Professional since 2004..
+        ///   Looks up a localized string similar to Higher technical education, higher economic education, works as above in Microsoft Dynamics AX since 2000. Axapta Certified Professional since 2004.
         /// </summary>
         internal static string ANYDescr {
             get {
@@ -151,7 +151,7 @@ namespace Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Company employees implemented more than 150 000 hours of development in Microsoft Dynamics AX version 2.1 – 2012 and more than 150 successful projects;.
+        ///   Looks up a localized string similar to Company employees implemented more than 150 000 hours of development in Microsoft Dynamics AX version 2.1 – 2012 and more than 150 successful projects.
         /// </summary>
         internal static string companyEmployeesImplemented {
             get {
@@ -160,7 +160,7 @@ namespace Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to We consider the company mission in providing professional consulting and development in Microsoft Dynamics AX..
+        ///   Looks up a localized string similar to We consider the company mission in providing professional consulting and development in Microsoft Dynamics AX.
         /// </summary>
         internal static string companyMission {
             get {
@@ -169,7 +169,7 @@ namespace Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Completed projects appraisal;.
+        ///   Looks up a localized string similar to Completed projects appraisal.
         /// </summary>
         internal static string completeAppraisal {
             get {
@@ -205,7 +205,7 @@ namespace Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Higher technical education, works with Microsoft Dynamics AX and Concorde XAL since 1999. Axapta Certified Master since 2004..
+        ///   Looks up a localized string similar to Higher technical education, works with Microsoft Dynamics AX and Concorde XAL since 1999. Axapta Certified Master since 2004.
         /// </summary>
         internal static string DMSDescr {
             get {
@@ -214,7 +214,7 @@ namespace Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Economic and technical consulting, projects architecture;.
+        ///   Looks up a localized string similar to Economic and technical consulting, projects architecture.
         /// </summary>
         internal static string ecoTechConsulting {
             get {
@@ -232,7 +232,7 @@ namespace Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Great experience in Axapta versions upgrade projects, upgrade of implemented additional functionality in Axapta and customer data, it includes more than 15 upgrades to Axapta 4, more than 15 upgrades to version 2009 and over 10 upgrades to version 2012..
+        ///   Looks up a localized string similar to Great experience in Axapta versions upgrade projects, upgrade of implemented additional functionality in Axapta and customer data, it includes more than 15 upgrades to Axapta 4, more than 15 upgrades to version 2009 and over 10 upgrades to version 2012.
         /// </summary>
         internal static string greatExperienceInAX {
             get {
@@ -241,7 +241,7 @@ namespace Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Great experience in remote work;.
+        ///   Looks up a localized string similar to Great experience in remote work.
         /// </summary>
         internal static string greatExperienceInRemote {
             get {
@@ -250,11 +250,20 @@ namespace Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Great international experience, which makes it possible to reuse successful ideas of other projects made in different countries;.
+        ///   Looks up a localized string similar to Great international experience, which makes it possible to reuse successful ideas of other projects made in different countries.
         /// </summary>
         internal static string greatInternationalExperience {
             get {
                 return ResourceManager.GetString("greatInternationalExperience", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Design, implementation and support of ERP and CRM systems integration using MS Dynamics Connector, Scribe or custom solutions.
+        /// </summary>
+        internal static string integration {
+            get {
+                return ResourceManager.GetString("integration", resourceCulture);
             }
         }
         
@@ -331,11 +340,20 @@ namespace Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Remote Microsoft Dynamics AX and CRM development;.
+        ///   Looks up a localized string similar to Remote Microsoft Dynamics AX development.
         /// </summary>
-        internal static string remoteAXandCRMDev {
+        internal static string remoteAXDev {
             get {
-                return ResourceManager.GetString("remoteAXandCRMDev", resourceCulture);
+                return ResourceManager.GetString("remoteAXDev", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Remote Microsoft Dynamics CRM Development.
+        /// </summary>
+        internal static string remoteCRMDev {
+            get {
+                return ResourceManager.GetString("remoteCRMDev", resourceCulture);
             }
         }
         
@@ -358,7 +376,7 @@ namespace Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Stable staff;.
+        ///   Looks up a localized string similar to Stable staff.
         /// </summary>
         internal static string stableStaff {
             get {
@@ -367,7 +385,7 @@ namespace Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to The company is located in Belarus, Minsk and its staff consists of 12 professional Microsoft Dynamics AX and CRM developers..
+        ///   Looks up a localized string similar to The company is located in Belarus, Minsk and its staff consists of 12 professional Microsoft Dynamics AX and CRM developers.
         /// </summary>
         internal static string theCompanyIsLocated {
             get {
@@ -385,7 +403,7 @@ namespace Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to The company Dynamics AX-Service Ltd. was founded in 2009 by four partners, each of whom had had seven years experience in a Microsoft Dynamics AX development team at that point in time..
+        ///   Looks up a localized string similar to The company Dynamics AX-Service Ltd. was founded in 2009 by four partners, each of whom had had seven years experience in a Microsoft Dynamics AX development team at that point in time.
         /// </summary>
         internal static string theCompanyWasFounded {
             get {
@@ -403,7 +421,7 @@ namespace Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to The main features of our company are as follows:.
+        ///   Looks up a localized string similar to The main features of our company are as follows.
         /// </summary>
         internal static string theMainFeatures {
             get {
@@ -421,11 +439,29 @@ namespace Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Upgrade to version 3.X, 4.X, 2009 and 2012;.
+        ///   Looks up a localized string similar to Microsoft Dynamics AX upgrade to versions 3.X, 4.X, 2009 and 2012.
         /// </summary>
         internal static string upgradeAX {
             get {
                 return ResourceManager.GetString("upgradeAX", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Microsoft Dynamics CRM upgrade to versions 2011, 2013, 2015 (online or on-premise).
+        /// </summary>
+        internal static string upgradeCRM {
+            get {
+                return ResourceManager.GetString("upgradeCRM", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to View details.
+        /// </summary>
+        internal static string viewDetails {
+            get {
+                return ResourceManager.GetString("viewDetails", resourceCulture);
             }
         }
         

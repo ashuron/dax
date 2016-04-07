@@ -124,13 +124,13 @@
     <value>Dipl. Eng. Andrew Kuzmich</value>
   </data>
   <data name="AKUDescr" xml:space="preserve">
-    <value>Higher technical education, works with Microsoft Dynamics AX since 2000, participated in development and support of standard Axapta module “Cost accounting”. Axapta Certified Master since 2004.</value>
+    <value>Higher technical education, works with Microsoft Dynamics AX since 2000, participated in development and support of standard Axapta module “Cost accounting”. Axapta Certified Master since 2004</value>
   </data>
   <data name="ALA" xml:space="preserve">
     <value>Ph.D. Alexander Agranovich</value>
   </data>
   <data name="ALADescr" xml:space="preserve">
-    <value>Higher technical education, works in Microsoft Dynamics AX since 2006. Axapta Certified Professional and Microsoft SQL Server Certified Professional since 2006.</value>
+    <value>Higher technical education, works in Microsoft Dynamics AX since 2006. Axapta Certified Professional and Microsoft SQL Server Certified Professional since 2006</value>
   </data>
   <data name="alfapeopleFields" xml:space="preserve">
     <value>Chemical industry, production, wholesale, document workflow management, engineering industry, electricity supply, light and heavy industry</value>
@@ -139,16 +139,16 @@
     <value>Dipl.Eng. Andrew Yaroslavtsev</value>
   </data>
   <data name="ANYDescr" xml:space="preserve">
-    <value>Higher technical education, higher economic education, works as above in Microsoft Dynamics AX since 2000. Axapta Certified Professional since 2004.</value>
+    <value>Higher technical education, higher economic education, works as above in Microsoft Dynamics AX since 2000. Axapta Certified Professional since 2004</value>
   </data>
   <data name="companyEmployeesImplemented" xml:space="preserve">
-    <value>Company employees implemented more than 150 000 hours of development in Microsoft Dynamics AX version 2.1 – 2012 and more than 150 successful projects;</value>
+    <value>Company employees implemented more than 150 000 hours of development in Microsoft Dynamics AX version 2.1 – 2012 and more than 150 successful projects</value>
   </data>
   <data name="companyMission" xml:space="preserve">
-    <value>We consider the company mission in providing professional consulting and development in Microsoft Dynamics AX.</value>
+    <value>We consider the company mission in providing professional consulting and development in Microsoft Dynamics AX</value>
   </data>
   <data name="completeAppraisal" xml:space="preserve">
-    <value>Completed projects appraisal;</value>
+    <value>Completed projects appraisal</value>
   </data>
   <data name="DAXService" xml:space="preserve">
     <value>DAX Service</value>
@@ -157,22 +157,22 @@
     <value>Ph.D. Dmitri Stepanov</value>
   </data>
   <data name="DMSDescr" xml:space="preserve">
-    <value>Higher technical education, works with Microsoft Dynamics AX and Concorde XAL since 1999. Axapta Certified Master since 2004.</value>
+    <value>Higher technical education, works with Microsoft Dynamics AX and Concorde XAL since 1999. Axapta Certified Master since 2004</value>
   </data>
   <data name="ecoTechConsulting" xml:space="preserve">
-    <value>Economic and technical consulting, projects architecture;</value>
+    <value>Economic and technical consulting, projects architecture</value>
   </data>
   <data name="fieldsOfAutomation" xml:space="preserve">
     <value>Fields of automation</value>
   </data>
   <data name="greatExperienceInAX" xml:space="preserve">
-    <value>Great experience in Axapta versions upgrade projects, upgrade of implemented additional functionality in Axapta and customer data, it includes more than 15 upgrades to Axapta 4, more than 15 upgrades to version 2009 and over 10 upgrades to version 2012.</value>
+    <value>Great experience in Axapta versions upgrade projects, upgrade of implemented additional functionality in Axapta and customer data, it includes more than 15 upgrades to Axapta 4, more than 15 upgrades to version 2009 and over 10 upgrades to version 2012</value>
   </data>
   <data name="greatExperienceInRemote" xml:space="preserve">
-    <value>Great experience in remote work;</value>
+    <value>Great experience in remote work</value>
   </data>
   <data name="greatInternationalExperience" xml:space="preserve">
-    <value>Great international experience, which makes it possible to reuse successful ideas of other projects made in different countries;</value>
+    <value>Great international experience, which makes it possible to reuse successful ideas of other projects made in different countries</value>
   </data>
   <data name="lanitFields" xml:space="preserve">
     <value>Wholesale, banking, food industry</value>
@@ -186,35 +186,35 @@
   <data name="references" xml:space="preserve">
     <value>References</value>
   </data>
-  <data name="remoteAXandCRMDev" xml:space="preserve">
-    <value>Remote Microsoft Dynamics AX and CRM development;</value>
+  <data name="remoteAXDev" xml:space="preserve">
+    <value>Remote Microsoft Dynamics AX development</value>
   </data>
   <data name="services" xml:space="preserve">
     <value>Services</value>
   </data>
   <data name="stableStaff" xml:space="preserve">
-    <value>Stable staff;</value>
+    <value>Stable staff</value>
   </data>
   <data name="theCompanyIsLocated" xml:space="preserve">
-    <value>The company is located in Belarus, Minsk and its staff consists of 12 professional Microsoft Dynamics AX and CRM developers.</value>
+    <value>The company is located in Belarus, Minsk and its staff consists of 12 professional Microsoft Dynamics AX and CRM developers</value>
   </data>
   <data name="theCompanySpecializes" xml:space="preserve">
     <value>The company specializes in providing Microsoft Dynamics AX and CRM development, deployment, and modification services in West-European countries (France, Germany, Switzerland, Sweden, United Kingdom), USA and Russia</value>
   </data>
   <data name="theCompanyWasFounded" xml:space="preserve">
-    <value>The company Dynamics AX-Service Ltd. was founded in 2009 by four partners, each of whom had had seven years experience in a Microsoft Dynamics AX development team at that point in time.</value>
+    <value>The company Dynamics AX-Service Ltd. was founded in 2009 by four partners, each of whom had had seven years experience in a Microsoft Dynamics AX development team at that point in time</value>
   </data>
   <data name="theMainActivity" xml:space="preserve">
     <value>The main activity of the company is remote Microsoft Dynamics AX and CRM development</value>
   </data>
   <data name="theMainFeatures" xml:space="preserve">
-    <value>The main features of our company are as follows:</value>
+    <value>The main features of our company are as follows</value>
   </data>
   <data name="thePartnersAre" xml:space="preserve">
     <value>The partners are</value>
   </data>
   <data name="upgradeAX" xml:space="preserve">
-    <value>Upgrade to version 3.X, 4.X, 2009 and 2012;</value>
+    <value>Microsoft Dynamics AX upgrade to versions 3.X, 4.X, 2009 and 2012</value>
   </data>
   <data name="viseoFields" xml:space="preserve">
     <value>Wholesale of food and computer goods</value>
@@ -242,5 +242,17 @@
   </data>
   <data name="readMore" xml:space="preserve">
     <value>More</value>
+  </data>
+  <data name="integration" xml:space="preserve">
+    <value>Design, implementation and support of ERP and CRM systems integration using MS Dynamics Connector, Scribe or custom solutions</value>
+  </data>
+  <data name="remoteCRMDev" xml:space="preserve">
+    <value>Remote Microsoft Dynamics CRM Development</value>
+  </data>
+  <data name="viewDetails" xml:space="preserve">
+    <value>View details</value>
+  </data>
+  <data name="upgradeCRM" xml:space="preserve">
+    <value>Microsoft Dynamics CRM upgrade to versions 2011, 2013, 2015 (online or on-premise)</value>
   </data>
 </root>

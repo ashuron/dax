@@ -124,13 +124,13 @@
     <value>Кузьмич Андрей Владимирович</value>
   </data>
   <data name="AKUDescr" xml:space="preserve">
-    <value>высшее техническое образование, работа в Microsoft Dynamics AX c 2000 года, принимал участие в разработке и поддержке стандартного модуля Аксапты «Костинг», сертифицированный мастер по Microsoft Axapta c 2004 года;</value>
+    <value>высшее техническое образование, работа в Microsoft Dynamics AX c 2000 года, принимал участие в разработке и поддержке стандартного модуля Аксапты «Костинг», сертифицированный мастер по Microsoft Axapta c 2004 года</value>
   </data>
   <data name="ALA" xml:space="preserve">
     <value>Агранович Александр Александрович</value>
   </data>
   <data name="ALADescr" xml:space="preserve">
-    <value>кандидат технических наук, высшее техническое образование, работа в Microsoft Dynamics AX c 2006 года, сертифицированный профессионал по Microsoft Axapta и Microsoft SQL Server c 2006 года;</value>
+    <value>кандидат технических наук, высшее техническое образование, работа в Microsoft Dynamics AX c 2006 года, сертифицированный профессионал по Microsoft Axapta и Microsoft SQL Server c 2006 года</value>
   </data>
   <data name="alfapeopleFields" xml:space="preserve">
     <value>Химическая промышленность, производство, оптовая торговля, документооборот, машиностроение, электрообеспечение, легкая и тяжелая промышленность</value>
@@ -139,16 +139,16 @@
     <value>Ярославцев Андрей Анатольевич</value>
   </data>
   <data name="ANYDescr" xml:space="preserve">
-    <value>высшее техническое образование, высшее экономическое образование, работа в Microsoft Dynamics AX c 2000 года, сертифицированный профессионал по Microsoft Axapta c 2004 года.</value>
+    <value>высшее техническое образование, высшее экономическое образование, работа в Microsoft Dynamics AX c 2000 года, сертифицированный профессионал по Microsoft Axapta c 2004 года</value>
   </data>
   <data name="companyEmployeesImplemented" xml:space="preserve">
-    <value>Сотрудниками компании выполнено более 150 000 часов разрабоки в Microsoft Dynamics AX версий 2.1 – 2012 и реализованно более 150 успешных проектов;</value>
+    <value>Сотрудниками компании выполнено более 150 000 часов разрабоки в Microsoft Dynamics AX версий 2.1 – 2012 и реализованно более 150 успешных проектов</value>
   </data>
   <data name="companyMission" xml:space="preserve">
-    <value>Миссия компании: профессиональный консалтинг и разработка в Microsoft Dynamics AX.</value>
+    <value>Миссия компании: профессиональный консалтинг и разработка в Microsoft Dynamics AX</value>
   </data>
   <data name="completeAppraisal" xml:space="preserve">
-    <value>Экспертиза выполненных проектов;</value>
+    <value>Экспертиза выполненных проектов</value>
   </data>
   <data name="DAXService" xml:space="preserve">
     <value>DAX Service</value>
@@ -157,22 +157,22 @@
     <value>Степанов Дмитрий Александрович</value>
   </data>
   <data name="DMSDescr" xml:space="preserve">
-    <value>кандидат технических наук, высшее техническое образование, работа в Microsoft Dynamics AX и Concode XAL  c 1999 года, сертифицированный мастер по Microsoft Axapta c 2004 года;</value>
+    <value>кандидат технических наук, высшее техническое образование, работа в Microsoft Dynamics AX и Concode XAL  c 1999 года, сертифицированный мастер по Microsoft Axapta c 2004 года</value>
   </data>
   <data name="ecoTechConsulting" xml:space="preserve">
-    <value>Экономический и технический консалтинг, архитектура проектов;</value>
+    <value>Экономический и технический консалтинг, архитектура проектов</value>
   </data>
   <data name="fieldsOfAutomation" xml:space="preserve">
     <value>Области автоматизации</value>
   </data>
   <data name="greatExperienceInAX" xml:space="preserve">
-    <value>Огромный опыт в проектах по миграции между версиями Axapta , реализованного в ней дополнительного функционала и данных клиента, в частности, более 15-ти миграций в Axapta 4, 15 в версию 2009 и 10 в версию 2012.</value>
+    <value>Огромный опыт в проектах по миграции между версиями Axapta , реализованного в ней дополнительного функционала и данных клиента, в частности, более 15-ти миграций в Axapta 4, 15 в версию 2009 и 10 в версию 2012</value>
   </data>
   <data name="greatExperienceInRemote" xml:space="preserve">
-    <value>Огромный навык удаленной работы;</value>
+    <value>Огромный навык удаленной работы</value>
   </data>
   <data name="greatInternationalExperience" xml:space="preserve">
-    <value>Большой международный опыт, что позволяет использовать успешные идеи из проектов в других странах;</value>
+    <value>Большой международный опыт, что позволяет использовать успешные идеи из проектов в других странах</value>
   </data>
   <data name="lanitFields" xml:space="preserve">
     <value>Оптовая торговля, банковская деятельность, пищевая промышленность</value>
@@ -181,13 +181,13 @@
     <value>Основные заказчики</value>
   </data>
   <data name="optimPerformance" xml:space="preserve">
-    <value>Оптимизация производительности системы.</value>
+    <value>Оптимизация производительности системы</value>
   </data>
   <data name="references" xml:space="preserve">
     <value>Ссылки</value>
   </data>
-  <data name="remoteAXandCRMDev" xml:space="preserve">
-    <value>Удаленная разработка в Microsoft Dynamics AX и CRM;</value>
+  <data name="remoteAXDev" xml:space="preserve">
+    <value>Удаленная разработка в Microsoft Dynamics AX и CRM</value>
   </data>
   <data name="services" xml:space="preserve">
     <value>Услуги</value>
@@ -196,25 +196,25 @@
     <value>Стабильный коллектив;</value>
   </data>
   <data name="theCompanyIsLocated" xml:space="preserve">
-    <value>Компания расположена в Беларуси, г. Минск и включает 12 профессиональных разработчиков в Microsoft Dynamics AX.</value>
+    <value>Компания расположена в Беларуси, г. Минск и включает 12 профессиональных разработчиков в Microsoft Dynamics AX</value>
   </data>
   <data name="theCompanySpecializes" xml:space="preserve">
-    <value>Компания специализируется на предоставлении услуг по внедрению, доработке Microsoft Dynamics AX в странах Западной Европы (Франция, Германия, Швейцария, Швеция, Великобритания), США и России.</value>
+    <value>Компания специализируется на предоставлении услуг по внедрению, доработке Microsoft Dynamics AX в странах Западной Европы (Франция, Германия, Швейцария, Швеция, Великобритания), США и России</value>
   </data>
   <data name="theCompanyWasFounded" xml:space="preserve">
-    <value>Компания DAX создана в 2009 году 4 партнерами, имевшими к тому моменту семилетний опыт совместной работы в команде по разработкам в Microsoft Dynamics AХ.</value>
+    <value>Компания DAX создана в 2009 году 4 партнерами, имевшими к тому моменту семилетний опыт совместной работы в команде по разработкам в Microsoft Dynamics AХ</value>
   </data>
   <data name="theMainActivity" xml:space="preserve">
     <value>Основной вид деятельности компании: удаленная разработка в Miсrosoft Dynamics AХ и CRM</value>
   </data>
   <data name="theMainFeatures" xml:space="preserve">
-    <value>Отличительные черты нашей компании:</value>
+    <value>Отличительные черты нашей компании</value>
   </data>
   <data name="thePartnersAre" xml:space="preserve">
     <value>Партнеры</value>
   </data>
   <data name="upgradeAX" xml:space="preserve">
-    <value>Миграция в версии 3.X, 4.X, 2009 и 2012;</value>
+    <value>Миграция в версии 3.X, 4.X, 2009 и 2012</value>
   </data>
   <data name="viseoFields" xml:space="preserve">
     <value>Оптовая торговля пищевыми и компьютерными товарами</value>
@@ -242,5 +242,17 @@
   </data>
   <data name="readMore" xml:space="preserve">
     <value>Далее</value>
+  </data>
+  <data name="viewDetails" xml:space="preserve">
+    <value>Подробнее</value>
+  </data>
+  <data name="integration" xml:space="preserve">
+    <value>Design, implementation and support of ERP and CRM systems integration using MS Dynamics Connector, Scribe or custom solutions</value>
+  </data>
+  <data name="remoteCRMDev" xml:space="preserve">
+    <value>Remote Microsoft Dynamics CRM Development</value>
+  </data>
+  <data name="upgradeCRM" xml:space="preserve">
+    <value>Microsoft Dynamics CRM upgrade to versions 2011, 2013, 2015 (online or on-premise)</value>
   </data>
 </root>
