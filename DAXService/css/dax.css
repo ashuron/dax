@@ -10,6 +10,12 @@ body {
     vertical-align: middle;
 }
 
+.vcenter {
+    display: inline-block;
+    vertical-align: middle;
+    float: none;
+}
+
 /*.carousel-caption > h1{
     color:black;
 }

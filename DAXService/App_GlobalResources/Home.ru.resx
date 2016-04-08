@@ -132,8 +132,8 @@
   <data name="ALADescr" xml:space="preserve">
     <value>кандидат технических наук, высшее техническое образование, работа в Microsoft Dynamics AX c 2006 года, сертифицированный профессионал по Microsoft Axapta и Microsoft SQL Server c 2006 года</value>
   </data>
-  <data name="alfapeopleFields" xml:space="preserve">
-    <value>Химическая промышленность, производство, оптовая торговля, документооборот, машиностроение, электрообеспечение, легкая и тяжелая промышленность</value>
+  <data name="chemicalIndustry" xml:space="preserve">
+    <value>Химическая промышленность</value>
   </data>
   <data name="ANY" xml:space="preserve">
     <value>Ярославцев Андрей Анатольевич</value>
@@ -174,9 +174,6 @@
   <data name="greatInternationalExperience" xml:space="preserve">
     <value>Большой международный опыт, что позволяет использовать успешные идеи из проектов в других странах</value>
   </data>
-  <data name="lanitFields" xml:space="preserve">
-    <value>Оптовая торговля, банковская деятельность, пищевая промышленность</value>
-  </data>
   <data name="mainCustomers" xml:space="preserve">
     <value>Основные заказчики</value>
   </data>
@@ -216,10 +213,7 @@
   <data name="upgradeAX" xml:space="preserve">
     <value>Миграция в версии 3.X, 4.X, 2009 и 2012</value>
   </data>
-  <data name="viseoFields" xml:space="preserve">
-    <value>Оптовая торговля пищевыми и компьютерными товарами</value>
-  </data>
-  <data name="address" xml:space="preserve">
+  <data name="address1" xml:space="preserve">
     <value>ООО "Динамикс-Акс Сервис"</value>
   </data>
   <data name="address2" xml:space="preserve">
@@ -254,5 +248,53 @@
   </data>
   <data name="upgradeCRM" xml:space="preserve">
     <value>Microsoft Dynamics CRM upgrade to versions 2011, 2013, 2015 (online or on-premise)</value>
+  </data>
+  <data name="address3" xml:space="preserve">
+    <value>ул. Мележа, д. 5 корп. 2, офис 709-2</value>
+  </data>
+  <data name="banking" xml:space="preserve">
+    <value>Банковская деятельность</value>
+  </data>
+  <data name="crmDevelopment" xml:space="preserve">
+    <value>Разработка CRM</value>
+  </data>
+  <data name="crmUpgrade" xml:space="preserve">
+    <value>Миграция CRM</value>
+  </data>
+  <data name="documentWorkflowManagement" xml:space="preserve">
+    <value>Документооборот</value>
+  </data>
+  <data name="electricitySupply" xml:space="preserve">
+    <value>Электрообеспечение</value>
+  </data>
+  <data name="engineeringIndustry" xml:space="preserve">
+    <value>Машиностроение</value>
+  </data>
+  <data name="foodIndustry" xml:space="preserve">
+    <value>Пищевая промышленность</value>
+  </data>
+  <data name="integrations" xml:space="preserve">
+    <value>Интеграции с внешними системами</value>
+  </data>
+  <data name="lightAndHeavyIndustry" xml:space="preserve">
+    <value>Легкая и тяжелая промышленность</value>
+  </data>
+  <data name="pos" xml:space="preserve">
+    <value>Торговые точки</value>
+  </data>
+  <data name="production" xml:space="preserve">
+    <value>Производство</value>
+  </data>
+  <data name="retail" xml:space="preserve">
+    <value>Розничная торговля</value>
+  </data>
+  <data name="wholesale" xml:space="preserve">
+    <value>Оптовая торговля</value>
+  </data>
+  <data name="wholesaleOfComputers" xml:space="preserve">
+    <value>Оптовая торговля компьютерными товарами</value>
+  </data>
+  <data name="wholesaleOfFoods" xml:space="preserve">
+    <value>Оптовая торговля пищевыми товарами</value>
   </data>
 </root>

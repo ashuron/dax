@@ -88,6 +88,15 @@ namespace Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Melezha str., 5-2, office 709-2.
+        /// </summary>
+        internal static string address3 {
+            get {
+                return ResourceManager.GetString("address3", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Dipl. Eng. Andrew Kuzmich.
         /// </summary>
         internal static string AKU {
@@ -124,15 +133,6 @@ namespace Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Chemical industry, production, wholesale, document workflow management, engineering industry, electricity supply, light and heavy industry.
-        /// </summary>
-        internal static string alfapeopleFields {
-            get {
-                return ResourceManager.GetString("alfapeopleFields", resourceCulture);
-            }
-        }
-        
-        /// <summary>
         ///   Looks up a localized string similar to Dipl.Eng. Andrew Yaroslavtsev.
         /// </summary>
         internal static string ANY {
@@ -147,6 +147,24 @@ namespace Resources {
         internal static string ANYDescr {
             get {
                 return ResourceManager.GetString("ANYDescr", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Banking.
+        /// </summary>
+        internal static string banking {
+            get {
+                return ResourceManager.GetString("banking", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Chemical industry.
+        /// </summary>
+        internal static string chemicalIndustry {
+            get {
+                return ResourceManager.GetString("chemicalIndustry", resourceCulture);
             }
         }
         
@@ -187,6 +205,24 @@ namespace Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to CRM Development.
+        /// </summary>
+        internal static string crmDevelopment {
+            get {
+                return ResourceManager.GetString("crmDevelopment", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CRM Upgrade.
+        /// </summary>
+        internal static string crmUpgrade {
+            get {
+                return ResourceManager.GetString("crmUpgrade", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to DAX Service.
         /// </summary>
         internal static string DAXService {
@@ -214,6 +250,15 @@ namespace Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Document workflow management.
+        /// </summary>
+        internal static string documentWorkflowManagement {
+            get {
+                return ResourceManager.GetString("documentWorkflowManagement", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Economic and technical consulting, projects architecture.
         /// </summary>
         internal static string ecoTechConsulting {
@@ -223,11 +268,38 @@ namespace Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Electricity supply.
+        /// </summary>
+        internal static string electricitySupply {
+            get {
+                return ResourceManager.GetString("electricitySupply", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Engineering industry.
+        /// </summary>
+        internal static string engineeringIndustry {
+            get {
+                return ResourceManager.GetString("engineeringIndustry", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Fields of automation.
         /// </summary>
         internal static string fieldsOfAutomation {
             get {
                 return ResourceManager.GetString("fieldsOfAutomation", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Food industry.
+        /// </summary>
+        internal static string foodIndustry {
+            get {
+                return ResourceManager.GetString("foodIndustry", resourceCulture);
             }
         }
         
@@ -268,6 +340,15 @@ namespace Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Integrations.
+        /// </summary>
+        internal static string integrations {
+            get {
+                return ResourceManager.GetString("integrations", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Language.
         /// </summary>
         internal static string language {
@@ -277,11 +358,11 @@ namespace Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Wholesale, banking, food industry.
+        ///   Looks up a localized string similar to Light and heavy industry.
         /// </summary>
-        internal static string lanitFields {
+        internal static string lightAndHeavyIndustry {
             get {
-                return ResourceManager.GetString("lanitFields", resourceCulture);
+                return ResourceManager.GetString("lightAndHeavyIndustry", resourceCulture);
             }
         }
         
@@ -322,6 +403,24 @@ namespace Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Point of Sale.
+        /// </summary>
+        internal static string pos {
+            get {
+                return ResourceManager.GetString("pos", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Production.
+        /// </summary>
+        internal static string production {
+            get {
+                return ResourceManager.GetString("production", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to More.
         /// </summary>
         internal static string readMore {
@@ -354,6 +453,15 @@ namespace Resources {
         internal static string remoteCRMDev {
             get {
                 return ResourceManager.GetString("remoteCRMDev", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Retail.
+        /// </summary>
+        internal static string retail {
+            get {
+                return ResourceManager.GetString("retail", resourceCulture);
             }
         }
         
@@ -466,11 +574,29 @@ namespace Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Wholesale of food and computer goods.
+        ///   Looks up a localized string similar to Wholesale.
         /// </summary>
-        internal static string viseoFields {
+        internal static string wholesale {
             get {
-                return ResourceManager.GetString("viseoFields", resourceCulture);
+                return ResourceManager.GetString("wholesale", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Computer goods wholesale.
+        /// </summary>
+        internal static string wholesaleOfComputers {
+            get {
+                return ResourceManager.GetString("wholesaleOfComputers", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Wholesale of food.
+        /// </summary>
+        internal static string wholesaleOfFoods {
+            get {
+                return ResourceManager.GetString("wholesaleOfFoods", resourceCulture);
             }
         }
     }

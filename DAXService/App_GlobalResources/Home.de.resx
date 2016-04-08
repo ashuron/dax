@@ -132,8 +132,8 @@
   <data name="ALADescr" xml:space="preserve">
     <value>Dr.-Ing., arbeitet in Microsoft Dynamics AX seit 2006, zertifizierter Fachmann für Microsoft Axapta und Microsoft SQL Server seit 2006</value>
   </data>
-  <data name="alfapeopleFields" xml:space="preserve">
-    <value>Chemieindustrie, Produktion, Großhandel, Dokumentenmanagement, Maschinenbau, Elektrosicherheit, Leicht- und Schwerindustrie</value>
+  <data name="chemicalIndustry" xml:space="preserve">
+    <value>Chemieindustrie</value>
   </data>
   <data name="ANY" xml:space="preserve">
     <value>Jaroslawtsew Andrej</value>
@@ -174,9 +174,6 @@
   <data name="greatInternationalExperience" xml:space="preserve">
     <value>Wir verfügen über reiche internationale Erfahrung, und das hilft uns erfolgreiche Ideen aus den Projekten in anderen Ländern zu benutzen</value>
   </data>
-  <data name="lanitFields" xml:space="preserve">
-    <value>Großhandel, Bankwesen und Lebensmittelindustrie</value>
-  </data>
   <data name="mainCustomers" xml:space="preserve">
     <value>Die wichtigsten Kunden</value>
   </data>
@@ -216,9 +213,6 @@
   <data name="upgradeAX" xml:space="preserve">
     <value>Migration in Versionen 3.x, 4.x, 2009 und 2012</value>
   </data>
-  <data name="viseoFields" xml:space="preserve">
-    <value>Großhandel mit Lebensmitteln und Computerwaren</value>
-  </data>
   <data name="address" xml:space="preserve">
     <value>DAX-Service Ltd.</value>
   </data>
@@ -254,5 +248,53 @@
   </data>
   <data name="upgradeCRM" xml:space="preserve">
     <value>Microsoft Dynamics CRM upgrade to versions 2011, 2013, 2015 (online or on-premise)</value>
+  </data>
+  <data name="address3" xml:space="preserve">
+    <value>Melezha Str., 5-2, Office 709-2</value>
+  </data>
+  <data name="banking" xml:space="preserve">
+    <value>Bankwesen</value>
+  </data>
+  <data name="crmDevelopment" xml:space="preserve">
+    <value>CRM Development</value>
+  </data>
+  <data name="crmUpgrade" xml:space="preserve">
+    <value>CRM Upgrade</value>
+  </data>
+  <data name="documentWorkflowManagement" xml:space="preserve">
+    <value>Dokumentenmanagement</value>
+  </data>
+  <data name="electricitySupply" xml:space="preserve">
+    <value>Elektrosicherheit</value>
+  </data>
+  <data name="engineeringIndustry" xml:space="preserve">
+    <value>Maschinenbau</value>
+  </data>
+  <data name="foodIndustry" xml:space="preserve">
+    <value>Lebensmittelindustrie</value>
+  </data>
+  <data name="integrations" xml:space="preserve">
+    <value>Integrations</value>
+  </data>
+  <data name="lightAndHeavyIndustry" xml:space="preserve">
+    <value>Leicht- und Schwerindustrie</value>
+  </data>
+  <data name="pos" xml:space="preserve">
+    <value>Point of Sale</value>
+  </data>
+  <data name="production" xml:space="preserve">
+    <value>Produktion</value>
+  </data>
+  <data name="retail" xml:space="preserve">
+    <value>Retail</value>
+  </data>
+  <data name="wholesale" xml:space="preserve">
+    <value>Großhandel</value>
+  </data>
+  <data name="wholesaleOfComputers" xml:space="preserve">
+    <value>Großhandel mit Computerwaren</value>
+  </data>
+  <data name="wholesaleOfFoods" xml:space="preserve">
+    <value>Großhandel mit Lebensmitteln</value>
   </data>
 </root>
