@@ -376,7 +376,16 @@ namespace Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Optimization of system performance.
+        ///   Looks up a localized string similar to MSPOS Development.
+        /// </summary>
+        internal static string msposDevelopment {
+            get {
+                return ResourceManager.GetString("msposDevelopment", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to System performance optimization.
         /// </summary>
         internal static string optimPerformance {
             get {

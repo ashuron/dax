@@ -297,4 +297,7 @@
   <data name="wholesaleOfFoods" xml:space="preserve">
     <value>Оптовая торговля пищевыми товарами</value>
   </data>
+  <data name="msposDevelopment" xml:space="preserve">
+    <value>MSPOS Development</value>
+  </data>
 </root>

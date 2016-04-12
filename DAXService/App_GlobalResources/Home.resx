@@ -178,7 +178,7 @@
     <value>Main customers</value>
   </data>
   <data name="optimPerformance" xml:space="preserve">
-    <value>Optimization of system performance</value>
+    <value>System performance optimization</value>
   </data>
   <data name="references" xml:space="preserve">
     <value>References</value>
@@ -296,5 +296,8 @@
   </data>
   <data name="wholesaleOfFoods" xml:space="preserve">
     <value>Wholesale of food</value>
+  </data>
+  <data name="msposDevelopment" xml:space="preserve">
+    <value>MSPOS Development</value>
   </data>
 </root>

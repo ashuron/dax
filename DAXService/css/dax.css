@@ -1,7 +1,4 @@
 ﻿@import url("//fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700&subset=latin,cyrillic");
-body {
-}
-
 
 .carousel-inner > .item > img {
     max-width: 100%;
@@ -16,10 +13,10 @@ body {
     float: none;
 }
 
-/*.carousel-caption > h1{
-    color:black;
+.carousel-caption > h1 {
+    background-color: rgba(50, 95, 135, 0.5);
 }
 
-.carousel-caption > p{
-    color:black;
-}*/
+.carousel-caption > .text-center {
+    background-color: rgba(50, 95, 135, 0.5);
+}
