@@ -244,10 +244,10 @@
     <value>Design, implementation and support of ERP and CRM systems integration using MS Dynamics Connector, Scribe or custom solutions</value>
   </data>
   <data name="remoteCRMDev" xml:space="preserve">
-    <value>Remote Microsoft Dynamics CRM Development</value>
+    <value>Remote Entwicklung in Microsoft Dynamics CRM</value>
   </data>
   <data name="upgradeCRM" xml:space="preserve">
-    <value>Microsoft Dynamics CRM upgrade to versions 2011, 2013, 2015 (online or on-premise)</value>
+    <value>Microsoft Dynamics CRM Migration in Versionen 2011, 2013, 2015 (online oder on-premise)</value>
   </data>
   <data name="address3" xml:space="preserve">
     <value>Melezha Str., 5-2, Office 709-2</value>
@@ -256,7 +256,7 @@
     <value>Bankwesen</value>
   </data>
   <data name="crmDevelopment" xml:space="preserve">
-    <value>CRM Development</value>
+    <value>CRM Entwicklung</value>
   </data>
   <data name="crmUpgrade" xml:space="preserve">
     <value>CRM Upgrade</value>
