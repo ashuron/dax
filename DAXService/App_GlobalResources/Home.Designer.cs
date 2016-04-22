@@ -79,7 +79,7 @@ namespace Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Minsk, Belarus, 220000.
+        ///   Looks up a localized string similar to Minsk, Belarus, 220113.
         /// </summary>
         internal static string address2 {
             get {
@@ -88,7 +88,7 @@ namespace Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Melezha str., 5-2, office 709-2.
+        ///   Looks up a localized string similar to Melezha str., 5 building 2, office 709-2.
         /// </summary>
         internal static string address3 {
             get {
