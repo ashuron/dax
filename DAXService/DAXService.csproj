@@ -166,6 +166,7 @@
     <Content Include="img\about_us.jpg" />
     <Content Include="img\ap_logo_transp_220px.png" />
     <Content Include="img\kuoni.svg" />
+    <Content Include="img\logo.png" />
     <Content Include="img\logo_lanit_rus.jpg" />
     <Content Include="img\mspos.png" />
     <Content Include="img\references.jpg" />
