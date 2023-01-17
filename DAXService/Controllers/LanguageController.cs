@@ -1,8 +1,8 @@
-﻿using DAXService.ActionFilters;
+﻿using DynaSoft.ActionFilters;
 using System;
 using System.Web.Mvc;
 
-namespace DAXService.Controllers
+namespace DynaSoft.Controllers
 {
     public class LanguageController : Controller
     {

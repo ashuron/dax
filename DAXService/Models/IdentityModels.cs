@@ -1,3 +1,3 @@
-﻿namespace DAXService.Models
+﻿namespace DynaSoft.Models
 {
 }

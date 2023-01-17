@@ -1,6 +1,6 @@
 ﻿using System.Web.Mvc;
 
-namespace DAXService.Controllers
+namespace DynaSoft.Controllers
 {
     public class HomeController : Controller
     {

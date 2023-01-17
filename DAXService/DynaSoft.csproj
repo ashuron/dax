@@ -21,6 +21,7 @@
     <IISExpressWindowsAuthentication />
     <IISExpressUseClassicPipelineMode />
     <UseGlobalApplicationHostFile />
+    <Use64BitIISExpress />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -159,14 +160,16 @@
     <Content Include="css\bootstrap.css" />
     <Content Include="css\bootstrap.min.css" />
     <Content Include="css\carousel.css" />
-    <Content Include="css\dax.css" />
+    <Content Include="css\dynasoft.css" />
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
     <Content Include="img\about_us.jpg" />
     <Content Include="img\ap_logo_transp_220px.png" />
+    <Content Include="img\D_160_160.png" />
     <Content Include="img\kuoni.svg" />
     <Content Include="img\logo.png" />
+    <Content Include="img\logo_dyna.png" />
     <Content Include="img\logo_lanit_rus.jpg" />
     <Content Include="img\mspos.png" />
     <Content Include="img\references.jpg" />
@@ -224,6 +227,7 @@
     <Content Include="App_GlobalResources\Home.ru.resx">
       <Generator>GlobalResourceProxyGenerator</Generator>
       <LastGenOutput>Home.ru.designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
     </Content>
   </ItemGroup>
   <ItemGroup>

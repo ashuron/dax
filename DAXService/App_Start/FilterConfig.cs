@@ -1,7 +1,7 @@
-﻿using DAXService.ActionFilters;
+﻿using DynaSoft.ActionFilters;
 using System.Web.Mvc;
 
-namespace DAXService
+namespace DynaSoft
 {
     public class FilterConfig
     {

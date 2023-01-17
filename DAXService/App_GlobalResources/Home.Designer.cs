@@ -19,7 +19,7 @@ namespace Resources {
     // class via a tool like ResGen or Visual Studio.
     // To add or remove a member, edit your .ResX file then rerun ResGen
     // with the /str option or rebuild the Visual Studio project.
-    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.VisualStudio.Web.Application.StronglyTypedResourceProxyBuilder", "14.0.0.0")]
+    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.VisualStudio.Web.Application.StronglyTypedResourceProxyBuilder", "16.0.0.0")]
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
     internal class Home {
@@ -223,15 +223,6 @@ namespace Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to DAX Service.
-        /// </summary>
-        internal static string DAXService {
-            get {
-                return ResourceManager.GetString("DAXService", resourceCulture);
-            }
-        }
-        
-        /// <summary>
         ///   Looks up a localized string similar to Ph.D. Dmitri Stepanov.
         /// </summary>
         internal static string DMS {
@@ -255,6 +246,15 @@ namespace Resources {
         internal static string documentWorkflowManagement {
             get {
                 return ResourceManager.GetString("documentWorkflowManagement", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Dyna-Soft.
+        /// </summary>
+        internal static string DynaSoft {
+            get {
+                return ResourceManager.GetString("DynaSoft", resourceCulture);
             }
         }
         

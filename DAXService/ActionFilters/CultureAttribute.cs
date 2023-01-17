@@ -4,7 +4,7 @@ using System.Threading;
 using System.Web;
 using System.Web.Mvc;
 
-namespace DAXService.ActionFilters
+namespace DynaSoft.ActionFilters
 {
     [AttributeUsage(AttributeTargets.Class | AttributeTargets.Method, AllowMultiple = false, Inherited = true)]
     public class CultureAttribute : ActionFilterAttribute
