@@ -70,7 +70,7 @@ namespace Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to DAX-Service Ltd..
+        ///   Looks up a localized string similar to Dyna-Soft Sp. z o.o..
         /// </summary>
         internal static string address1 {
             get {
@@ -79,7 +79,7 @@ namespace Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Minsk, Belarus, 220113.
+        ///   Looks up a localized string similar to Szpitalna str., 8, apt. 6.
         /// </summary>
         internal static string address2 {
             get {
@@ -88,7 +88,7 @@ namespace Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Melezha str., 5 building 2, office 709-2.
+        ///   Looks up a localized string similar to 00-031 Warsaw, Poland.
         /// </summary>
         internal static string address3 {
             get {
@@ -115,7 +115,7 @@ namespace Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Ph.D. Alexander Agranovich.
+        ///   Looks up a localized string similar to Ph.D. Aliaksander Ahranovich.
         /// </summary>
         internal static string ALA {
             get {
@@ -169,7 +169,7 @@ namespace Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Company employees implemented more than 150 000 hours of development in Microsoft Dynamics AX version 2.1 – 2012 and more than 150 successful projects.
+        ///   Looks up a localized string similar to Company employees implemented more than 250 000 hours of development in Microsoft Dynamics AX version 2.1 – 2012 and more than 200 successful projects.
         /// </summary>
         internal static string companyEmployeesImplemented {
             get {
@@ -178,7 +178,7 @@ namespace Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to We consider the company mission in providing professional consulting and development in Microsoft Dynamics AX.
+        ///   Looks up a localized string similar to We consider the company mission in providing professional consulting and development in Microsoft Dynamics AX / D365FO/CE.
         /// </summary>
         internal static string companyMission {
             get {
@@ -205,7 +205,7 @@ namespace Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to CRM Development.
+        ///   Looks up a localized string similar to Microsoft Dynamics 365 Customer Engagement (CRM) Development.
         /// </summary>
         internal static string crmDevelopment {
             get {
@@ -214,7 +214,7 @@ namespace Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to CRM Upgrade.
+        ///   Looks up a localized string similar to Microsoft Dynamics 365 Customer Engagement (CRM) Upgrade.
         /// </summary>
         internal static string crmUpgrade {
             get {
@@ -304,7 +304,7 @@ namespace Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Great experience in Axapta versions upgrade projects, upgrade of implemented additional functionality in Axapta and customer data, it includes more than 15 upgrades to Axapta 4, more than 15 upgrades to version 2009 and over 10 upgrades to version 2012.
+        ///   Looks up a localized string similar to Extensive experience in Microsoft Dynamics 365 (Axapta) versions upgrade projects, upgrade of customized functionality and customer data, including customizing Microsoft Dynamics 365, more than 15 upgrades to Axapta 4, more than 15 upgrades to version 2009 and over 20 upgrades to version 2012. We have great experience in extending the standard functionality, including retail (POS) and Ecom development.
         /// </summary>
         internal static string greatExperienceInAX {
             get {
@@ -448,7 +448,7 @@ namespace Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Remote Microsoft Dynamics AX development.
+        ///   Looks up a localized string similar to Remote Microsoft Dynamics 365 development and consulting.
         /// </summary>
         internal static string remoteAXDev {
             get {
@@ -457,7 +457,7 @@ namespace Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Remote Microsoft Dynamics CRM Development.
+        ///   Looks up a localized string similar to Remote Microsoft Dynamics 365 Customer Engagement development and consulting.
         /// </summary>
         internal static string remoteCRMDev {
             get {
@@ -502,7 +502,7 @@ namespace Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to The company is located in Belarus, Minsk and its staff consists of 12 professional Microsoft Dynamics AX and CRM developers.
+        ///   Looks up a localized string similar to The company is located in Republic of Poland in Warsaw and Wrocław cities and its staff consists of 10 professional Microsoft Dynamics AX and CRM developers.
         /// </summary>
         internal static string theCompanyIsLocated {
             get {
@@ -511,7 +511,7 @@ namespace Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to The company specializes in providing Microsoft Dynamics AX and CRM development, deployment, and modification services in West-European countries (France, Germany, Switzerland, Sweden, United Kingdom), USA and Russia.
+        ///   Looks up a localized string similar to The company specializes in providing Microsoft Dynamics 365 and CE development, deployment, and modification services in West-European countries (Sweden, Switzerland, France, Germany, United Kingdom) and USA.
         /// </summary>
         internal static string theCompanySpecializes {
             get {
@@ -520,7 +520,7 @@ namespace Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to The company Dynamics AX-Service Ltd. was founded in 2009 by four partners, each of whom had had seven years experience in a Microsoft Dynamics AX development team at that point in time.
+        ///   Looks up a localized string similar to Dyna-Soft was founded in 2021 by four partners, each of whom had had over 20 years experience in Microsoft Dynamics AX development team at that point in time.
         /// </summary>
         internal static string theCompanyWasFounded {
             get {
@@ -529,7 +529,7 @@ namespace Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to The main activity of the company is remote Microsoft Dynamics AX and CRM development.
+        ///   Looks up a localized string similar to The main activity of the company is remote Microsoft Dynamics 365 and CE development.
         /// </summary>
         internal static string theMainActivity {
             get {
@@ -556,7 +556,7 @@ namespace Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Microsoft Dynamics AX upgrade to versions 3.X, 4.X, 2009 and 2012.
+        ///   Looks up a localized string similar to Microsoft Dynamics AX upgrade to versions 3.X, 4.X, 2009, 2012 and D365FO.
         /// </summary>
         internal static string upgradeAX {
             get {
@@ -565,7 +565,7 @@ namespace Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Microsoft Dynamics CRM upgrade to versions 2011, 2013, 2015 (online or on-premise).
+        ///   Looks up a localized string similar to Microsoft Dynamics CRM upgrade to versions 2011, 2013, 2015 (online or on-premise), CE.
         /// </summary>
         internal static string upgradeCRM {
             get {
