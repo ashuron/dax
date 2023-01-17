@@ -6,7 +6,7 @@ namespace DynaSoft.Controllers
     {
         public ActionResult Index()
         {
-            ViewBag.Title = "DAX Service";
+            ViewBag.Title = "Dyna-Soft";
 
             return View();
         }

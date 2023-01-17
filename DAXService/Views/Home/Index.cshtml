@@ -50,23 +50,40 @@
 
     <!-- Three columns of text below the carousel -->
     <div class="row">
-        <div class="col-lg-4">
-            <img class="img-circle" src="~/img/team.png" alt="@Resources.Home.about">
-            <h2>@Resources.Home.about</h2>
+        <div class="col-lg-3">
+            @*<img class="img-circle" src="~/img/team.png" alt="@Resources.Home.about">*@
+            <a href="about">
+                <span class="glyphicon glyphicon-user"></span>
+                <h2>@Resources.Home.about</h2>
+            </a>
             <p>@Resources.Home.theCompanyWasFounded</p>
-            <p><a class="btn btn-default" href="about" role="button">@Resources.Home.viewDetails &raquo;</a></p>
+            @*<p><a class="btn btn-default" href="about" role="button">@Resources.Home.viewDetails &raquo;</a></p>*@
         </div><!-- /.col-lg-4 -->
-        <div class="col-lg-4">
-            <img class="img-circle" src="~/img/service.png" alt="@Resources.Home.services">
-            <h2>@Resources.Home.services</h2>
+        <div class="col-lg-3">
+            @*<img class="img-circle" src="~/img/service.png" alt="@Resources.Home.services">*@
+            <a href="services">
+                <span class="glyphicon glyphicon-folder-open"></span>
+                <h2>@Resources.Home.services</h2>
+            </a>
             <p>@Resources.Home.theMainActivity</p>
-            <p><a class="btn btn-default" href="services" role="button">@Resources.Home.viewDetails &raquo;</a></p>
+            @*<p><a class="btn btn-default" href="services" role="button">@Resources.Home.viewDetails &raquo;</a></p>*@
         </div><!-- /.col-lg-4 -->
-        <div class="col-lg-4">
-            <img class="img-circle" src="~/img/reference.png" alt="@Resources.Home.references">
-            <h2>@Resources.Home.references</h2>
+        <div class="col-lg-3">
+            @*<img class="img-circle" src="~/img/reference.png" alt="@Resources.Home.references">*@
+            <a href="references">
+                <span class="glyphicon glyphicon-thumbs-up"></span>
+                <h2>@Resources.Home.references</h2>
+            </a>
             <p>@Resources.Home.theCompanySpecializes</p>
-            <p><a class="btn btn-default" href="references" role="button">@Resources.Home.viewDetails &raquo;</a></p>
+            @*<p><a class="btn btn-default" href="references" role="button">@Resources.Home.viewDetails &raquo;</a></p>*@
+        </div><!-- /.col-lg-4 -->
+        <div class="col-lg-3">
+            <a href="contact">
+                <span class="glyphicon glyphicon glyphicon-phone-alt"></span>
+                <h2>@Resources.Home.contact</h2>
+            </a>
+            <p>@Resources.Home.companyContact</p>
+            @*<p><a class="btn btn-default" href="references" role="button">@Resources.Home.viewDetails &raquo;</a></p>*@
         </div><!-- /.col-lg-4 -->
     </div><!-- /.row -->
     <!-- START THE FEATURETTES -->
@@ -111,7 +128,7 @@
     <!-- /END THE FEATURETTES -->
     <!-- FOOTER -->
     <footer>
-        <p class="pull-right">&copy; @DateTime.Now.Year - DAX Service <a href="#">Back to top</a></p>
+        <p class="pull-right">&copy; @DateTime.Now.Year - Dyna-Soft <a href="#">Back to top</a></p>
     </footer>
 
 </div><!-- /.container -->

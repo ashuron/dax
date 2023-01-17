@@ -20,3 +20,17 @@
 .carousel-caption > .text-center {
     background-color: rgba(50, 95, 135, 0.5);
 }
+
+.glyphicon {
+    font-size: xx-large;
+    color: #280071;
+    text-align: center;
+}
+
+.body {
+    color: #5a5a5a;
+}
+
+h2 {
+    color: #280071
+}

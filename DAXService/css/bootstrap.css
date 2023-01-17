@@ -4063,10 +4063,10 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 .navbar-inverse .navbar-toggle .icon-bar {
   background-color: #ffffff;
 }
-.navbar-inverse .navbar-collapse,
-.navbar-inverse .navbar-form {
-  border-color: #006ddb;
-}
+    .navbar-inverse .navbar-collapse,
+    .navbar-inverse .navbar-form {
+        border-color: #742774;
+    }
 .navbar-inverse .navbar-nav > .open > a,
 .navbar-inverse .navbar-nav > .open > a:hover,
 .navbar-inverse .navbar-nav > .open > a:focus {

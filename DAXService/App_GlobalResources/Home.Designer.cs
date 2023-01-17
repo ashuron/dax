@@ -169,6 +169,15 @@ namespace Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Contact details for Dyna-Soft Spółka z Ograniczoną Odpowiedzialnością.
+        /// </summary>
+        internal static string companyContact {
+            get {
+                return ResourceManager.GetString("companyContact", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Company employees implemented more than 250 000 hours of development in Microsoft Dynamics AX version 2.1 – 2012 and more than 200 successful projects.
         /// </summary>
         internal static string companyEmployeesImplemented {

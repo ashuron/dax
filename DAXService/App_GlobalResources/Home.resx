@@ -300,4 +300,7 @@
   <data name="msposDevelopment" xml:space="preserve">
     <value>MSPOS Development</value>
   </data>
+  <data name="companyContact" xml:space="preserve">
+    <value>Contact details for Dyna-Soft Spółka z Ograniczoną Odpowiedzialnością</value>
+  </data>
 </root>
