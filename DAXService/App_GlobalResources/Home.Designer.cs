@@ -70,6 +70,33 @@ namespace Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to We at Dyna-Soft are passionate about helping people customize and extend Microsoft Dynamics products. Founded in 2021 by four partners with over twenty years of experience in Microsoft Dynamics AX development, the company consists of skilled and professional developers constantly looking for developing their skills and following best practices.
+        /// </summary>
+        internal static string aboutHome {
+            get {
+                return ResourceManager.GetString("aboutHome", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Dyna-Soft is a Microsoft Dynamics 365 and Microsoft Dynamics CE development and consulting company founded by partners with more than 20 years of ERP development. We deliver services for ERP and CRM customization and extension, as well as technical analysis and post-go-life support. Our team consists of skilled and professional developers and consultants delivering results to our customers and partners in time and with high quality. No matter what challenges our customers face, we try to help them where nee [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string aboutIntro {
+            get {
+                return ResourceManager.GetString("aboutIntro", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Dyna-Soft is a Microsoft Dynamics 365 and Microsoft Dynamics CE development and consulting company founded by partners with more than 20 years of ERP development. We deliver services for ERP and CRM customization and extension, as well as technical analysis and post-go-life support. Our team consists of skilled and professional developers and consultants delivering results to our customers and partners in time and with high quality.
+        /// </summary>
+        internal static string aboutMain {
+            get {
+                return ResourceManager.GetString("aboutMain", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Dyna-Soft Sp. z o.o..
         /// </summary>
         internal static string address1 {
@@ -97,7 +124,7 @@ namespace Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Dipl. Eng. Andrew Kuzmich.
+        ///   Looks up a localized string similar to Andrew Kuzmich.
         /// </summary>
         internal static string AKU {
             get {
@@ -106,7 +133,7 @@ namespace Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Higher technical education, works with Microsoft Dynamics AX since 2000, participated in development and support of standard Axapta module “Cost accounting”. Axapta Certified Master since 2004.
+        ///   Looks up a localized string similar to Partner, senior D365FO developer, solution architect, team and project manager. Experience in Microsoft Dynamics AX since 2000, participated in development and support of standard Axapta module “Cost accounting”. Axapta Certified Master since 2004 MORE TO ADD.
         /// </summary>
         internal static string AKUDescr {
             get {
@@ -115,7 +142,7 @@ namespace Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Ph.D. Aliaksander Ahranovich.
+        ///   Looks up a localized string similar to Aliaksander Ahranovich.
         /// </summary>
         internal static string ALA {
             get {
@@ -124,7 +151,7 @@ namespace Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Higher technical education, works in Microsoft Dynamics AX since 2006. Axapta Certified Professional and Microsoft SQL Server Certified Professional since 2006.
+        ///   Looks up a localized string similar to Partner, senior D365FO and CE developer, solution architect, team and project manager. Experience in Microsoft Dynamics AX since 2005. Axapta and CRM Certified Professional and Microsoft SQL Server Certified Professional since 2006 MORE TO ADD.
         /// </summary>
         internal static string ALADescr {
             get {
@@ -133,7 +160,61 @@ namespace Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Dipl.Eng. Andrew Yaroslavtsev.
+        ///   Looks up a localized string similar to Alex Kurilenko.
+        /// </summary>
+        internal static string ALK {
+            get {
+                return ResourceManager.GetString("ALK", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Senior .NET, Retail and MS CRM developer, solution architect MORE TO ADD.
+        /// </summary>
+        internal static string ALKDescr {
+            get {
+                return ResourceManager.GetString("ALKDescr", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Alex Potonia.
+        /// </summary>
+        internal static string ALP {
+            get {
+                return ResourceManager.GetString("ALP", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Senior D365FO developer. MORE TO ADD.
+        /// </summary>
+        internal static string ALPDescr {
+            get {
+                return ResourceManager.GetString("ALPDescr", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Andrew Truesevich.
+        /// </summary>
+        internal static string ANT {
+            get {
+                return ResourceManager.GetString("ANT", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Senior D365FO developer. MORE TO ADD.
+        /// </summary>
+        internal static string ANTDescr {
+            get {
+                return ResourceManager.GetString("ANTDescr", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Andrew Yaroslavtsev.
         /// </summary>
         internal static string ANY {
             get {
@@ -142,11 +223,20 @@ namespace Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Higher technical education, higher economic education, works as above in Microsoft Dynamics AX since 2000. Axapta Certified Professional since 2004.
+        ///   Looks up a localized string similar to Partner, senior D365FO developer, solution architect, team and project manager. Experience in Microsoft Dynamics AX and Concorde XAL since 1999. Axapta Certified Master since 2004 MORE TO ADD.
         /// </summary>
         internal static string ANYDescr {
             get {
                 return ResourceManager.GetString("ANYDescr", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Azure based integrations.
+        /// </summary>
+        internal static string azureBasedIntegrations {
+            get {
+                return ResourceManager.GetString("azureBasedIntegrations", resourceCulture);
             }
         }
         
@@ -178,7 +268,7 @@ namespace Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Company employees implemented more than 250 000 hours of development in Microsoft Dynamics AX version 2.1 – 2012 and more than 200 successful projects.
+        ///   Looks up a localized string similar to We implemented more than 250 000 hours of development in Microsoft Dynamics AX version 2.1 – 2012, and Microsoft Dynamics 365 fulfilling more than 200 successful projects.
         /// </summary>
         internal static string companyEmployeesImplemented {
             get {
@@ -187,7 +277,7 @@ namespace Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to We consider the company mission in providing professional consulting and development in Microsoft Dynamics AX / D365FO/CE.
+        ///   Looks up a localized string similar to Our mission is providing professional consulting and development services for our partners and customers in Microsoft Dynamics 365 and CE. Our highlights are.
         /// </summary>
         internal static string companyMission {
             get {
@@ -196,7 +286,7 @@ namespace Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Completed projects appraisal.
+        ///   Looks up a localized string similar to Technical audit of running ERP and CRM systems.
         /// </summary>
         internal static string completeAppraisal {
             get {
@@ -232,7 +322,34 @@ namespace Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Ph.D. Dmitri Stepanov.
+        ///   Looks up a localized string similar to DMF based integrations.
+        /// </summary>
+        internal static string DMFBasedIntegrations {
+            get {
+                return ResourceManager.GetString("DMFBasedIntegrations", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Dmitry Mikhaevich.
+        /// </summary>
+        internal static string DMM {
+            get {
+                return ResourceManager.GetString("DMM", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Senior D365FO developer, .NET developer, MORE TO ADD.
+        /// </summary>
+        internal static string DMMDescr {
+            get {
+                return ResourceManager.GetString("DMMDescr", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Dmitri Stepanov.
         /// </summary>
         internal static string DMS {
             get {
@@ -241,7 +358,7 @@ namespace Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Higher technical education, works with Microsoft Dynamics AX and Concorde XAL since 1999. Axapta Certified Master since 2004.
+        ///   Looks up a localized string similar to Partner, senior D365FO developer, solution architect, team and project manager. Experience in Microsoft Dynamics AX and Concorde XAL since 1999. Axapta Certified Master since 2004 MORE TO ADD.
         /// </summary>
         internal static string DMSDescr {
             get {
@@ -259,11 +376,56 @@ namespace Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to .NET development.
+        /// </summary>
+        internal static string dotNetDevelopment {
+            get {
+                return ResourceManager.GetString("dotNetDevelopment", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Dual-Write integrations.
+        /// </summary>
+        internal static string dualWriteIntegrations {
+            get {
+                return ResourceManager.GetString("dualWriteIntegrations", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Diana Verich.
+        /// </summary>
+        internal static string DVE {
+            get {
+                return ResourceManager.GetString("DVE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Senior D365FO developer, .NET developer, Azure integration specialist MORE TO ADD.
+        /// </summary>
+        internal static string DVEDescr {
+            get {
+                return ResourceManager.GetString("DVEDescr", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Dyna-Soft.
         /// </summary>
         internal static string DynaSoft {
             get {
                 return ResourceManager.GetString("DynaSoft", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to eCOM development.
+        /// </summary>
+        internal static string eCOMDevelopment {
+            get {
+                return ResourceManager.GetString("eCOMDevelopment", resourceCulture);
             }
         }
         
@@ -295,6 +457,15 @@ namespace Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Microsoft Dynamics 365 Electronic Reporting and Reporting development.
+        /// </summary>
+        internal static string ERandRDLDevelopment {
+            get {
+                return ResourceManager.GetString("ERandRDLDevelopment", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Fields of automation.
         /// </summary>
         internal static string fieldsOfAutomation {
@@ -313,7 +484,7 @@ namespace Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Extensive experience in Microsoft Dynamics 365 (Axapta) versions upgrade projects, upgrade of customized functionality and customer data, including customizing Microsoft Dynamics 365, more than 15 upgrades to Axapta 4, more than 15 upgrades to version 2009 and over 20 upgrades to version 2012. We have great experience in extending the standard functionality, including retail (POS) and Ecom development.
+        ///   Looks up a localized string similar to Extensive experience in Microsoft Axapta upgrade projects, upgrade of customized functionality and customer data migration resulted in more than 15 upgrades to Axapta 4, more than 15 upgrades to version 2009 and over 20 upgrades to version 2012.
         /// </summary>
         internal static string greatExperienceInAX {
             get {
@@ -322,7 +493,34 @@ namespace Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Great experience in remote work.
+        ///   Looks up a localized string similar to We have great experience in Microsoft Dynamics CE customization and upgrades.
+        /// </summary>
+        internal static string greatExperienceInCRM {
+            get {
+                return ResourceManager.GetString("greatExperienceInCRM", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to We have great experience in extending the standard Microsoft Dynamics 365 functionality, including retail (POS) and Ecom development.
+        /// </summary>
+        internal static string greatExperienceInExtending {
+            get {
+                return ResourceManager.GetString("greatExperienceInExtending", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Our experience in both ERP and CRM systems allow us build very robust and predictable integrations which can be based on a variety of integration platforms, including Scribe and Dual-Write.
+        /// </summary>
+        internal static string greatExperienceInIntegration {
+            get {
+                return ResourceManager.GetString("greatExperienceInIntegration", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to We are focused on remote work but we also can help customers onsite.
         /// </summary>
         internal static string greatExperienceInRemote {
             get {
@@ -331,7 +529,16 @@ namespace Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Great international experience, which makes it possible to reuse successful ideas of other projects made in different countries.
+        ///   Looks up a localized string similar to Our POS and eCOM experience allow us build scalable and stable solutions for retail market and reuse our how-tos for different customers.
+        /// </summary>
+        internal static string greatExperiencePOSEcom {
+            get {
+                return ResourceManager.GetString("greatExperiencePOSEcom", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Our great international experience makes it possible to reuse successful ideas of other projects made in different countries and across different customers.
         /// </summary>
         internal static string greatInternationalExperience {
             get {
@@ -340,7 +547,7 @@ namespace Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Design, implementation and support of ERP and CRM systems integration using MS Dynamics Connector, Scribe or custom solutions.
+        ///   Looks up a localized string similar to Design, implementation and support of ERP and CRM systems integration based on various integration platforms, including Dual-Write, Scribe and custom solutions.
         /// </summary>
         internal static string integration {
             get {
@@ -358,11 +565,74 @@ namespace Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Iryna Vorobieva.
+        /// </summary>
+        internal static string IRG {
+            get {
+                return ResourceManager.GetString("IRG", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Senior .NET, Retail and MS CRM developer, solution architect MORE TO ADD.
+        /// </summary>
+        internal static string IRGDescr {
+            get {
+                return ResourceManager.GetString("IRGDescr", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Julyana Kruk.
+        /// </summary>
+        internal static string JUK {
+            get {
+                return ResourceManager.GetString("JUK", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Company and project manager MORE TO ADD.
+        /// </summary>
+        internal static string JUKDescr {
+            get {
+                return ResourceManager.GetString("JUKDescr", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Konstantin Makchrakov.
+        /// </summary>
+        internal static string KOM {
+            get {
+                return ResourceManager.GetString("KOM", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to .NET, Retail and MS CRM developer. MORE TO ADD.
+        /// </summary>
+        internal static string KOMDescr {
+            get {
+                return ResourceManager.GetString("KOMDescr", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Language.
         /// </summary>
         internal static string language {
             get {
                 return ResourceManager.GetString("language", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to LaserNet development.
+        /// </summary>
+        internal static string laserNetDevelopment {
+            get {
+                return ResourceManager.GetString("laserNetDevelopment", resourceCulture);
             }
         }
         
@@ -385,7 +655,16 @@ namespace Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to MSPOS Development.
+        ///   Looks up a localized string similar to Microsoft Dynamics D365 Offline POS database optimizations.
+        /// </summary>
+        internal static string MPOSDBOptimization {
+            get {
+                return ResourceManager.GetString("MPOSDBOptimization", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Microsoft Dynamics D365 POS and retail development.
         /// </summary>
         internal static string msposDevelopment {
             get {
@@ -399,6 +678,15 @@ namespace Resources {
         internal static string optimPerformance {
             get {
                 return ResourceManager.GetString("optimPerformance", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Our team.
+        /// </summary>
+        internal static string ourTeam {
+            get {
+                return ResourceManager.GetString("ourTeam", resourceCulture);
             }
         }
         
@@ -430,6 +718,15 @@ namespace Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to PowerApps development.
+        /// </summary>
+        internal static string powerAppsDevelopment {
+            get {
+                return ResourceManager.GetString("powerAppsDevelopment", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Production.
         /// </summary>
         internal static string production {
@@ -457,7 +754,25 @@ namespace Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Remote Microsoft Dynamics 365 development and consulting.
+        ///   Looks up a localized string similar to We at Dyna-Soft are striving to be a good and valued partner to our customers. We aim for long-term collaboration because a happy customer is our main goal leading to a win-win solution for our partners and Dyna-Soft.
+        /// </summary>
+        internal static string referencesHome {
+            get {
+                return ResourceManager.GetString("referencesHome", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to We value our customers and deliver our services with highest quality possible which helps us become partners with our customers and leads to long-term collaboration. Our customers are located in European Union and include Sweden, Switzerland, France, Denmark, Germany, United Kingdom, as well as United States of America.
+        /// </summary>
+        internal static string referencesMain {
+            get {
+                return ResourceManager.GetString("referencesMain", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Microsoft Dynamics 365 development and consulting.
         /// </summary>
         internal static string remoteAXDev {
             get {
@@ -466,7 +781,7 @@ namespace Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Remote Microsoft Dynamics 365 Customer Engagement development and consulting.
+        ///   Looks up a localized string similar to Microsoft Dynamics 365 Customer Engagement development and consulting.
         /// </summary>
         internal static string remoteCRMDev {
             get {
@@ -480,6 +795,15 @@ namespace Resources {
         internal static string retail {
             get {
                 return ResourceManager.GetString("retail", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Scribe and Scribe Online integrations.
+        /// </summary>
+        internal static string scribeIntegrations {
+            get {
+                return ResourceManager.GetString("scribeIntegrations", resourceCulture);
             }
         }
         
@@ -502,7 +826,34 @@ namespace Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Stable staff.
+        ///   Looks up a localized string similar to Dyna-Soft is helping partners with Microsoft Dynamics 365 and Microsoft Dynamics CE customization and consulting, as well as integrations. Our services incude requirements analysis, technical audit, design, implementation and development, as well as post go-life support.
+        /// </summary>
+        internal static string servicesHome {
+            get {
+                return ResourceManager.GetString("servicesHome", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to We at Dyna-Soft help our customers and partners with Microsoft Dynamics 365 and Microsoft Dynamics CE customization and consulting, as well as integrations. Our services incude but are not limited to.
+        /// </summary>
+        internal static string servicesIntro {
+            get {
+                return ResourceManager.GetString("servicesIntro", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to All businesses are unique and many require a proper implementation of ERP and / or CRM systems. Dyna-Soft specializes on Microsoft Dynamics 365 and CE development and consulting, including technical analysis, design, development, implementation and live system support. Our team has a big experience in Microsoft Dynamics 365 (AX), including Retail and eCOM development and customization, Microsoft Dynamics CE development and is able to implement the integrations for Dynamics systems.
+        /// </summary>
+        internal static string servicesMain {
+            get {
+                return ResourceManager.GetString("servicesMain", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to We have a very stable staff.
         /// </summary>
         internal static string stableStaff {
             get {
@@ -520,47 +871,11 @@ namespace Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to The company specializes in providing Microsoft Dynamics 365 and CE development, deployment, and modification services in West-European countries (Sweden, Switzerland, France, Germany, United Kingdom) and USA.
-        /// </summary>
-        internal static string theCompanySpecializes {
-            get {
-                return ResourceManager.GetString("theCompanySpecializes", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Dyna-Soft was founded in 2021 by four partners, each of whom had had over 20 years experience in Microsoft Dynamics AX development team at that point in time.
-        /// </summary>
-        internal static string theCompanyWasFounded {
-            get {
-                return ResourceManager.GetString("theCompanyWasFounded", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to The main activity of the company is remote Microsoft Dynamics 365 and CE development.
-        /// </summary>
-        internal static string theMainActivity {
-            get {
-                return ResourceManager.GetString("theMainActivity", resourceCulture);
-            }
-        }
-        
-        /// <summary>
         ///   Looks up a localized string similar to The main features of our company are as follows.
         /// </summary>
         internal static string theMainFeatures {
             get {
                 return ResourceManager.GetString("theMainFeatures", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to The partners are.
-        /// </summary>
-        internal static string thePartnersAre {
-            get {
-                return ResourceManager.GetString("thePartnersAre", resourceCulture);
             }
         }
         
@@ -574,7 +889,7 @@ namespace Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Microsoft Dynamics CRM upgrade to versions 2011, 2013, 2015 (online or on-premise), CE.
+        ///   Looks up a localized string similar to Microsoft Dynamics CRM upgrade to versions 2011, 2013, 2015 (online or on-premise).
         /// </summary>
         internal static string upgradeCRM {
             get {
@@ -588,6 +903,24 @@ namespace Resources {
         internal static string viewDetails {
             get {
                 return ResourceManager.GetString("viewDetails", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Vladislav Tsarik.
+        /// </summary>
+        internal static string VLT {
+            get {
+                return ResourceManager.GetString("VLT", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to D365FO and .NET developer. MORE TO ADD.
+        /// </summary>
+        internal static string VLTDescr {
+            get {
+                return ResourceManager.GetString("VLTDescr", resourceCulture);
             }
         }
         

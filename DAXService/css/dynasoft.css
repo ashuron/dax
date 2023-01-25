@@ -1,5 +1,20 @@
 ﻿@import url("//fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700&subset=latin,cyrillic");
 
+:root {
+    --navBarBackgroungColor: #274066;
+    --navBarFontWeight: 500;
+    --navBarHoverBackgroundColor: #164db1;
+    --navBarColor: white;
+    --navBarFontSize: 1.25em;
+    --glyphiconsSize: xx-large;
+    --glyphiconColor: #2266e3;
+    --backgroundColor: #a19f9d;
+    --bodyColor: #201f1e;
+    --bodyFontFamily: "Segoe UI", tahoma, sans-serif;
+    --bodyFontWeight: 600;
+    --bodyFontSize: 1em;
+}
+
 .carousel-inner > .item > img {
     max-width: 100%;
     width: auto;
@@ -13,33 +28,48 @@
     float: none;
 }
 
-.carousel-caption > h1 {
+.btn-primary {
+    background: transparent;
+    border: 2px solid var(--glyphiconColor);
+    color: var(--glyphiconColor);
+}
+/*.carousel-caption > h1 {
     background-color: rgba(50, 95, 135, 0.5);
 }
 
 .carousel-caption > .text-center {
     background-color: rgba(50, 95, 135, 0.5);
 }
-
+*/
 .glyphicon {
-    font-size: xx-large;
-    color: #280071;
+    font-size: var(--glyphiconsSize);
+    color: var(--glyphiconColor);
+}
+
+.text-center {
     text-align: center;
 }
 
-.body {
-    color: #5a5a5a;
-    background-color: #ffffff;
+.text-justify {
+    text-align: justify;
 }
 
-h2 {
-    color: #280071
+.body {
+    color: var(--bodyColor);
+    background-color: var(--backgroundColor);
+    font-family: var(--bodyFontFamily);
+    font-weight: var(--bodyFontWeight);
+    font-size: var(--bodyFontSize);
+}
+
+h2, h3 {
+    color: var(--glyphiconColor);
 }
 
 .navbar-inverse {
-    background-color: #ffffff;
-    border-color: #ffffff;
-    font-weight: 500;
+    background-color: var(--navBarBackgroungColor);
+    border-color: var(--navBarBackgroungColor);
+    font-weight: var(--navBarFontWeight);
 }
 
 /*    .navbar-inverse .navbar-brand {
@@ -48,30 +78,30 @@ h2 {
 
         .navbar-inverse .navbar-brand:hover,
         .navbar-inverse .navbar-brand:focus {
-            color: #280071;
-            background-color: none;
+            color: var(--navBarColor);
+            background-color: var(--navBarHoverBackgroundColor);
         }
 
     .navbar-inverse .navbar-text {
-        color: #280071;
+        color: var(--navBarColor);
     }
 
     .navbar-inverse .navbar-nav > li > a {
-        color: #280071;
-        font-size: 1.25em;
+        color: var(--navBarColor);
+        font-size: var(--navBarFontSize);
     }
 
         .navbar-inverse .navbar-nav > li > a:hover,
         .navbar-inverse .navbar-nav > li > a:focus {
-            color: #280071;
-            background-color: #dcdada;
+            color: var(--navBarColor);
+            background-color: var(--navBarHoverBackgroundColor);
         }
 
     .navbar-inverse .navbar-nav > .active > a,
     .navbar-inverse .navbar-nav > .active > a:hover,
     .navbar-inverse .navbar-nav > .active > a:focus {
-        color: #280071;
-        background-color: #dcdada;
+        color: var(--navBarColor);
+        background-color: var(--navBarHoverBackgroundColor);
     }
 
 .navbar-brand {
@@ -80,4 +110,15 @@ h2 {
     font-size: 19px;
     line-height: 21px;
     height: 50px;
+}
+
+.avatar {
+    height: 50px;
+    width: 50px;
+    float: left;
+    margin-right: 1em;
+}
+
+.teamDescr {
+    min-height: 50px;
 }

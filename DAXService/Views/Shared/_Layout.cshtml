@@ -8,11 +8,11 @@
     <meta name="author" content="">
     <title>@ViewBag.Title</title>
     <!-- Bootstrap core CSS -->
-    <link href="@Url.Content("~/css/bootstrap.css")" rel="stylesheet">
-    <link href="@Url.Content("~/css/carousel.css")" rel="stylesheet">
-    <link href="@Url.Content("~/css/dynasoft.css")" rel="stylesheet">
+    <link href="@Url.Content("~/css/bootstrap.css")" rel="stylesheet">   
+    <link href="@Url.Content("~/css/carousel.css")" rel="stylesheet"> 
+    <link href="@Url.Content("~/css/dynasoft.css")" rel="stylesheet"> 
 
-    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries --> 
     <!--[if lt IE 9]>
         <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
         <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
@@ -32,7 +32,7 @@
                             <span class="icon-bar"></span>
                             <span class="icon-bar"></span>
                         </button>
-                        <a class="navbar-brand" href="index"><img src="~/img/D_160_160.png" height="50 px" alt="@Resources.Home.DynaSoft">@*@Resources.Home.DynaSoft*@</a>
+                        <a class="navbar-brand" href="index"><img src="~/img/D_160_160_white.png" height="50 px" alt="@Resources.Home.DynaSoft">@*@Resources.Home.DynaSoft*@</a>
                     </div>
                     <div class="navbar-collapse collapse">
                         <ul class="nav navbar-nav">
@@ -46,7 +46,7 @@
                                 <ul class="dropdown-menu">
                                     <li>@Html.ActionLink("English", "Set", "Language", new { lang = "EN" }, null)</li>
                                     <li>@Html.ActionLink("Deutsch", "Set", "Language", new { lang = "DE" }, null)</li>
-                                    <li>@Html.ActionLink("Русский", "Set", "Language", new { lang = "RU" }, null)</li>
+                                    @*<li>@Html.ActionLink("Русский", "Set", "Language", new { lang = "RU" }, null)</li>*@
 
                                     @*<li><a href="ChangeLanguageEN">EN</a></li>
                                     <li><a href="ChangeLanguageDE">DE</a></li>

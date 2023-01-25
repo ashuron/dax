@@ -121,43 +121,43 @@
     <value>About us</value>
   </data>
   <data name="AKU" xml:space="preserve">
-    <value>Dipl. Eng. Andrew Kuzmich</value>
+    <value>Andrew Kuzmich</value>
   </data>
   <data name="AKUDescr" xml:space="preserve">
-    <value>Higher technical education, works with Microsoft Dynamics AX since 2000, participated in development and support of standard Axapta module “Cost accounting”. Axapta Certified Master since 2004</value>
+    <value>Partner, senior D365FO developer, solution architect, team and project manager. Experience in Microsoft Dynamics AX since 2000, participated in development and support of standard Axapta module “Cost accounting”. Axapta Certified Master since 2004 MORE TO ADD</value>
   </data>
   <data name="ALA" xml:space="preserve">
-    <value>Ph.D. Aliaksander Ahranovich</value>
+    <value>Aliaksander Ahranovich</value>
   </data>
   <data name="ALADescr" xml:space="preserve">
-    <value>Higher technical education, works in Microsoft Dynamics AX since 2006. Axapta Certified Professional and Microsoft SQL Server Certified Professional since 2006</value>
+    <value>Partner, senior D365FO and CE developer, solution architect, team and project manager. Experience in Microsoft Dynamics AX since 2005. Axapta and CRM Certified Professional and Microsoft SQL Server Certified Professional since 2006 MORE TO ADD</value>
   </data>
   <data name="chemicalIndustry" xml:space="preserve">
     <value>Chemical industry</value>
   </data>
   <data name="ANY" xml:space="preserve">
-    <value>Dipl.Eng. Andrew Yaroslavtsev</value>
+    <value>Andrew Yaroslavtsev</value>
   </data>
   <data name="ANYDescr" xml:space="preserve">
-    <value>Higher technical education, higher economic education, works as above in Microsoft Dynamics AX since 2000. Axapta Certified Professional since 2004</value>
+    <value>Partner, senior D365FO developer, solution architect, team and project manager. Experience in Microsoft Dynamics AX and Concorde XAL since 1999. Axapta Certified Master since 2004 MORE TO ADD</value>
   </data>
   <data name="companyEmployeesImplemented" xml:space="preserve">
-    <value>Company employees implemented more than 250 000 hours of development in Microsoft Dynamics AX version 2.1 – 2012 and more than 200 successful projects</value>
+    <value>We implemented more than 250 000 hours of development in Microsoft Dynamics AX version 2.1 – 2012, and Microsoft Dynamics 365 fulfilling more than 200 successful projects</value>
   </data>
   <data name="companyMission" xml:space="preserve">
-    <value>We consider the company mission in providing professional consulting and development in Microsoft Dynamics AX / D365FO/CE</value>
+    <value>Our mission is providing professional consulting and development services for our partners and customers in Microsoft Dynamics 365 and CE. Our highlights are</value>
   </data>
   <data name="completeAppraisal" xml:space="preserve">
-    <value>Completed projects appraisal</value>
+    <value>Technical audit of running ERP and CRM systems</value>
   </data>
   <data name="DynaSoft" xml:space="preserve">
     <value>Dyna-Soft</value>
   </data>
   <data name="DMS" xml:space="preserve">
-    <value>Ph.D. Dmitri Stepanov</value>
+    <value>Dmitri Stepanov</value>
   </data>
   <data name="DMSDescr" xml:space="preserve">
-    <value>Higher technical education, works with Microsoft Dynamics AX and Concorde XAL since 1999. Axapta Certified Master since 2004</value>
+    <value>Partner, senior D365FO developer, solution architect, team and project manager. Experience in Microsoft Dynamics AX and Concorde XAL since 1999. Axapta Certified Master since 2004 MORE TO ADD</value>
   </data>
   <data name="ecoTechConsulting" xml:space="preserve">
     <value>Economic and technical consulting, projects architecture</value>
@@ -166,13 +166,13 @@
     <value>Fields of automation</value>
   </data>
   <data name="greatExperienceInAX" xml:space="preserve">
-    <value>Extensive experience in Microsoft Dynamics 365 (Axapta) versions upgrade projects, upgrade of customized functionality and customer data, including customizing Microsoft Dynamics 365, more than 15 upgrades to Axapta 4, more than 15 upgrades to version 2009 and over 20 upgrades to version 2012. We have great experience in extending the standard functionality, including retail (POS) and Ecom development</value>
+    <value>Extensive experience in Microsoft Axapta upgrade projects, upgrade of customized functionality and customer data migration resulted in more than 15 upgrades to Axapta 4, more than 15 upgrades to version 2009 and over 20 upgrades to version 2012</value>
   </data>
   <data name="greatExperienceInRemote" xml:space="preserve">
-    <value>Great experience in remote work</value>
+    <value>We are focused on remote work but we also can help customers onsite</value>
   </data>
   <data name="greatInternationalExperience" xml:space="preserve">
-    <value>Great international experience, which makes it possible to reuse successful ideas of other projects made in different countries</value>
+    <value>Our great international experience makes it possible to reuse successful ideas of other projects made in different countries and across different customers</value>
   </data>
   <data name="mainCustomers" xml:space="preserve">
     <value>Main customers</value>
@@ -184,31 +184,31 @@
     <value>References</value>
   </data>
   <data name="remoteAXDev" xml:space="preserve">
-    <value>Remote Microsoft Dynamics 365 development and consulting</value>
+    <value>Microsoft Dynamics 365 development and consulting</value>
   </data>
   <data name="services" xml:space="preserve">
     <value>Services</value>
   </data>
   <data name="stableStaff" xml:space="preserve">
-    <value>Stable staff</value>
+    <value>We have a very stable staff</value>
   </data>
   <data name="theCompanyIsLocated" xml:space="preserve">
     <value>The company is located in Republic of Poland in Warsaw and Wrocław cities and its staff consists of 10 professional Microsoft Dynamics AX and CRM developers</value>
   </data>
-  <data name="theCompanySpecializes" xml:space="preserve">
-    <value>The company specializes in providing Microsoft Dynamics 365 and CE development, deployment, and modification services in West-European countries (Sweden, Switzerland, France, Germany, United Kingdom) and USA</value>
+  <data name="referencesMain" xml:space="preserve">
+    <value>We value our customers and deliver our services with highest quality possible which helps us become partners with our customers and leads to long-term collaboration. Our customers are located in European Union and include Sweden, Switzerland, France, Denmark, Germany, United Kingdom, as well as United States of America</value>
   </data>
-  <data name="theCompanyWasFounded" xml:space="preserve">
-    <value>Dyna-Soft was founded in 2021 by four partners, each of whom had had over 20 years experience in Microsoft Dynamics AX development team at that point in time</value>
+  <data name="aboutMain" xml:space="preserve">
+    <value>Dyna-Soft is a Microsoft Dynamics 365 and Microsoft Dynamics CE development and consulting company founded by partners with more than 20 years of ERP development. We deliver services for ERP and CRM customization and extension, as well as technical analysis and post-go-life support. Our team consists of skilled and professional developers and consultants delivering results to our customers and partners in time and with high quality</value>
   </data>
-  <data name="theMainActivity" xml:space="preserve">
-    <value>The main activity of the company is remote Microsoft Dynamics 365 and CE development</value>
+  <data name="servicesMain" xml:space="preserve">
+    <value>All businesses are unique and many require a proper implementation of ERP and / or CRM systems. Dyna-Soft specializes on Microsoft Dynamics 365 and CE development and consulting, including technical analysis, design, development, implementation and live system support. Our team has a big experience in Microsoft Dynamics 365 (AX), including Retail and eCOM development and customization, Microsoft Dynamics CE development and is able to implement the integrations for Dynamics systems</value>
   </data>
   <data name="theMainFeatures" xml:space="preserve">
     <value>The main features of our company are as follows</value>
   </data>
-  <data name="thePartnersAre" xml:space="preserve">
-    <value>The partners are</value>
+  <data name="ourTeam" xml:space="preserve">
+    <value>Our team</value>
   </data>
   <data name="upgradeAX" xml:space="preserve">
     <value>Microsoft Dynamics AX upgrade to versions 3.X, 4.X, 2009, 2012 and D365FO</value>
@@ -238,16 +238,16 @@
     <value>More</value>
   </data>
   <data name="integration" xml:space="preserve">
-    <value>Design, implementation and support of ERP and CRM systems integration using MS Dynamics Connector, Scribe or custom solutions</value>
+    <value>Design, implementation and support of ERP and CRM systems integration based on various integration platforms, including Dual-Write, Scribe and custom solutions</value>
   </data>
   <data name="remoteCRMDev" xml:space="preserve">
-    <value>Remote Microsoft Dynamics 365 Customer Engagement development and consulting</value>
+    <value>Microsoft Dynamics 365 Customer Engagement development and consulting</value>
   </data>
   <data name="viewDetails" xml:space="preserve">
     <value>View details</value>
   </data>
   <data name="upgradeCRM" xml:space="preserve">
-    <value>Microsoft Dynamics CRM upgrade to versions 2011, 2013, 2015 (online or on-premise), CE</value>
+    <value>Microsoft Dynamics CRM upgrade to versions 2011, 2013, 2015 (online or on-premise)</value>
   </data>
   <data name="address3" xml:space="preserve">
     <value>00-031 Warsaw, Poland</value>
@@ -298,9 +298,120 @@
     <value>Wholesale of food</value>
   </data>
   <data name="msposDevelopment" xml:space="preserve">
-    <value>MSPOS Development</value>
+    <value>Microsoft Dynamics D365 POS and retail development</value>
   </data>
   <data name="companyContact" xml:space="preserve">
     <value>Contact details for Dyna-Soft Spółka z Ograniczoną Odpowiedzialnością</value>
+  </data>
+  <data name="aboutHome" xml:space="preserve">
+    <value>We at Dyna-Soft are passionate about helping people customize and extend Microsoft Dynamics products. Founded in 2021 by four partners with over twenty years of experience in Microsoft Dynamics AX development, the company consists of skilled and professional developers constantly looking for developing their skills and following best practices</value>
+  </data>
+  <data name="referencesHome" xml:space="preserve">
+    <value>We at Dyna-Soft are striving to be a good and valued partner to our customers. We aim for long-term collaboration because a happy customer is our main goal leading to a win-win solution for our partners and Dyna-Soft</value>
+  </data>
+  <data name="servicesHome" xml:space="preserve">
+    <value>Dyna-Soft is helping partners with Microsoft Dynamics 365 and Microsoft Dynamics CE customization and consulting, as well as integrations. Our services incude requirements analysis, technical audit, design, implementation and development, as well as post go-life support</value>
+  </data>
+  <data name="aboutIntro" xml:space="preserve">
+    <value>Dyna-Soft is a Microsoft Dynamics 365 and Microsoft Dynamics CE development and consulting company founded by partners with more than 20 years of ERP development. We deliver services for ERP and CRM customization and extension, as well as technical analysis and post-go-life support. Our team consists of skilled and professional developers and consultants delivering results to our customers and partners in time and with high quality. No matter what challenges our customers face, we try to help them where needed, from start to finish because we know how important are ERP and CRM systems for running business.</value>
+  </data>
+  <data name="ALK" xml:space="preserve">
+    <value>Alex Kurilenko</value>
+  </data>
+  <data name="ALKDescr" xml:space="preserve">
+    <value>Senior .NET, Retail and MS CRM developer, solution architect MORE TO ADD</value>
+  </data>
+  <data name="ALP" xml:space="preserve">
+    <value>Alex Potonia</value>
+  </data>
+  <data name="ALPDescr" xml:space="preserve">
+    <value>Senior D365FO developer. MORE TO ADD</value>
+  </data>
+  <data name="ANT" xml:space="preserve">
+    <value>Andrew Truesevich</value>
+  </data>
+  <data name="ANTDescr" xml:space="preserve">
+    <value>Senior D365FO developer. MORE TO ADD</value>
+  </data>
+  <data name="azureBasedIntegrations" xml:space="preserve">
+    <value>Azure based integrations</value>
+  </data>
+  <data name="DMFBasedIntegrations" xml:space="preserve">
+    <value>DMF based integrations</value>
+  </data>
+  <data name="dotNetDevelopment" xml:space="preserve">
+    <value>.NET development</value>
+  </data>
+  <data name="dualWriteIntegrations" xml:space="preserve">
+    <value>Dual-Write integrations</value>
+  </data>
+  <data name="eCOMDevelopment" xml:space="preserve">
+    <value>eCOM development</value>
+  </data>
+  <data name="ERandRDLDevelopment" xml:space="preserve">
+    <value>Microsoft Dynamics 365 Electronic Reporting and Reporting development</value>
+  </data>
+  <data name="greatExperienceInCRM" xml:space="preserve">
+    <value>We have great experience in Microsoft Dynamics CE customization and upgrades</value>
+  </data>
+  <data name="greatExperienceInExtending" xml:space="preserve">
+    <value>We have great experience in extending the standard Microsoft Dynamics 365 functionality, including retail (POS) and Ecom development</value>
+  </data>
+  <data name="greatExperienceInIntegration" xml:space="preserve">
+    <value>Our experience in both ERP and CRM systems allow us build very robust and predictable integrations which can be based on a variety of integration platforms, including Scribe and Dual-Write</value>
+  </data>
+  <data name="greatExperiencePOSEcom" xml:space="preserve">
+    <value>Our POS and eCOM experience allow us build scalable and stable solutions for retail market and reuse our how-tos for different customers</value>
+  </data>
+  <data name="IRG" xml:space="preserve">
+    <value>Iryna Vorobieva</value>
+  </data>
+  <data name="IRGDescr" xml:space="preserve">
+    <value>Senior .NET, Retail and MS CRM developer, solution architect MORE TO ADD</value>
+  </data>
+  <data name="JUK" xml:space="preserve">
+    <value>Julyana Kruk</value>
+  </data>
+  <data name="JUKDescr" xml:space="preserve">
+    <value>Company and project manager MORE TO ADD</value>
+  </data>
+  <data name="KOM" xml:space="preserve">
+    <value>Konstantin Makchrakov</value>
+  </data>
+  <data name="KOMDescr" xml:space="preserve">
+    <value>.NET, Retail and MS CRM developer. MORE TO ADD</value>
+  </data>
+  <data name="laserNetDevelopment" xml:space="preserve">
+    <value>LaserNet development</value>
+  </data>
+  <data name="MPOSDBOptimization" xml:space="preserve">
+    <value>Microsoft Dynamics D365 Offline POS database optimizations</value>
+  </data>
+  <data name="powerAppsDevelopment" xml:space="preserve">
+    <value>PowerApps development</value>
+  </data>
+  <data name="scribeIntegrations" xml:space="preserve">
+    <value>Scribe and Scribe Online integrations</value>
+  </data>
+  <data name="servicesIntro" xml:space="preserve">
+    <value>We at Dyna-Soft help our customers and partners with Microsoft Dynamics 365 and Microsoft Dynamics CE customization and consulting, as well as integrations. Our services incude but are not limited to</value>
+  </data>
+  <data name="VLT" xml:space="preserve">
+    <value>Vladislav Tsarik</value>
+  </data>
+  <data name="VLTDescr" xml:space="preserve">
+    <value>D365FO and .NET developer. MORE TO ADD</value>
+  </data>
+  <data name="DMM" xml:space="preserve">
+    <value>Dmitry Mikhaevich</value>
+  </data>
+  <data name="DMMDescr" xml:space="preserve">
+    <value>Senior D365FO developer, .NET developer, MORE TO ADD</value>
+  </data>
+  <data name="DVE" xml:space="preserve">
+    <value>Diana Verich</value>
+  </data>
+  <data name="DVEDescr" xml:space="preserve">
+    <value>Senior D365FO developer, .NET developer, Azure integration specialist MORE TO ADD</value>
   </data>
 </root>
