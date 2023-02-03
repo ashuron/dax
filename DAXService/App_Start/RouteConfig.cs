@@ -11,6 +11,7 @@ namespace DynaSoft
 
             routes.MapRoute("index", "index", new { controller = "Home", action = "Index" });
             routes.MapRoute("about", "about", new { controller = "Home", action = "About" });
+            routes.MapRoute("team", "team", new { controller = "Home", action = "Team" });
             routes.MapRoute("references", "references", new { controller = "Home", action = "References" });
             routes.MapRoute("services", "services", new { controller = "Home", action = "Services" });
             routes.MapRoute("contact", "contact", new { controller = "Home", action = "Contact" });

@@ -18,6 +18,13 @@ namespace DynaSoft.Controllers
             return View();
         }
 
+        public ActionResult Team()
+        {
+            ViewBag.Message = @Resources.Home.team;
+
+            return View();
+        }
+
         public ActionResult Services()
         {
             ViewBag.Message = @Resources.Home.services;

@@ -79,11 +79,39 @@ namespace Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Dyna-Soft is a Microsoft Dynamics 365 and Microsoft Dynamics CE development and consulting company founded by partners with more than 20 years of ERP development. We deliver services for ERP and CRM customization and extension, as well as technical analysis and post-go-life support. Our team consists of skilled and professional developers and consultants delivering results to our customers and partners in time and with high quality. No matter what challenges our customers face, we try to help them where nee [rest of string was truncated]&quot;;.
+        ///   Looks up a localized string similar to Dyna-Soft is a leading provider of development and consulting services for MS Dynamics 365 F&amp;O and CE products. Our team of experts has over 20 years of experience in MS Dynamics 365F&amp;O development and customizations and is constantly updating product and technology knowledge and skills to ensure we are following all best practices.
+        ///We specialize in technical analysis of running systems and post go-life support, helping our clients ensure their systems are running smoothly and efficiently. We work closely  [rest of string was truncated]&quot;;.
         /// </summary>
         internal static string aboutIntro {
             get {
                 return ResourceManager.GetString("aboutIntro", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Dyna-Soft is a leading provider of development and consulting services for MS Dynamics 365 F&amp;O and CE products. Our team of experts has over 20 years of experience in MS Dynamics 365F&amp;O development and customizations and is constantly updating product and technology knowledge and skills to ensure we are following all best practices..
+        /// </summary>
+        internal static string aboutIntro1 {
+            get {
+                return ResourceManager.GetString("aboutIntro1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to We specialize in technical analysis of running systems and post go-life support, helping our clients ensure their systems are running smoothly and efficiently. We work closely with our clients to understand their unique needs and develop customized solutions that meet those requirements..
+        /// </summary>
+        internal static string aboutIntro2 {
+            get {
+                return ResourceManager.GetString("aboutIntro2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Our team of experts is dedicated providing the highest quality services and support to our clients. We work closely with our partners to help customize ERP and CRM systems and provide a seamless experience for our clients..
+        /// </summary>
+        internal static string aboutIntro3 {
+            get {
+                return ResourceManager.GetString("aboutIntro3", resourceCulture);
             }
         }
         
@@ -93,6 +121,52 @@ namespace Resources {
         internal static string aboutMain {
             get {
                 return ResourceManager.GetString("aboutMain", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to At Dyna-Soft, our mission is to provide professional consulting and development services for our partners and customers in Microsoft Dynamics 365 and CE. We have a wealth of experience in this field, with over 250,000 hours of development in Microsoft Dynamics AX version 2.1 – 2012, and Microsoft Dynamics 365, completing more than 200 successful projects.
+        ///One of our greatest strengths is our stable staff, which allows us to provide consistent, high-quality services to our clients. We are focused on remote  [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string aboutOutro {
+            get {
+                return ResourceManager.GetString("aboutOutro", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to At Dyna-Soft, our mission is to provide professional consulting and development services for our partners and customers in Microsoft Dynamics 365 and CE. We have a wealth of experience in this field, with over 250,000 hours of development in Microsoft Dynamics AX version 2.1 – 2012, and Microsoft Dynamics 365, completing more than 200 successful projects..
+        /// </summary>
+        internal static string aboutOutro1 {
+            get {
+                return ResourceManager.GetString("aboutOutro1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to One of our greatest strengths is our stable staff, which allows us to provide consistent, high-quality services to our clients. We are focused on remote work but also have the ability to provide onsite assistance to our customers. Our great international experience allows us to reuse know-hows and  ideas we collected across different implementations over years..
+        /// </summary>
+        internal static string aboutOutro2 {
+            get {
+                return ResourceManager.GetString("aboutOutro2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to We have extensive experience in Microsoft Axapta upgrade projects, upgrade of customized functionality and customer data migration, resulting in more than 15 upgrades to Axapta 4, more than 15 upgrades to version 2009, and over 20 upgrades to version 2012. Additionally, we have great experience in extending the standard Microsoft Dynamics 365 functionality, including retail (POS) and eCOM development..
+        /// </summary>
+        internal static string aboutOutro3 {
+            get {
+                return ResourceManager.GetString("aboutOutro3", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Our experience in both ERP and CRM systems allows us to build very robust and predictable integrations, which can be based on a variety of integration platforms, including Scribe and Dual-Write. Our POS and eCOM experience allows us to build scalable and stable solutions for the retail market and reuse our how-tos for different customers. We are dedicated to providing the best service and support to our clients. If you&apos;re looking for a reliable and experienced partner to help you with your MS Dynamics 365 F [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string aboutOutro4 {
+            get {
+                return ResourceManager.GetString("aboutOutro4", resourceCulture);
             }
         }
         
@@ -124,6 +198,15 @@ namespace Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Dyna-Soft successfully partnered with Unitedhours to implement a Retail Dynamics 365 F&amp;O project for customer Ahlens. With over 20 years of experience in MS Dynamics 365 F&amp;O development and customizations, the Dyna-Soft team provided technical analysis, solution design and integration expertise to deliver a comprehensive retail solution. Unitedhours brought their expertise in retail processes to the table, resulting in a smooth and efficient project implementation. The end result was a dynamic retail soluti [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string ahlensIntro {
+            get {
+                return ResourceManager.GetString("ahlensIntro", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Andrew Kuzmich.
         /// </summary>
         internal static string AKU {
@@ -133,7 +216,7 @@ namespace Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Partner, senior D365FO developer, solution architect, team and project manager. Experience in Microsoft Dynamics AX since 2000, participated in development and support of standard Axapta module “Cost accounting”. Axapta Certified Master since 2004 MORE TO ADD.
+        ///   Looks up a localized string similar to Partner and senior D365FO developer at Dyna-Soft. Andrew is a solution architect and team/project manager, known for his ability to always follow best practices and support his team. With experience in Microsoft Dynamics AX since 2000, he has participated in the development and support of the standard Axapta module “Cost accounting”. He is an Axapta Certified Master since 2004. He is a valuable asset to the team, bringing his extensive knowledge and experience to every project he works on. With his leadersh [rest of string was truncated]&quot;;.
         /// </summary>
         internal static string AKUDescr {
             get {
@@ -142,7 +225,7 @@ namespace Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Aliaksander Ahranovich.
+        ///   Looks up a localized string similar to Aliaksandr Ahranovich.
         /// </summary>
         internal static string ALA {
             get {
@@ -151,7 +234,7 @@ namespace Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Partner, senior D365FO and CE developer, solution architect, team and project manager. Experience in Microsoft Dynamics AX since 2005. Axapta and CRM Certified Professional and Microsoft SQL Server Certified Professional since 2006 MORE TO ADD.
+        ///   Looks up a localized string similar to Partner and senior D365FO and CE developer at Dyna-Soft. Aliaksandr is a solution architect and team/project manager with over 15 years of experience in the industry. He has experience in Microsoft Dynamics AX since 2005 and in CRM since 2011, making him an expert in both ERP and CRM systems. He is an Axapta and CRM Certified Professional and an experienced integration solution architect. Aliaksandr also has experience in POS and ECOM development, as well as Azure integrations. He brings a wealth of knowled [rest of string was truncated]&quot;;.
         /// </summary>
         internal static string ALADescr {
             get {
@@ -160,7 +243,16 @@ namespace Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Alex Kurilenko.
+        ///   Looks up a localized string similar to As a top 1% Microsoft Partner, AlfaPeople delivers tried-and-trusted implementation and support for Microsoft Dynamics 365 business technology including Cloud-based products.
+        /// </summary>
+        internal static string alfapeopleIntro {
+            get {
+                return ResourceManager.GetString("alfapeopleIntro", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Aliaksandr Kurilenka.
         /// </summary>
         internal static string ALK {
             get {
@@ -169,7 +261,7 @@ namespace Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Senior .NET, Retail and MS CRM developer, solution architect MORE TO ADD.
+        ///   Looks up a localized string similar to Senior .NET, Retail and MS CRM developer, and solution architect at Dyna-Soft. Aliaksandr is an expert in POS development and is always studying new technologies to stay current. He is known for his ability to develop any POS extension and perform root cause analysis for POS and backend issues..
         /// </summary>
         internal static string ALKDescr {
             get {
@@ -178,7 +270,7 @@ namespace Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Alex Potonia.
+        ///   Looks up a localized string similar to Aliaksandr Potonia.
         /// </summary>
         internal static string ALP {
             get {
@@ -187,7 +279,7 @@ namespace Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Senior D365FO developer. MORE TO ADD.
+        ///   Looks up a localized string similar to Senior X++ and D365 developer at Dyna-Soft. Aliaksandr is known for his ability to deliver various solutions and has a wide experience and knowledge in ERP systems, including but not limited to Microsoft Dynamics 365F&amp;O..
         /// </summary>
         internal static string ALPDescr {
             get {
@@ -196,7 +288,7 @@ namespace Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Andrew Truesevich.
+        ///   Looks up a localized string similar to Andrew Trusevich.
         /// </summary>
         internal static string ANT {
             get {
@@ -205,7 +297,7 @@ namespace Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Senior D365FO developer. MORE TO ADD.
+        ///   Looks up a localized string similar to Senior D365FO developer at Dyna-Soft. Andrew has experience in Axapta development since 2011 and is known for his ability to deliver solutions on time and on budget. He is an integration technical lead and brings a wealth of knowledge and experience to every project he works on. He is well-versed in all best practices and industry standards and is dedicated to helping clients achieve their goals through customized solutions and seamless integrations..
         /// </summary>
         internal static string ANTDescr {
             get {
@@ -223,7 +315,7 @@ namespace Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Partner, senior D365FO developer, solution architect, team and project manager. Experience in Microsoft Dynamics AX and Concorde XAL since 1999. Axapta Certified Master since 2004 MORE TO ADD.
+        ///   Looks up a localized string similar to Partner and senior D365FO developer at Dyna-Soft. Andrew is a solution architect and team/project manager with over two decades years of experience in the industry. He has experience in Microsoft Dynamics AX and Concorde XAL since 1999. He is an Axapta Certified Master since 2004 and is well-versed in all best practices and industry standards..
         /// </summary>
         internal static string ANYDescr {
             get {
@@ -232,11 +324,20 @@ namespace Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Azure based integrations.
+        ///   Looks up a localized string similar to Azure development and integration with Dynamics 365.
         /// </summary>
         internal static string azureBasedIntegrations {
             get {
                 return ResourceManager.GetString("azureBasedIntegrations", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Azure DevOps for Dynamics 365 development and deployment.
+        /// </summary>
+        internal static string azureDevOpsDynamics {
+            get {
+                return ResourceManager.GetString("azureDevOpsDynamics", resourceCulture);
             }
         }
         
@@ -246,6 +347,51 @@ namespace Resources {
         internal static string banking {
             get {
                 return ResourceManager.GetString("banking", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Being a partner of AlfaPeople, we implemented over 30 joint projects in the fields of.
+        /// </summary>
+        internal static string beingAlfaPartner1 {
+            get {
+                return ResourceManager.GetString("beingAlfaPartner1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to At Dyna-Soft, we are proud to have worked alongside AlfaPeople Group, a leading provider of Microsoft Dynamics solutions with offices in Switzerland, United Kingdom, Denmark, Germany, and the United States. Our collaboration with AlfaPeople has allowed us to provide exceptional services to customers across the EU and US, with the combined expertise and resources of both companies. Our joint efforts have resulted in successful projects and satisfied clients, solidifying our partnership with AlfaPeople as a k [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string beingAlfaPartner2 {
+            get {
+                return ResourceManager.GetString("beingAlfaPartner2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to As a partner of Unitedhours, we were a valuable part of Microsoft Dynamics 365 Retail projects in Sweden and in EU. Together with Unitedhours we were able to successfully implement a cutting-edge POS solution that met all customers requirements and exceeded their expectations..
+        /// </summary>
+        internal static string beingUHPartner1 {
+            get {
+                return ResourceManager.GetString("beingUHPartner1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to As experts in Microsoft Dynamics 365 F&amp;O Retail development and integration, Dyna-Soft provided valuable support in customizing the POS solution to the unique needs of the Unitedhours customers. Our team of experienced developers worked closely with the partner to ensure the solution was tailored to their specific requirements and integrated seamlessly with their existing systems..
+        /// </summary>
+        internal static string beingUHPartner2 {
+            get {
+                return ResourceManager.GetString("beingUHPartner2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Dyna-Soft is proud to have played a key role in helping our partner Unitedhours achieve its goals. We look forward to continuing our partnership and supporting their ongoing success..
+        /// </summary>
+        internal static string beingUHPartner3 {
+            get {
+                return ResourceManager.GetString("beingUHPartner3", resourceCulture);
             }
         }
         
@@ -322,6 +468,42 @@ namespace Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Dynamics 365 Custom Workflow Automation Services.
+        /// </summary>
+        internal static string customWorkflowAutomation {
+            get {
+                return ResourceManager.GetString("customWorkflowAutomation", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Dynamics 365 data migration and integration with other systems.
+        /// </summary>
+        internal static string dataMigrationIntegration {
+            get {
+                return ResourceManager.GetString("dataMigrationIntegration", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to As one of the leading European tourist groups, DER Touristik Group will make your dream holiday come true. Each year, millions of guests entrust the group of companies with their holiday and business travel..
+        /// </summary>
+        internal static string derTouristik {
+            get {
+                return ResourceManager.GetString("derTouristik", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to We were thrilled to be part of a project to upgrade a CRM solution from CRM 4.0 to CRM 2011 and then to CRM Online. Our team of experts provided the necessary support and guidance to make the transition as seamless and effective as possible. This involved not only upgrading the software but also migrating all of the data from the old system to the new one. Our team carefully planned and executed the data migration to ensure a seamless transition and no loss of important information. The upgrade and data mig [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string derTouristikWork1 {
+            get {
+                return ResourceManager.GetString("derTouristikWork1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to DMF based integrations.
         /// </summary>
         internal static string DMFBasedIntegrations {
@@ -340,7 +522,7 @@ namespace Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Senior D365FO developer, .NET developer, MORE TO ADD.
+        ///   Looks up a localized string similar to senior D365FO and .NET developer at Dyna-Soft. Dmitry has extensive experience in AX 2009, 2012 and D365F&amp;O versions, making him an expert in all these systems. He is known for his ability to achieve the best possible results in time and on budget, ensuring that all projects are completed to the highest standard..
         /// </summary>
         internal static string DMMDescr {
             get {
@@ -358,7 +540,7 @@ namespace Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Partner, senior D365FO developer, solution architect, team and project manager. Experience in Microsoft Dynamics AX and Concorde XAL since 1999. Axapta Certified Master since 2004 MORE TO ADD.
+        ///   Looks up a localized string similar to Partner and senior D365FO developer at Dyna-Soft. Dmitri is a solution architect and team/project manager known for his attention to detail and dedication to customer needs. He always tries to follow best practices and ensure that all projects are completed to the highest standard. With experience in developing and consulting for Microsoft Dynamics AX and Concorde XAL since 1999, he is an expert in both systems and an Axapta Certified Master since 2004..
         /// </summary>
         internal static string DMSDescr {
             get {
@@ -376,7 +558,7 @@ namespace Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to .NET development.
+        ///   Looks up a localized string similar to .NET development and integration with Dynamics 365.
         /// </summary>
         internal static string dotNetDevelopment {
             get {
@@ -385,7 +567,7 @@ namespace Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Dual-Write integrations.
+        ///   Looks up a localized string similar to Dual-Write integration and customization for Dynamics 365.
         /// </summary>
         internal static string dualWriteIntegrations {
             get {
@@ -403,11 +585,20 @@ namespace Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Senior D365FO developer, .NET developer, Azure integration specialist MORE TO ADD.
+        ///   Looks up a localized string similar to Senior D365FO developer and .NET developer at Dyna-Soft. Diana is an Azure integration specialist, known for her passion for learning new things and her ability to develop integrations seamlessly. She is an expert in root cause analysis and documentation, making her a valuable asset to the team. With her strong technical skills and her dedication to providing the best service and support to clients, she is well-versed in all best practices and industry standards..
         /// </summary>
         internal static string DVEDescr {
             get {
                 return ResourceManager.GetString("DVEDescr", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Dynamics 365 add-on development (e.g. custom workflows, custom entities, custom reports).
+        /// </summary>
+        internal static string dynamicsAddOns {
+            get {
+                return ResourceManager.GetString("dynamicsAddOns", resourceCulture);
             }
         }
         
@@ -421,7 +612,7 @@ namespace Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to eCOM development.
+        ///   Looks up a localized string similar to eCOM integration and customization for Dynamics 365.
         /// </summary>
         internal static string eCOMDevelopment {
             get {
@@ -547,7 +738,7 @@ namespace Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Design, implementation and support of ERP and CRM systems integration based on various integration platforms, including Dual-Write, Scribe and custom solutions.
+        ///   Looks up a localized string similar to Dynamics 365 Custom Integration Services.
         /// </summary>
         internal static string integration {
             get {
@@ -565,7 +756,7 @@ namespace Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Iryna Vorobieva.
+        ///   Looks up a localized string similar to Iryna Vorobyova.
         /// </summary>
         internal static string IRG {
             get {
@@ -574,7 +765,7 @@ namespace Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Senior .NET, Retail and MS CRM developer, solution architect MORE TO ADD.
+        ///   Looks up a localized string similar to Senior .NET developer at Dyna-Soft. Iryna is a Retail and MS CRM senior developer, solution architect, and integration specialist known for her ability to always deliver the best solutions in a timely manner. With her vast experience in .NET development, she is well-versed in the latest technologies and best practices. She is an expert in Retail and MS CRM development and has great experience in integrating systems..
         /// </summary>
         internal static string IRGDescr {
             get {
@@ -592,7 +783,7 @@ namespace Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Company and project manager MORE TO ADD.
+        ///   Looks up a localized string similar to Company manager at Dyna-Soft. Julyana is responsible for the overall management and operations of the company. She is a skilled leader and manager, with a strong ability to lead and motivate her team to achieve success. She is dedicated to providing the best service and support to clients..
         /// </summary>
         internal static string JUKDescr {
             get {
@@ -601,7 +792,7 @@ namespace Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Konstantin Makchrakov.
+        ///   Looks up a localized string similar to Konstantin Makhrakov.
         /// </summary>
         internal static string KOM {
             get {
@@ -610,7 +801,7 @@ namespace Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to .NET, Retail and MS CRM developer. MORE TO ADD.
+        ///   Looks up a localized string similar to .NET, Retail and MS CRM developer at Dyna-Soft. Konstantin has a wide experience in developing and supporting web-service based integrations, making him an extremely valuable asset to the team and to the customer..
         /// </summary>
         internal static string KOMDescr {
             get {
@@ -628,7 +819,7 @@ namespace Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to LaserNet development.
+        ///   Looks up a localized string similar to LaserNet reporting and Electronic reporting integration and customization.
         /// </summary>
         internal static string laserNetDevelopment {
             get {
@@ -655,6 +846,15 @@ namespace Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to and more....
+        /// </summary>
+        internal static string more {
+            get {
+                return ResourceManager.GetString("more", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Microsoft Dynamics D365 Offline POS database optimizations.
         /// </summary>
         internal static string MPOSDBOptimization {
@@ -664,7 +864,7 @@ namespace Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Microsoft Dynamics D365 POS and retail development.
+        ///   Looks up a localized string similar to Microsoft Dynamics D365 POS implementation and customization.
         /// </summary>
         internal static string msposDevelopment {
             get {
@@ -682,7 +882,7 @@ namespace Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Our team.
+        ///   Looks up a localized string similar to Our core team members.
         /// </summary>
         internal static string ourTeam {
             get {
@@ -718,11 +918,20 @@ namespace Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to PowerApps development.
+        ///   Looks up a localized string similar to Power Platform development and customization.
         /// </summary>
         internal static string powerAppsDevelopment {
             get {
                 return ResourceManager.GetString("powerAppsDevelopment", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Dynamics 365 PowerApps and Power Automate development and customization.
+        /// </summary>
+        internal static string powerAppsPowerAutomate {
+            get {
+                return ResourceManager.GetString("powerAppsPowerAutomate", resourceCulture);
             }
         }
         
@@ -763,6 +972,33 @@ namespace Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to At Dyna-Soft, our commitment to providing exceptional development and consulting services for MS Dynamics 365 F&amp;O and CE products is reflected in the satisfaction of our clients. With over 20 years of experience in the industry and a team of experts in the field, we have earned a reputation for delivering high-quality solutions and excellent customer support..
+        /// </summary>
+        internal static string referencesIntro1 {
+            get {
+                return ResourceManager.GetString("referencesIntro1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to We are proud to have a growing list of satisfied customers who have trusted us with their MS Dynamics needs. From technical analysis and post-go-life support to customizations and integration services, we have helped our clients achieve their goals and streamline their processes. Our team of experts work closely with our partners to ensure that each project is completed on time, on budget and to the highest standard..
+        /// </summary>
+        internal static string referencesIntro2 {
+            get {
+                return ResourceManager.GetString("referencesIntro2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to We invite you to take a look at our customer references and see for yourself why Dyna-Soft is the trusted choice for MS Dynamics solutions..
+        /// </summary>
+        internal static string referencesIntro3 {
+            get {
+                return ResourceManager.GetString("referencesIntro3", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to We value our customers and deliver our services with highest quality possible which helps us become partners with our customers and leads to long-term collaboration. Our customers are located in European Union and include Sweden, Switzerland, France, Denmark, Germany, United Kingdom, as well as United States of America.
         /// </summary>
         internal static string referencesMain {
@@ -772,7 +1008,7 @@ namespace Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Microsoft Dynamics 365 development and consulting.
+        ///   Looks up a localized string similar to Microsoft Dynamics 365 F&amp;O implementation and customization.
         /// </summary>
         internal static string remoteAXDev {
             get {
@@ -781,7 +1017,7 @@ namespace Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Microsoft Dynamics 365 Customer Engagement development and consulting.
+        ///   Looks up a localized string similar to Microsoft Dynamics 365 Customer Engagement implementation and customization.
         /// </summary>
         internal static string remoteCRMDev {
             get {
@@ -799,7 +1035,7 @@ namespace Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Scribe and Scribe Online integrations.
+        ///   Looks up a localized string similar to Scribe and Scribe Online integration and customization.
         /// </summary>
         internal static string scribeIntegrations {
             get {
@@ -862,6 +1098,42 @@ namespace Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Dyna-Soft teamed up with Alfapeople to help streamline and customize the ERP system for their customer, Stobag. This project involved extensive customization of the product builder, as well as improvements and optimizations to the ERP sales process. Dyna-Soft&apos;s expertise in MS Dynamics 365 F&amp;O, combined with Alfapeople&apos;s knowledge and experience, resulted in a successful implementation that provided significant improvements to Stobag&apos;s operations. With the help of Dyna-Soft, Stobag was able to streamline th [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string stobagIntro {
+            get {
+                return ResourceManager.GetString("stobagIntro", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Team.
+        /// </summary>
+        internal static string team {
+            get {
+                return ResourceManager.GetString("team", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to At Dyna-Soft, we have a highly skilled and experienced team of professionals who specialize in development and consulting services for MS Dynamics 365 F&amp;O and CE products. Our team members have over 20 years of experience in MS Dynamics 365 F&amp;O development and customizations, and are constantly improving their skills to follow all best practices. Our solution architects and senior developers have extensive knowledge in various technologies, including .NET, retail, CRM, and Azure integrations. Our team membe [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string teamIntro {
+            get {
+                return ResourceManager.GetString("teamIntro", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Dyna-Soft, with the help of its partner Unitedhours, successfully implemented a Retail Dynamics 365 F&amp;O project for the largest telecommunications company in Sweden, Telia. Telia aimed to improve its inventory and sales processes, as well as provide a seamless customer experience. Dyna-Soft&apos;s team of experts worked closely with Unitedhours to tailor the POS solution and integrate it with the backend processes and ECOM solution. This resulted in a streamlined and efficient system that met Telia&apos;s needs and e [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string teliaIntro {
+            get {
+                return ResourceManager.GetString("teliaIntro", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to The company is located in Republic of Poland in Warsaw and Wrocław cities and its staff consists of 10 professional Microsoft Dynamics AX and CRM developers.
         /// </summary>
         internal static string theCompanyIsLocated {
@@ -876,6 +1148,24 @@ namespace Resources {
         internal static string theMainFeatures {
             get {
                 return ResourceManager.GetString("theMainFeatures", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Dynamics 365 training and support.
+        /// </summary>
+        internal static string trainingSupport {
+            get {
+                return ResourceManager.GetString("trainingSupport", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Unitedhours is a company focusing on implementing Dynamics 365 for any corporation that are prepared and willing to utilize an ambitions partner that has adopted to agile methodologies proven to be efficient in multiple projects. Our focus is Retail implementations.
+        /// </summary>
+        internal static string unitedHoursIntro {
+            get {
+                return ResourceManager.GetString("unitedHoursIntro", resourceCulture);
             }
         }
         
@@ -907,6 +1197,15 @@ namespace Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Viseo Group help you take advantage of digital opportunities, address new uses and compete with players who are changing the rules of the game..
+        /// </summary>
+        internal static string viseoIntro {
+            get {
+                return ResourceManager.GetString("viseoIntro", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Vladislav Tsarik.
         /// </summary>
         internal static string VLT {
@@ -916,7 +1215,7 @@ namespace Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to D365FO and .NET developer. MORE TO ADD.
+        ///   Looks up a localized string similar to D365FO and .NET developer at Dyna-Soft. Vladislav&apos;s extensive knowledge of AX and his ability to concentrate on his work allow him to design and implement solutions in time and on budget. He is always eager to learn new technologies and approaches, making him an asset to the team. He is well-versed in all best practices and industry standards..
         /// </summary>
         internal static string VLTDescr {
             get {

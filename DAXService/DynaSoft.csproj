@@ -166,7 +166,9 @@
     <Content Include="Global.asax" />
     <Content Include="img\about_us.jpg" />
     <Content Include="img\about_us_example.jpg" />
+    <Content Include="img\ahlens.png" />
     <Content Include="img\ap_logo_transp_220px.png" />
+    <Content Include="img\DerTouristic.png" />
     <Content Include="img\D_160_160.png" />
     <Content Include="img\D_160_160_white.png" />
     <Content Include="img\kuoni.svg" />
@@ -178,7 +180,10 @@
     <Content Include="img\references.jpg" />
     <Content Include="img\references_example.jpg" />
     <Content Include="img\services_example.jpg" />
+    <Content Include="img\Stobag.png" />
     <Content Include="img\team.png" />
+    <Content Include="img\Telia_Logotype_RGB_Purple.png" />
+    <Content Include="img\uh.png" />
     <Content Include="img\UnknownAvatar.jpg" />
     <Content Include="img\viseo.png" />
     <Content Include="img\services.jpg" />
@@ -201,6 +206,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Properties\PublishProfiles\DynaSoft2023 - Web Deploy.pubxml" />
+    <Content Include="Views\Home\Team.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="packages.config" />
