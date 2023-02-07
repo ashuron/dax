@@ -500,4 +500,7 @@ We are dedicated to providing the best service and support to our clients. If yo
   <data name="unitedHoursIntro" xml:space="preserve">
     <value>Unitedhours is a company focusing on implementing Dynamics 365 for any corporation that are prepared and willing to utilize an ambitions partner that has adopted to agile methodologies proven to be efficient in multiple projects. Our focus is Retail implementations</value>
   </data>
+  <data name="ContactUs" xml:space="preserve">
+    <value>Contact us</value>
+  </data>
 </root>
