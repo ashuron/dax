@@ -164,31 +164,30 @@
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
+    <Content Include="img\AboutUs1.png" />
     <Content Include="img\about_us.jpg" />
     <Content Include="img\about_us_example.jpg" />
     <Content Include="img\ahlens.png" />
+    <Content Include="img\Ahlens_Red_RGB-removebg-preview.png" />
+    <Content Include="img\alfapeople_logo.png" />
     <Content Include="img\ap_logo_transp_220px.png" />
     <Content Include="img\DerTouristic.png" />
+    <Content Include="img\DerTouristik_.png" />
     <Content Include="img\D_160_160.png" />
     <Content Include="img\D_160_160_white.png" />
     <Content Include="img\kuoni.svg" />
+    <Content Include="img\logo-viseo.svg" />
     <Content Include="img\logo.png" />
     <Content Include="img\logo_dyna.png" />
     <Content Include="img\logo_dyna_white.png" />
-    <Content Include="img\logo_lanit_rus.jpg" />
     <Content Include="img\mspos.png" />
-    <Content Include="img\references.jpg" />
     <Content Include="img\references_example.jpg" />
     <Content Include="img\services_example.jpg" />
     <Content Include="img\Stobag.png" />
-    <Content Include="img\team.png" />
     <Content Include="img\Telia_Logotype_RGB_Purple.png" />
     <Content Include="img\uh.png" />
     <Content Include="img\UnknownAvatar.jpg" />
     <Content Include="img\viseo.png" />
-    <Content Include="img\services.jpg" />
-    <Content Include="img\reference.png" />
-    <Content Include="img\service.png" />
     <Content Include="js\bootstrap.js" />
     <Content Include="js\bootstrap.min.js" />
     <Content Include="Scripts\modernizr-2.8.3.js" />
@@ -205,6 +204,7 @@
     <Content Include="Views\Shared\_Layout.cshtml" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="img\Ahlens_Red_RGB-removebg-preview.webp" />
     <None Include="Properties\PublishProfiles\DynaSoft2023 - Web Deploy.pubxml" />
     <Content Include="Views\Home\Team.cshtml" />
   </ItemGroup>
