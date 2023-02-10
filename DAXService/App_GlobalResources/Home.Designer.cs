@@ -846,6 +846,15 @@ namespace Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Dyna-Soft worked closely with company Mageba to implement and customize their ERP system. This partnership involved technical analysis, development, and integration of various ERP modules to meet the unique needs of the client. The focus was on streamlining the sales processes, optimizing inventory management, and improving overall efficiency. Dyna-Soft&apos;s expertise in Microsoft Dynamics 365F&amp;O made for a powerful partnership that delivered outstanding results for the client..
+        /// </summary>
+        internal static string magebaIntro {
+            get {
+                return ResourceManager.GetString("magebaIntro", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Main customers.
         /// </summary>
         internal static string mainCustomers {

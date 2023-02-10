@@ -522,4 +522,7 @@ We are dedicated to providing the best service and support to our clients. If yo
   <data name="ContactUs" xml:space="preserve">
     <value>Contact us</value>
   </data>
+  <data name="magebaIntro" xml:space="preserve">
+    <value>Dyna-Soft worked closely with company Mageba to implement and customize their ERP system. This partnership involved technical analysis, development, and integration of various ERP modules to meet the unique needs of the client. The focus was on streamlining the sales processes, optimizing inventory management, and improving overall efficiency. Dyna-Soft's expertise in Microsoft Dynamics 365F&amp;O made for a powerful partnership that delivered outstanding results for the client.</value>
+  </data>
 </root>
