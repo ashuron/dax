@@ -137,10 +137,10 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>Home.resx</DependentUpon>
     </Compile>
-    <Compile Include="App_GlobalResources\Home.ru.designer.cs">
+    <Compile Include="App_GlobalResources\Home.pl.designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
-      <DependentUpon>Home.ru.resx</DependentUpon>
+      <DependentUpon>Home.pl.resx</DependentUpon>
     </Compile>
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
@@ -164,28 +164,18 @@
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
-    <Content Include="img\AboutUs1.png" />
-    <Content Include="img\AboutUsAI.png" />
-    <Content Include="img\AboutUsAI2.png" />
-    <Content Include="img\about_us.jpg" />
-    <Content Include="img\about_us_example.jpg" />
-    <Content Include="img\ahlens.png" />
+    <Content Include="img\AboutUs_01.jpg" />
+    <Content Include="img\AboutUs_02.jpg" />
     <Content Include="img\Ahlens_Red_RGB-removebg-preview.png" />
+    <Content Include="img\ALA.png" />
     <Content Include="img\alfapeople_logo.png" />
-    <Content Include="img\ap_logo_transp_220px.png" />
-    <Content Include="img\DerTouristic.png" />
-    <Content Include="img\DerTouristik_.png" />
+    <Content Include="img\DerTouristik.png" />
     <Content Include="img\D_160_160.png" />
     <Content Include="img\D_160_160_white.png" />
-    <Content Include="img\kuoni.svg" />
+    <Content Include="img\JUK.png" />
     <Content Include="img\logo-viseo.svg" />
-    <Content Include="img\logo.png" />
-    <Content Include="img\logo_dyna.png" />
     <Content Include="img\logo_dyna_white.png" />
     <Content Include="img\mageba-logo.svg" />
-    <Content Include="img\mspos.png" />
-    <Content Include="img\references_example.jpg" />
-    <Content Include="img\services_example.jpg" />
     <Content Include="img\Stobag.png" />
     <Content Include="img\Telia_Logotype_RGB_Purple.png" />
     <Content Include="img\uh.png" />
@@ -207,7 +197,7 @@
     <Content Include="Views\Shared\_Layout.cshtml" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="img\Ahlens_Red_RGB-removebg-preview.webp" />
+    <None Include="Properties\PublishProfiles\Dyna-Soft - Web Deploy.pubxml" />
     <None Include="Properties\PublishProfiles\DynaSoft2023 - Web Deploy.pubxml" />
     <Content Include="Views\Home\Team.cshtml" />
   </ItemGroup>
@@ -235,23 +225,22 @@
     </Content>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Views\Home\Services.cshtml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Views\Home\References.cshtml" />
+  </ItemGroup>
+  <ItemGroup>
     <Content Include="App_GlobalResources\Home.de.resx">
       <Generator>GlobalResourceProxyGenerator</Generator>
       <LastGenOutput>Home.de.designer.cs</LastGenOutput>
     </Content>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="App_GlobalResources\Home.ru.resx">
+    <Content Include="App_GlobalResources\Home.pl.resx">
       <Generator>GlobalResourceProxyGenerator</Generator>
-      <LastGenOutput>Home.ru.designer.cs</LastGenOutput>
-      <SubType>Designer</SubType>
+      <LastGenOutput>Home.pl.designer.cs</LastGenOutput>
     </Content>
-  </ItemGroup>
-  <ItemGroup>
-    <Content Include="Views\Home\Services.cshtml" />
-  </ItemGroup>
-  <ItemGroup>
-    <Content Include="Views\Home\References.cshtml" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

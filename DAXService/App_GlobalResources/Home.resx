@@ -144,9 +144,6 @@
   <data name="companyEmployeesImplemented" xml:space="preserve">
     <value>We implemented more than 250 000 hours of development in Microsoft Dynamics AX version 2.1 – 2012, and Microsoft Dynamics 365 fulfilling more than 200 successful projects</value>
   </data>
-  <data name="companyMission" xml:space="preserve">
-    <value>Our mission is providing professional consulting and development services for our partners and customers in Microsoft Dynamics 365 and CE. Our highlights are</value>
-  </data>
   <data name="completeAppraisal" xml:space="preserve">
     <value>Technical audit of running ERP and CRM systems</value>
   </data>
@@ -161,18 +158,6 @@
   </data>
   <data name="ecoTechConsulting" xml:space="preserve">
     <value>Economic and technical consulting, projects architecture</value>
-  </data>
-  <data name="fieldsOfAutomation" xml:space="preserve">
-    <value>Fields of automation</value>
-  </data>
-  <data name="greatExperienceInAX" xml:space="preserve">
-    <value>Extensive experience in Microsoft Axapta upgrade projects, upgrade of customized functionality and customer data migration resulted in more than 15 upgrades to Axapta 4, more than 15 upgrades to version 2009 and over 20 upgrades to version 2012</value>
-  </data>
-  <data name="greatExperienceInRemote" xml:space="preserve">
-    <value>We are focused on remote work but we also can help customers onsite</value>
-  </data>
-  <data name="greatInternationalExperience" xml:space="preserve">
-    <value>Our great international experience makes it possible to reuse successful ideas of other projects made in different countries and across different customers</value>
   </data>
   <data name="mainCustomers" xml:space="preserve">
     <value>Main customers</value>
@@ -189,9 +174,6 @@
   <data name="services" xml:space="preserve">
     <value>Services</value>
   </data>
-  <data name="stableStaff" xml:space="preserve">
-    <value>We have a very stable staff</value>
-  </data>
   <data name="theCompanyIsLocated" xml:space="preserve">
     <value>The company is located in Republic of Poland in Warsaw and Wrocław cities and its staff consists of 10 professional Microsoft Dynamics AX and CRM developers</value>
   </data>
@@ -203,9 +185,6 @@
   </data>
   <data name="servicesMain" xml:space="preserve">
     <value>All businesses are unique and many require a proper implementation of ERP and / or CRM systems. Dyna-Soft specializes on Microsoft Dynamics 365 and CE development and consulting, including technical analysis, design, development, implementation and live system support. Our team has a big experience in Microsoft Dynamics 365 (AX), including Retail and eCOM development and customization, Microsoft Dynamics CE development and is able to implement the integrations for Dynamics systems</value>
-  </data>
-  <data name="theMainFeatures" xml:space="preserve">
-    <value>The main features of our company are as follows</value>
   </data>
   <data name="ourTeam" xml:space="preserve">
     <value>Our core team members</value>
@@ -224,12 +203,6 @@
   </data>
   <data name="language" xml:space="preserve">
     <value>Language</value>
-  </data>
-  <data name="phoneAbbr" xml:space="preserve">
-    <value>P</value>
-  </data>
-  <data name="phoneHelp" xml:space="preserve">
-    <value>Phone</value>
   </data>
   <data name="sendEmail" xml:space="preserve">
     <value>Please send e-mails to</value>
@@ -252,9 +225,6 @@
   <data name="address3" xml:space="preserve">
     <value>00-031 Warsaw, Poland</value>
   </data>
-  <data name="banking" xml:space="preserve">
-    <value>Banking</value>
-  </data>
   <data name="crmDevelopment" xml:space="preserve">
     <value>Microsoft Dynamics 365 Customer Engagement (CRM) Development</value>
   </data>
@@ -270,17 +240,11 @@
   <data name="engineeringIndustry" xml:space="preserve">
     <value>Engineering industry</value>
   </data>
-  <data name="foodIndustry" xml:space="preserve">
-    <value>Food industry</value>
-  </data>
   <data name="integrations" xml:space="preserve">
     <value>Integrations</value>
   </data>
   <data name="lightAndHeavyIndustry" xml:space="preserve">
     <value>Light and heavy industry</value>
-  </data>
-  <data name="pos" xml:space="preserve">
-    <value>Point of Sale</value>
   </data>
   <data name="production" xml:space="preserve">
     <value>Production</value>
@@ -310,7 +274,7 @@
     <value>We at Dyna-Soft are striving to be a good and valued partner to our customers. We aim for long-term collaboration because a happy customer is our main goal leading to a win-win solution for our partners and Dyna-Soft</value>
   </data>
   <data name="servicesHome" xml:space="preserve">
-    <value>Dyna-Soft is helping partners with Microsoft Dynamics 365 and Microsoft Dynamics CE customization and consulting, as well as integrations. Our services incude requirements analysis, technical audit, design, implementation and development, as well as post go-life support</value>
+    <value>Dyna-Soft is helping partners with Microsoft Dynamics 365 and Microsoft Dynamics CE customization and consulting, as well as integrations. Our services include requirements analysis, technical audit, design, implementation and development, as well as post go-life support</value>
   </data>
   <data name="aboutIntro" xml:space="preserve">
     <value>Dyna-Soft is a leading provider of development and consulting services for MS Dynamics 365 F&amp;O and CE products. Our team of experts has over 20 years of experience in MS Dynamics 365F&amp;O development and customizations and is constantly updating product and technology knowledge and skills to ensure we are following all best practices.
@@ -318,16 +282,16 @@ We specialize in technical analysis of running systems and post go-life support,
 Our team of experts is dedicated providing the highest quality services and support to our clients. We work closely with our partners to help customize ERP and CRM systems and provide a seamless experience for our clients.</value>
   </data>
   <data name="ALK" xml:space="preserve">
-    <value>Aliaksandr Kurilenka</value>
+    <value>Aliaksandr Kurylenka</value>
   </data>
   <data name="ALKDescr" xml:space="preserve">
     <value>Senior .NET, Retail and MS CRM developer, and solution architect at Dyna-Soft. Aliaksandr is an expert in POS development and is always studying new technologies to stay current. He is known for his ability to develop any POS extension and perform root cause analysis for POS and backend issues.</value>
   </data>
   <data name="ALP" xml:space="preserve">
-    <value>Aliaksandr Potonia</value>
+    <value>Alexander Potonya</value>
   </data>
   <data name="ALPDescr" xml:space="preserve">
-    <value>Senior X++ and D365 developer at Dyna-Soft. Aliaksandr is known for his ability to deliver various solutions and has a wide experience and knowledge in ERP systems, including but not limited to Microsoft Dynamics 365F&amp;O.</value>
+    <value>Senior X++ and D365 developer at Dyna-Soft. Alexander is known for his ability to deliver various solutions and has a wide experience and knowledge in ERP systems, including but not limited to Microsoft Dynamics 365F&amp;O.</value>
   </data>
   <data name="ANT" xml:space="preserve">
     <value>Andrew Trusevich</value>
@@ -352,18 +316,6 @@ Our team of experts is dedicated providing the highest quality services and supp
   </data>
   <data name="ERandRDLDevelopment" xml:space="preserve">
     <value>Microsoft Dynamics 365 Electronic Reporting and Reporting development</value>
-  </data>
-  <data name="greatExperienceInCRM" xml:space="preserve">
-    <value>We have great experience in Microsoft Dynamics CE customization and upgrades</value>
-  </data>
-  <data name="greatExperienceInExtending" xml:space="preserve">
-    <value>We have great experience in extending the standard Microsoft Dynamics 365 functionality, including retail (POS) and Ecom development</value>
-  </data>
-  <data name="greatExperienceInIntegration" xml:space="preserve">
-    <value>Our experience in both ERP and CRM systems allow us build very robust and predictable integrations which can be based on a variety of integration platforms, including Scribe and Dual-Write</value>
-  </data>
-  <data name="greatExperiencePOSEcom" xml:space="preserve">
-    <value>Our POS and eCOM experience allow us build scalable and stable solutions for retail market and reuse our how-tos for different customers</value>
   </data>
   <data name="IRG" xml:space="preserve">
     <value>Iryna Vorobyova</value>
@@ -404,12 +356,6 @@ Our team of experts is dedicated providing the highest quality services and supp
   <data name="VLTDescr" xml:space="preserve">
     <value>D365FO and .NET developer at Dyna-Soft. Vladislav's extensive knowledge of AX and his ability to concentrate on his work allow him to design and implement solutions in time and on budget. He is always eager to learn new technologies and approaches, making him an asset to the team. He is well-versed in all best practices and industry standards.</value>
   </data>
-  <data name="DMM" xml:space="preserve">
-    <value>Dmitry Mikhaevich</value>
-  </data>
-  <data name="DMMDescr" xml:space="preserve">
-    <value>senior D365FO and .NET developer at Dyna-Soft. Dmitry has extensive experience in AX 2009, 2012 and D365F&amp;O versions, making him an expert in all these systems. He is known for his ability to achieve the best possible results in time and on budget, ensuring that all projects are completed to the highest standard.</value>
-  </data>
   <data name="DVE" xml:space="preserve">
     <value>Diana Verich</value>
   </data>
@@ -443,9 +389,6 @@ We are dedicated to providing the best service and support to our clients. If yo
   </data>
   <data name="aboutOutro4" xml:space="preserve">
     <value>Our experience in both ERP and CRM systems allows us to build very robust and predictable integrations, which can be based on a variety of integration platforms, including Scribe and Dual-Write. Our POS and eCOM experience allows us to build scalable and stable solutions for the retail market and reuse our how-tos for different customers. We are dedicated to providing the best service and support to our clients. If you're looking for a reliable and experienced partner to help you with your MS Dynamics 365 F&amp;O and CE needs, look no further than Dyna-Soft.</value>
-  </data>
-  <data name="more" xml:space="preserve">
-    <value>and more...</value>
   </data>
   <data name="ahlensIntro" xml:space="preserve">
     <value>Dyna-Soft successfully partnered with Unitedhours to implement a Retail Dynamics 365 F&amp;O project for customer Ahlens. With over 20 years of experience in MS Dynamics 365 F&amp;O development and customizations, the Dyna-Soft team provided technical analysis, solution design and integration expertise to deliver a comprehensive retail solution. Unitedhours brought their expertise in retail processes to the table, resulting in a smooth and efficient project implementation. The end result was a dynamic retail solution that effectively addressed Ahlens’ business requirements and helped them streamline their operations. The partnership between Dyna-Soft and Unitedhours was a clear success and demonstrated the power of collaboration in delivering top-notch solutions for customers.</value>
@@ -508,7 +451,7 @@ We are dedicated to providing the best service and support to our clients. If yo
     <value>At Dyna-Soft, we have a highly skilled and experienced team of professionals who specialize in development and consulting services for MS Dynamics 365 F&amp;O and CE products. Our team members have over 20 years of experience in MS Dynamics 365 F&amp;O development and customizations, and are constantly improving their skills to follow all best practices. Our solution architects and senior developers have extensive knowledge in various technologies, including .NET, retail, CRM, and Azure integrations. Our team members are dedicated to delivering the best possible solution to our clients, in time and on budget. With a passion for learning and a commitment to excellence, our team is ready to tackle any challenge that comes our way.</value>
   </data>
   <data name="teliaIntro" xml:space="preserve">
-    <value>Dyna-Soft, with the help of its partner Unitedhours, successfully implemented a Retail Dynamics 365 F&amp;O project for the largest telecommunications company in Sweden, Telia. Telia aimed to improve its inventory and sales processes, as well as provide a seamless customer experience. Dyna-Soft's team of experts worked closely with Unitedhours to tailor the POS solution and integrate it with the backend processes and ECOM solution. This resulted in a streamlined and efficient system that met Telia's needs and expectations. The project was delivered on time and within budget, proving the effectiveness of Dyna-Soft's development and consulting services.</value>
+    <value>Dyna-Soft, together with its partner Unitedhours, successfully implemented a Retail Dynamics 365 F&amp;O project for the largest telecommunications company in Sweden, Telia. Telia aimed to improve its inventory and sales processes, as well as provide a seamless customer experience. Dyna-Soft's team of experts worked closely with Unitedhours to tailor the POS solution and integrate it with the backend processes and ECOM solution. This resulted in a streamlined and efficient system that met Telia's needs and expectations. The project was delivered on time and within budget, proving the effectiveness of Dyna-Soft's development and consulting services.</value>
   </data>
   <data name="trainingSupport" xml:space="preserve">
     <value>Dynamics 365 training and support</value>
@@ -523,6 +466,9 @@ We are dedicated to providing the best service and support to our clients. If yo
     <value>Contact us</value>
   </data>
   <data name="magebaIntro" xml:space="preserve">
-    <value>Dyna-Soft worked closely with company Mageba to implement and customize their ERP system. This partnership involved technical analysis, development, and integration of various ERP modules to meet the unique needs of the client. The focus was on streamlining the sales processes, optimizing inventory management, and improving overall efficiency. Dyna-Soft's expertise in Microsoft Dynamics 365F&amp;O made for a powerful partnership that delivered outstanding results for the client.</value>
+    <value>Dyna-Soft worked closely with company Mageba to support and customize their ERP system. This partnership involved technical analysis, development and integration of various ERP modules to meet the unique needs of the client. The focus was on streamlining the sales processes, optimizing inventory management and improving overall efficiency. Dyna-Soft's expertise in Microsoft Dynamics AX2012 made for a powerful partnership that delivered outstanding results for the client.</value>
+  </data>
+  <data name="pos" xml:space="preserve">
+    <value>Point of Sale</value>
   </data>
 </root>
