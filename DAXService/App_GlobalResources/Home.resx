@@ -354,7 +354,7 @@ Our team of experts is dedicated providing the highest quality services and supp
     <value>Vladislav Tsarik</value>
   </data>
   <data name="VLTDescr" xml:space="preserve">
-    <value>D365FO and .NET developer at Dyna-Soft. Vladislav's extensive knowledge of AX and his ability to concentrate on his work allow him to design and implement solutions in time and on budget. He is always eager to learn new technologies and approaches, making him an asset to the team. He is well-versed in all best practices and industry standards.</value>
+    <value>D365FO and Lasernet developer at Dyna-Soft. Vladislav's extensive knowledge of AX and his ability to concentrate on his work allow him to design and implement solutions in time and on budget. He is always eager to learn new technologies and approaches, making him an asset to the team. He is well-versed in all best practices and industry standards.</value>
   </data>
   <data name="DVE" xml:space="preserve">
     <value>Diana Verich</value>
@@ -470,5 +470,23 @@ We are dedicated to providing the best service and support to our clients. If yo
   </data>
   <data name="pos" xml:space="preserve">
     <value>Point of Sale</value>
+  </data>
+  <data name="email" xml:space="preserve">
+    <value>Email Address</value>
+  </data>
+  <data name="message" xml:space="preserve">
+    <value>Message</value>
+  </data>
+  <data name="messageHelp" xml:space="preserve">
+    <value>Please type your message</value>
+  </data>
+  <data name="name" xml:space="preserve">
+    <value>Full name</value>
+  </data>
+  <data name="nameHelp" xml:space="preserve">
+    <value>First and Last</value>
+  </data>
+  <data name="submit" xml:space="preserve">
+    <value>Submit</value>
   </data>
 </root>

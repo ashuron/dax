@@ -20,7 +20,7 @@
         <div class="col-sm-6 col-xs-12">
 
             <h2>
-                <img src="~/img/logo_dyna_white.png" width="300px" />
+                <img src="~/img/DynaSoftAnimation.gif"/>
             </h2>
 
             <address>
@@ -38,15 +38,15 @@
             <h3>@Resources.Home.ContactUs</h3>
             <form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/mbjeglnj" method="post">
                 <fieldset id="fs-frm-inputs">
-                    <label for="full-name">Full Name</label>
-                    <input type="text" name="name" id="full-name" placeholder="First and Last" required="">
-                    <label for="email-address">Email Address</label>
+                    <label for="full-name">@Resources.Home.name</label>
+                    <input type="text" name="name" id="full-name" placeholder="@Resources.Home.nameHelp" required="">
+                    <label for="email-address">@Resources.Home.email</label>
                     <input type="email" name="_replyto" id="email-address" placeholder="email@domain.tld" required="">
-                    <label for="message">Message</label>
-                    <textarea rows="5" name="message" id="message" placeholder="Please type your message" required=""></textarea>
+                    <label for="message">@Resources.Home.message</label>
+                    <textarea rows="5" name="message" id="message" placeholder="@Resources.Home.messageHelp" required=""></textarea>
                     <input type="hidden" name="_subject" id="email-subject" value="Contact Form Submission">
                 </fieldset>
-                <input type="submit" value="Submit">
+                <input type="submit" value=@Resources.Home.submit>
             </form>
         </div>
     </div>

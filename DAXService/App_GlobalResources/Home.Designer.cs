@@ -612,6 +612,15 @@ namespace Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Email Address.
+        /// </summary>
+        internal static string email {
+            get {
+                return ResourceManager.GetString("email", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Engineering industry.
         /// </summary>
         internal static string engineeringIndustry {
@@ -747,6 +756,24 @@ namespace Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Message.
+        /// </summary>
+        internal static string message {
+            get {
+                return ResourceManager.GetString("message", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Please type your message.
+        /// </summary>
+        internal static string messageHelp {
+            get {
+                return ResourceManager.GetString("messageHelp", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Microsoft Dynamics D365 Offline POS database optimizations.
         /// </summary>
         internal static string MPOSDBOptimization {
@@ -761,6 +788,24 @@ namespace Resources {
         internal static string msposDevelopment {
             get {
                 return ResourceManager.GetString("msposDevelopment", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Full name.
+        /// </summary>
+        internal static string name {
+            get {
+                return ResourceManager.GetString("name", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to First and Last.
+        /// </summary>
+        internal static string nameHelp {
+            get {
+                return ResourceManager.GetString("nameHelp", resourceCulture);
             }
         }
         
@@ -972,6 +1017,15 @@ namespace Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Submit.
+        /// </summary>
+        internal static string submit {
+            get {
+                return ResourceManager.GetString("submit", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Team.
         /// </summary>
         internal static string team {
@@ -1071,7 +1125,7 @@ namespace Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to D365FO and .NET developer at Dyna-Soft. Vladislav&apos;s extensive knowledge of AX and his ability to concentrate on his work allow him to design and implement solutions in time and on budget. He is always eager to learn new technologies and approaches, making him an asset to the team. He is well-versed in all best practices and industry standards..
+        ///   Looks up a localized string similar to D365FO and Lasernet developer at Dyna-Soft. Vladislav&apos;s extensive knowledge of AX and his ability to concentrate on his work allow him to design and implement solutions in time and on budget. He is always eager to learn new technologies and approaches, making him an asset to the team. He is well-versed in all best practices and industry standards..
         /// </summary>
         internal static string VLTDescr {
             get {

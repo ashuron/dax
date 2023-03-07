@@ -287,7 +287,7 @@ Nasz zespół ekspertów jest zaangażowany w zapewnianie najwyższej jakości u
     <value>Aliaksandr Kurylenka</value>
   </data>
   <data name="ALKDescr" xml:space="preserve">
-    <value>Senior .NET, Retail and MS CRM developer, and solution architect at Dyna-Soft. Aliaksandr is an expert in POS development and is always studying new technologies to stay current. He is known for his ability to develop any POS extension and perform root cause analysis for POS and backend issues.</value>
+    <value>Starszy programista .NET, Retail i MS CRM oraz architekt rozwiązań w Dyna-Soft. Aliaksandr jest ekspertem w dziedzinie rozwoju POS i zawsze studiuje nowe technologie, aby pozostać na bieżąco. Znany jest z umiejętności rozwijania rozszerzeń POS i wykonywania analizy przyczyn dla problemów z POS i backendem.</value>
   </data>
   <data name="ALP" xml:space="preserve">
     <value>Alexander Potonya</value>
@@ -329,7 +329,7 @@ Nasz zespół ekspertów jest zaangażowany w zapewnianie najwyższej jakości u
     <value>Julyana Kruk</value>
   </data>
   <data name="JUKDescr" xml:space="preserve">
-    <value>Company manager at Dyna-Soft. Julyana is responsible for the overall management and operations of the company. She is a skilled leader and manager, with a strong ability to lead and motivate her team to achieve success. She is dedicated to providing the best service and support to clients.</value>
+    <value>Menadżerka firmy w Dyna-Soft. Julyana odpowiada za ogólne zarządzanie i działalność firmy. Jest wykwalifikowanym liderem i menadżerem z silną zdolnością do prowadzenia i motywowania swojego zespołu do osiągania sukcesu. Jest oddana zapewnieniu najlepszej obsługi i wsparcia dla klientów.</value>
   </data>
   <data name="KOM" xml:space="preserve">
     <value>Konstantin Makhrakov</value>
@@ -356,13 +356,13 @@ Nasz zespół ekspertów jest zaangażowany w zapewnianie najwyższej jakości u
     <value>Vladislav Tsarik</value>
   </data>
   <data name="VLTDescr" xml:space="preserve">
-    <value>D365FO and .NET developer at Dyna-Soft. Vladislav's extensive knowledge of AX and his ability to concentrate on his work allow him to design and implement solutions in time and on budget. He is always eager to learn new technologies and approaches, making him an asset to the team. He is well-versed in all best practices and industry standards.</value>
+    <value>Deweloper D365FO i Lasernet w Dyna-Soft. Obszerne doświadczenie Vladislava w dziedzinie AX oraz jego zdolność do skupienia się na pracy pozwalają mu projektować i wdrażać rozwiązania w terminie i zgodnie z budżetem. Jest zawsze chętny do nauki nowych technologii i podejść, co czyni go cennym członkiem zespołu. Zna się na wszystkich najlepszych praktykach i standardach przemysłowych.</value>
   </data>
   <data name="DVE" xml:space="preserve">
     <value>Diana Verich</value>
   </data>
   <data name="DVEDescr" xml:space="preserve">
-    <value>Senior D365FO developer and .NET developer at Dyna-Soft. Diana is an Azure integration specialist, known for her passion for learning new things and her ability to develop integrations seamlessly. She is an expert in root cause analysis and documentation, making her a valuable asset to the team. With her strong technical skills and her dedication to providing the best service and support to clients, she is well-versed in all best practices and industry standards.</value>
+    <value>Starszy programista D365FO i programista .NET w Dyna-Soft. Diana jest specjalistką ds. integracji Azure, znana z pasji do nauki nowych rzeczy i zdolności do bezproblemowego tworzenia integracji. Jest ekspertem w analizie przyczyn i dokumentacji, co czyni ją cennym członkiem zespołu. Dzięki swoim silnym umiejętnościom technicznym i poświęceniu dla zapewnienia najlepszej obsługi i wsparcia dla klientów, jest dobrze zaznajomiona ze wszystkimi najlepszymi praktykami i standardami branżowymi.</value>
   </data>
   <data name="aboutIntro1" xml:space="preserve">
     <value>Dyna-Soft to wiodący dostawca usług rozwoju i konsultingowych dla produktów MS Dynamics 365 F&amp;O i CE. Nasz zespół ekspertów posiada ponad 20-letnie doświadczenie w dziedzinie rozwoju i dostosowywania MS Dynamics 365F&amp;O oraz stale aktualizuje wiedzę i umiejętności związane z produktami i technologiami, aby zapewnić przestrzeganie najlepszych praktyk.</value>
@@ -472,5 +472,23 @@ Jesteśmy oddani świadczeniu najlepszych usług i wsparcia dla naszych klientó
   </data>
   <data name="pos" xml:space="preserve">
     <value>Punkt sprzedaży (POS)</value>
+  </data>
+  <data name="email" xml:space="preserve">
+    <value>Adres Email</value>
+  </data>
+  <data name="message" xml:space="preserve">
+    <value>Wiadomość</value>
+  </data>
+  <data name="messageHelp" xml:space="preserve">
+    <value>Proszę wpisać swoją wiadomość</value>
+  </data>
+  <data name="name" xml:space="preserve">
+    <value>Imię i nazwisko</value>
+  </data>
+  <data name="nameHelp" xml:space="preserve">
+    <value>Twoje imię</value>
+  </data>
+  <data name="submit" xml:space="preserve">
+    <value>Wyślij</value>
   </data>
 </root>
