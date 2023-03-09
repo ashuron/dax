@@ -489,4 +489,13 @@ We are dedicated to providing the best service and support to our clients. If yo
   <data name="submit" xml:space="preserve">
     <value>Submit</value>
   </data>
+  <data name="fahrradXXL" xml:space="preserve">
+    <value>Fahrrad XXL</value>
+  </data>
+  <data name="fahrradXXLIntro" xml:space="preserve">
+    <value>Dyna-Soft collaborated with WGL C&amp;P to deliver a comprehensive ERP solution for Fahrrad XXL. The project involved implementing and customizing the D365F&amp;O system to meet the company's specific needs, including adjustments to the Sales and Procurement processes, improvements to product data management, and streamlined reporting. The team also integrated Scribe for seamless data exchange and implemented PowerApps to simplify business workflows. Thanks to the successful partnership and close collaboration, the project was completed within budget and on schedule, delivering significant improvements to Fahrrad XXL's operations and processes.</value>
+  </data>
+  <data name="wglIntro" xml:space="preserve">
+    <value>Dyna-Soft and WGL C&amp;P joined forces to form a collaborative international team dedicated to helping businesses in the EU optimize their operations. Drawing on their expertise in Dynamics 365 F&amp;O, the team worked closely with clients to understand their specific needs and deliver tailored ERP solutions that streamlined processes and improved efficiencies. Thanks to their successful partnership and commitment to customer success, the team helped numerous organizations achieve significant improvements in their operations and bottom line.</value>
+  </data>
 </root>

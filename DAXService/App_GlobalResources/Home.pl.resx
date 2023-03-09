@@ -335,7 +335,7 @@ Nasz zespół ekspertów jest zaangażowany w zapewnianie najwyższej jakości u
     <value>Konstantin Makhrakov</value>
   </data>
   <data name="KOMDescr" xml:space="preserve">
-    <value>.NET, Retail and MS CRM developer at Dyna-Soft. Konstantin has a wide experience in developing and supporting web-service based integrations, making him an extremely valuable asset to the team and to the customer.</value>
+    <value>.NET, deweloper Retail i MS CRM w firmie Dyna-Soft. Konstantin ma szerokie doświadczenie w tworzeniu i obsłudze integracji opartych na usługach sieciowych, co czyni go niezwykle cennym aktywem dla zespołu i klienta.</value>
   </data>
   <data name="laserNetDevelopment" xml:space="preserve">
     <value>Integracja i dostosowanie raportowania LaserNet oraz raportowania elektronicznego do Dynamics 365</value>
@@ -490,5 +490,14 @@ Jesteśmy oddani świadczeniu najlepszych usług i wsparcia dla naszych klientó
   </data>
   <data name="submit" xml:space="preserve">
     <value>Wyślij</value>
+  </data>
+  <data name="fahrradXXL" xml:space="preserve">
+    <value>Fahrrad XXL</value>
+  </data>
+  <data name="fahrradXXLIntro" xml:space="preserve">
+    <value>Dyna-Soft współpracowała z WGL C&amp;P, aby dostarczyć kompleksowe rozwiązanie ERP dla Fahrrad XXL. Projekt obejmował wdrożenie i dostosowanie systemu D365F&amp;O do specyficznych potrzeb firmy, w tym dostosowania procesów sprzedaży i zaopatrzenia, ulepszenia zarządzania danymi produktów oraz usprawnienie raportowania. Zespół zintegrował również Scribe w celu bezproblemowej wymiany danych i zaimplementował PowerApps w celu uproszczenia procesów biznesowych. Dzięki udanej współpracy i bliskiej współpracy projekt został zakończony w ramach budżetu i harmonogramu, dostarczając znaczących ulepszeń dla operacji i procesów Fahrrad XXL.</value>
+  </data>
+  <data name="wglIntro" xml:space="preserve">
+    <value>Dyna-Soft i WGL C&amp;P połączyły siły, aby stworzyć wspólne, międzynarodowe zespoły, które pomagają przedsiębiorstwom w UE w optymalizacji swoich operacji. Korzystając ze swojej wiedzy i doświadczenia w Dynamics 365 F&amp;O, zespół ścisłe współpracował z klientami, aby zrozumieć ich konkretnych potrzeb i dostarczyć dopasowane rozwiązania ERP, które usprawniają procesy i poprawiają efektywność działania. Dzięki udanej współpracy i zaangażowaniu w sukces klientów, zespół pomógł wielu organizacjom osiągnąć znaczące usprawnienia w swoich operacjach i wynikach finansowych.</value>
   </data>
 </root>

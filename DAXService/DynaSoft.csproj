@@ -175,7 +175,9 @@
     <Content Include="img\DynaSoftAnimation.gif" />
     <Content Include="img\DynaSoft_icon_transparent_background.png" />
     <Content Include="img\DynaSoft_white_icon_color2_background.png" />
+    <Content Include="img\FahrradXXL.png" />
     <Content Include="img\JUK.png" />
+    <Content Include="img\KOM.png" />
     <Content Include="img\logo-viseo.svg" />
     <Content Include="img\mageba-logo.svg" />
     <Content Include="img\Stobag.png" />

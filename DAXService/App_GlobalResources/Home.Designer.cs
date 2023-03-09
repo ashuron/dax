@@ -639,6 +639,24 @@ namespace Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Fahrrad XXL.
+        /// </summary>
+        internal static string fahrradXXL {
+            get {
+                return ResourceManager.GetString("fahrradXXL", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Dyna-Soft collaborated with WGL C&amp;P to deliver a comprehensive ERP solution for Fahrrad XXL. The project involved implementing and customizing the D365F&amp;O system to meet the company&apos;s specific needs, including adjustments to the Sales and Procurement processes, improvements to product data management, and streamlined reporting. The team also integrated Scribe for seamless data exchange and implemented PowerApps to simplify business workflows. Thanks to the successful partnership and close collaboration, the [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string fahrradXXLIntro {
+            get {
+                return ResourceManager.GetString("fahrradXXLIntro", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Dynamics 365 Custom Integration Services.
         /// </summary>
         internal static string integration {
@@ -1130,6 +1148,15 @@ namespace Resources {
         internal static string VLTDescr {
             get {
                 return ResourceManager.GetString("VLTDescr", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Dyna-Soft and WGL C&amp;P joined forces to form a collaborative international team dedicated to helping businesses in the EU optimize their operations. Drawing on their expertise in Dynamics 365 F&amp;O, the team worked closely with clients to understand their specific needs and deliver tailored ERP solutions that streamlined processes and improved efficiencies. Thanks to their successful partnership and commitment to customer success, the team helped numerous organizations achieve significant improvements in their [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string wglIntro {
+            get {
+                return ResourceManager.GetString("wglIntro", resourceCulture);
             }
         }
         

@@ -335,7 +335,7 @@ Unser Expertenteam ist engagiert, unseren Kunden die höchste Qualität an Diens
     <value>Konstantin Makhrakov</value>
   </data>
   <data name="KOMDescr" xml:space="preserve">
-    <value>.NET, Retail and MS CRM developer at Dyna-Soft. Konstantin has a wide experience in developing and supporting web-service based integrations, making him an extremely valuable asset to the team and to the customer.</value>
+    <value>NET, Retail- und MS CRM-Entwickler bei Dyna-Soft. Konstantin verfügt über umfangreiche Erfahrung in der Entwicklung und Unterstützung von Integrationen auf Basis von Web-Services, was ihn zu einem äußerst wertvollen Asset für das Team und den Kunden macht.</value>
   </data>
   <data name="laserNetDevelopment" xml:space="preserve">
     <value>Integration und Anpassung von LaserNet-Berichterstellung und elektronischer Berichterstellung in Dynamics 365</value>
@@ -490,5 +490,14 @@ Wir sind bestrebt, unseren Kunden den besten Service und Support zu bieten. Wenn
   </data>
   <data name="submit" xml:space="preserve">
     <value>Absenden</value>
+  </data>
+  <data name="fahrradXXL" xml:space="preserve">
+    <value>Fahrrad XXL</value>
+  </data>
+  <data name="fahrradXXLIntro" xml:space="preserve">
+    <value>Dyna-Soft arbeitete mit WGL C&amp;P zusammen, um eine umfassende ERP-Lösung für Fahrrad XXL bereitzustellen. Das Projekt umfasste die Implementierung und Anpassung des D365F&amp;O-Systems, um den spezifischen Anforderungen des Unternehmens gerecht zu werden, einschließlich Anpassungen an den Verkaufs- und Beschaffungsprozessen, Verbesserungen im Produkt-Datenmanagement und optimiertem Berichtswesen. Das Team integrierte auch Scribe für nahtlosen Datenaustausch und implementierte PowerApps zur Vereinfachung der Geschäftsabläufe. Dank der erfolgreichen Partnerschaft und engen Zusammenarbeit wurde das Projekt innerhalb des Budgets und Zeitplans abgeschlossen und lieferte bedeutende Verbesserungen für die Geschäftsprozesse und Abläufe von Fahrrad XXL.</value>
+  </data>
+  <data name="wglIntro" xml:space="preserve">
+    <value>Dyna-Soft und WGL C&amp;P haben sich zusammengeschlossen, um ein gemeinsames internationales Team zu bilden, das sich der Optimierung von Geschäftsprozessen für Unternehmen in der EU verschrieben hat. Das Team nutzte seine Expertise in Dynamics 365 F&amp;O und arbeitete eng mit Kunden zusammen, um deren spezifische Anforderungen zu verstehen und maßgeschneiderte ERP-Lösungen zu liefern, die Prozesse optimieren und Effizienz verbessern. Dank ihrer erfolgreichen Partnerschaft und ihrem Engagement für den Erfolg ihrer Kunden konnte das Team zahlreichen Organisationen dabei helfen, signifikante Verbesserungen in ihren Betriebsabläufen und ihrem Ergebnis zu erzielen.</value>
   </data>
 </root>
