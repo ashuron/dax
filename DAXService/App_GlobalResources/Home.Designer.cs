@@ -225,7 +225,7 @@ namespace Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Aliaksandr Ahranovich.
+        ///   Looks up a localized string similar to Alex Agranovich.
         /// </summary>
         internal static string ALA {
             get {
@@ -234,7 +234,7 @@ namespace Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Partner and senior D365FO and CE developer at Dyna-Soft. Aliaksandr is a solution architect and team/project manager with over 15 years of experience in the industry. He has experience in Microsoft Dynamics AX since 2005 and in CRM since 2011, making him an expert in both ERP and CRM systems. He is an Axapta and CRM Certified Professional and an experienced integration solution architect. Aliaksandr also has experience in POS and ECOM development, as well as Azure integrations. He brings a wealth of knowled [rest of string was truncated]&quot;;.
+        ///   Looks up a localized string similar to Partner and senior D365FO and CE developer at Dyna-Soft. Alex is a solution architect and team/project manager with over 15 years of experience in the industry. He has experience in Microsoft Dynamics AX since 2005 and in CRM since 2011, making him an expert in both ERP and CRM systems. He is an Axapta and CRM Certified Professional and an experienced integration solution architect. Alex also has experience in POS and ECOM development, as well as Azure integrations. He brings a wealth of knowledge and exper [rest of string was truncated]&quot;;.
         /// </summary>
         internal static string ALADescr {
             get {
@@ -279,7 +279,7 @@ namespace Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Senior X++ and D365 developer at Dyna-Soft. Alexander is known for his ability to deliver various solutions and has a wide experience and knowledge in ERP systems, including but not limited to Microsoft Dynamics 365F&amp;O..
+        ///   Looks up a localized string similar to Senior X++ and D365F&amp;O developer at Dyna-Soft, Alexander is known for his ability to deliver various solutions and has a wide experience and knowledge in ERP systems, including but not limited to Microsoft Dynamics 365F&amp;O. With his vast experience in a number of ERP systems and their solutions, Alexander is a valuable asset to the team..
         /// </summary>
         internal static string ALPDescr {
             get {
@@ -315,7 +315,7 @@ namespace Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Partner and senior D365FO developer at Dyna-Soft. Andrew is a solution architect and team/project manager with over two decades years of experience in the industry. He has experience in Microsoft Dynamics AX and Concorde XAL since 1999. He is an Axapta Certified Master since 2004 and is well-versed in all best practices and industry standards..
+        ///   Looks up a localized string similar to Partner and senior D365FO developer at Dyna-Soft. Andrew is an experienced Software Engineer and Technical Consultant with a demonstrated history of working in the computer software industry. Skilled in Dynamics AX / Dynamics 365 Finance &amp; Supply Chain / Dynamics 365 Human Resources, Data integration, SQL Server Reporting Services (SSRS), Microsoft Azure Integration Services, Microsoft Power Platform. Strong engineering professional with a bachelor’s degree focused on Computer Science..
         /// </summary>
         internal static string ANYDescr {
             get {
@@ -707,6 +707,15 @@ namespace Resources {
         internal static string JUKDescr {
             get {
                 return ResourceManager.GetString("JUKDescr", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Dyna-Soft partnered with Unitedhours to successfully customize and deploy the D365F&amp;O project for their client KappAhl. Working closely together, we built a retail solution that included POS and integrations to external systems. We went live on time and within budget, delivering the best possible experience to our client. Our partnership with Unitedhours proved to be a valuable asset, and we look forward to working together on future projects..
+        /// </summary>
+        internal static string kappahlIntro {
+            get {
+                return ResourceManager.GetString("kappahlIntro", resourceCulture);
             }
         }
         

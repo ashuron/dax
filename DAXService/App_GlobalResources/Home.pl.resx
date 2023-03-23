@@ -127,10 +127,10 @@
     <value>Partner i starszy programista D365FO w Dyna-Soft. Andrew jest architektem rozwiązań oraz menedżerem zespołu/projektów, znanym z umiejętności zawsze stosowania najlepszych praktyk i wspierania swojego zespołu. Posiada doświadczenie w zakresie Microsoft Dynamics AX od 2000 roku i brał udział w rozwoju i wsparciu standardowego modułu Axapta "Cost accounting". Jest mistrzem certyfikowanym Axapta od 2004 roku. Jest cennym aktywem zespołu, przynosząc swoją rozległą wiedzę i doświadczenie do każdego projektu, nad którym pracuje. Dzięki swojemu przywództwu i ekspertyzie technicznej pomaga klientom osiągnąć swoje cele i zapewnia, że wszystkie projekty są realizowane na najwyższym poziomie.</value>
   </data>
   <data name="ALA" xml:space="preserve">
-    <value>Aliaksandr Ahranovich</value>
+    <value>Alex Agranovich</value>
   </data>
   <data name="ALADescr" xml:space="preserve">
-    <value>Partner i starszy programista D365FO i CE w Dyna-Soft. Aliaksandr to architekt rozwiązań oraz menedżer projektów z ponad 15-letnim doświadczeniem w branży. Ma doświadczenie z systemem Microsoft Dynamics AX od 2005 roku i z CRM od 2011 roku, co czyni go ekspertem w zakresie systemów ERP i CRM. Jest certyfikowanym profesjonalistą Axapta i CRM oraz doświadczonym architektem rozwiązań integracyjnych. Aliaksandr ma również doświadczenie w projektowaniu POS i eCOM oraz integracjach z Azure. Przynosi ze sobą ogromną wiedzę i doświadczenie do każdego projektu, nad którym pracuje, a jego celem jest pomaganie klientom w osiąganiu celów poprzez dostosowane rozwiązania i bezproblemowe integracje.</value>
+    <value>Partner i starszy programista D365FO i CE w Dyna-Soft. Alex to architekt rozwiązań oraz menedżer projektów z ponad 15-letnim doświadczeniem w branży. Ma doświadczenie z systemem Microsoft Dynamics AX od 2005 roku i z CRM od 2011 roku, co czyni go ekspertem w zakresie systemów ERP i CRM. Jest certyfikowanym profesjonalistą Axapta i CRM oraz doświadczonym architektem rozwiązań integracyjnych. Alex ma również doświadczenie w projektowaniu POS i eCOM oraz integracjach z Azure. Przynosi ze sobą ogromną wiedzę i doświadczenie do każdego projektu, nad którym pracuje, a jego celem jest pomaganie klientom w osiąganiu celów poprzez dostosowane rozwiązania i bezproblemowe integracje.</value>
   </data>
   <data name="chemicalIndustry" xml:space="preserve">
     <value>Przemysł chemiczny</value>
@@ -139,7 +139,7 @@
     <value>Andrew Yaroslavtsev</value>
   </data>
   <data name="ANYDescr" xml:space="preserve">
-    <value>Partner i starszy programista D365FO w Dyna-Soft. Andrew to architekt rozwiązań oraz kierownik zespołu/projektu z ponad dwudziestoletnim doświadczeniem w branży. Posiada doświadczenie w zakresie Microsoft Dynamics AX i Concorde XAL od 1999 roku. Jest certyfikowanym mistrzem Axapta od 2004 roku i dobrze zna wszystkie najlepsze praktyki oraz standardy przemysłowe.</value>
+    <value>Partner i starszy programista D365FO w Dyna-Soft. Andrew to doświadczony inżynier oprogramowania i konsultant techniczny, posiadający udokumentowane doświadczenie w branży oprogramowania komputerowego. Posiada umiejętności w Dynamics AX / Dynamics 365 Finance &amp; Supply Chain / Dynamics 365 Human Resources, integracji danych, usługach raportowania SQL Server (SSRS), integracji z Microsoft Azure oraz platformie Microsoft Power. Silny specjalista z tytułem licencjata w dziedzinie informatyki.</value>
   </data>
   <data name="companyEmployeesImplemented" xml:space="preserve">
     <value>Zrealizowaliśmy ponad 250 000 godzin rozwoju w Microsoft Dynamics AX w wersjach 2.1-2012 i Microsoft Dynamics 365, realizując ponad 200 udanych projektów.</value>
@@ -293,13 +293,13 @@ Nasz zespół ekspertów jest zaangażowany w zapewnianie najwyższej jakości u
     <value>Alexander Potonya</value>
   </data>
   <data name="ALPDescr" xml:space="preserve">
-    <value>Senior X++ and D365 developer at Dyna-Soft. Alexander is known for his ability to deliver various solutions and has a wide experience and knowledge in ERP systems, including but not limited to Microsoft Dynamics 365F&amp;O.</value>
+    <value>Starszy programista X++ i D365F&amp;O w Dyna-Soft, Alexander jest znany ze swojej zdolności do dostarczania różnych rozwiązań i posiada szerokie doświadczenie i wiedzę w zakresie systemów ERP, w tym między innymi Microsoft Dynamics 365F&amp;O. Dzięki swojemu ogromnemu doświadczeniu w wielu systemach ERP i ich rozwiązaniach, Alexander jest cennym aktywem dla zespołu.</value>
   </data>
   <data name="ANT" xml:space="preserve">
     <value>Andrew Trusevich</value>
   </data>
   <data name="ANTDescr" xml:space="preserve">
-    <value>Senior D365FO developer at Dyna-Soft. Andrew has experience in Axapta development since 2011 and is known for his ability to deliver solutions on time and on budget. He is an integration technical lead and brings a wealth of knowledge and experience to every project he works on. He is well-versed in all best practices and industry standards and is dedicated to helping clients achieve their goals through customized solutions and seamless integrations.</value>
+    <value>Starszy programista D365FO w Dyna-Soft. Andrew posiada doświadczenie w rozwoju Axapty od 2011 roku i jest znany ze swojej zdolności do dostarczania rozwiązań na czas i zgodnie z budżetem. Jest liderem technicznym ds. integracji i wnosi do każdego projektu, nad którym pracuje, bogactwo wiedzy i doświadczenia. Doskonale zna najlepsze praktyki i standardy branżowe i jest oddany pomaganiu klientom w osiągnięciu swoich celów dzięki niestandardowym rozwiązaniom i bezproblemowym integracjom.</value>
   </data>
   <data name="azureBasedIntegrations" xml:space="preserve">
     <value>Azure rozwój i integracja z Dynamics 365</value>
@@ -323,7 +323,7 @@ Nasz zespół ekspertów jest zaangażowany w zapewnianie najwyższej jakości u
     <value>Iryna Vorobyova</value>
   </data>
   <data name="IRGDescr" xml:space="preserve">
-    <value>Senior .NET developer at Dyna-Soft. Iryna is a Retail and MS CRM senior developer, solution architect, and integration specialist known for her ability to always deliver the best solutions in a timely manner. With her vast experience in .NET development, she is well-versed in the latest technologies and best practices. She is an expert in Retail and MS CRM development and has great experience in integrating systems.</value>
+    <value>Starszy programista .NET w Dyna-Soft. Iryna to doświadczony programista w zakresie Retail i MS CRM, architekt rozwiązań oraz specjalista ds. integracji, znana ze swojej zdolności do zawsze dostarczania najlepszych rozwiązań w odpowiednim czasie. Dzięki swojemu ogromnemu doświadczeniu w rozwoju .NET, doskonale zna najnowsze technologie i najlepsze praktyki. Jest ekspertem w dziedzinie rozwoju Retail i MS CRM, a także posiada duże doświadczenie w integrowaniu systemów.</value>
   </data>
   <data name="JUK" xml:space="preserve">
     <value>Julyana Kruk</value>
@@ -499,5 +499,8 @@ Jesteśmy oddani świadczeniu najlepszych usług i wsparcia dla naszych klientó
   </data>
   <data name="wglIntro" xml:space="preserve">
     <value>Dyna-Soft i WGL C&amp;P połączyły siły, aby stworzyć wspólne, międzynarodowe zespoły, które pomagają przedsiębiorstwom w UE w optymalizacji swoich operacji. Korzystając ze swojej wiedzy i doświadczenia w Dynamics 365 F&amp;O, zespół ścisłe współpracował z klientami, aby zrozumieć ich konkretnych potrzeb i dostarczyć dopasowane rozwiązania ERP, które usprawniają procesy i poprawiają efektywność działania. Dzięki udanej współpracy i zaangażowaniu w sukces klientów, zespół pomógł wielu organizacjom osiągnąć znaczące usprawnienia w swoich operacjach i wynikach finansowych.</value>
+  </data>
+  <data name="kappahlIntro" xml:space="preserve">
+    <value>Dyna-Soft nawiązała współpracę z Unitedhours w celu pomyślnego dostosowania i wdrożenia projektu D365F&amp;O dla klienta KappAhl. Współpracując ze sobą, stworzyliśmy rozwiązanie detaliczne, które obejmowało POS i integracje z systemami zewnętrznymi. Wdrożenie odbyło się na czas i w ramach budżetu, zapewniając naszemu klientowi najlepsze możliwe doświadczenie. Nasze partnerstwo z Unitedhours okazało się cennym aktywem, a my z niecierpliwością czekamy na dalszą współpracę przy przyszłych projektach.</value>
   </data>
 </root>

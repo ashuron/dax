@@ -127,10 +127,10 @@
     <value>Partner and senior D365FO developer at Dyna-Soft. Andrew is a solution architect and team/project manager, known for his ability to always follow best practices and support his team. With experience in Microsoft Dynamics AX since 2000, he has participated in the development and support of the standard Axapta module “Cost accounting”. He is an Axapta Certified Master since 2004. He is a valuable asset to the team, bringing his extensive knowledge and experience to every project he works on. With his leadership and technical expertise, he helps clients achieve their goals and ensures that all projects are completed to the highest standard.</value>
   </data>
   <data name="ALA" xml:space="preserve">
-    <value>Aliaksandr Ahranovich</value>
+    <value>Alex Agranovich</value>
   </data>
   <data name="ALADescr" xml:space="preserve">
-    <value>Partner and senior D365FO and CE developer at Dyna-Soft. Aliaksandr is a solution architect and team/project manager with over 15 years of experience in the industry. He has experience in Microsoft Dynamics AX since 2005 and in CRM since 2011, making him an expert in both ERP and CRM systems. He is an Axapta and CRM Certified Professional and an experienced integration solution architect. Aliaksandr also has experience in POS and ECOM development, as well as Azure integrations. He brings a wealth of knowledge and experience to every project he works on, and is dedicated to helping clients achieve their goals through customized solutions and seamless integrations.</value>
+    <value>Partner and senior D365FO and CE developer at Dyna-Soft. Alex is a solution architect and team/project manager with over 15 years of experience in the industry. He has experience in Microsoft Dynamics AX since 2005 and in CRM since 2011, making him an expert in both ERP and CRM systems. He is an Axapta and CRM Certified Professional and an experienced integration solution architect. Alex also has experience in POS and ECOM development, as well as Azure integrations. He brings a wealth of knowledge and experience to every project he works on, and is dedicated to helping clients achieve their goals through customized solutions and seamless integrations.</value>
   </data>
   <data name="chemicalIndustry" xml:space="preserve">
     <value>Chemical industry</value>
@@ -139,7 +139,7 @@
     <value>Andrew Yaroslavtsev</value>
   </data>
   <data name="ANYDescr" xml:space="preserve">
-    <value>Partner and senior D365FO developer at Dyna-Soft. Andrew is a solution architect and team/project manager with over two decades years of experience in the industry. He has experience in Microsoft Dynamics AX and Concorde XAL since 1999. He is an Axapta Certified Master since 2004 and is well-versed in all best practices and industry standards.</value>
+    <value>Partner and senior D365FO developer at Dyna-Soft. Andrew is an experienced Software Engineer and Technical Consultant with a demonstrated history of working in the computer software industry. Skilled in Dynamics AX / Dynamics 365 Finance &amp; Supply Chain / Dynamics 365 Human Resources, Data integration, SQL Server Reporting Services (SSRS), Microsoft Azure Integration Services, Microsoft Power Platform. Strong engineering professional with a bachelor’s degree focused on Computer Science.</value>
   </data>
   <data name="companyEmployeesImplemented" xml:space="preserve">
     <value>We implemented more than 250 000 hours of development in Microsoft Dynamics AX version 2.1 – 2012, and Microsoft Dynamics 365 fulfilling more than 200 successful projects</value>
@@ -291,7 +291,7 @@ Our team of experts is dedicated providing the highest quality services and supp
     <value>Alexander Potonya</value>
   </data>
   <data name="ALPDescr" xml:space="preserve">
-    <value>Senior X++ and D365 developer at Dyna-Soft. Alexander is known for his ability to deliver various solutions and has a wide experience and knowledge in ERP systems, including but not limited to Microsoft Dynamics 365F&amp;O.</value>
+    <value>Senior X++ and D365F&amp;O developer at Dyna-Soft, Alexander is known for his ability to deliver various solutions and has a wide experience and knowledge in ERP systems, including but not limited to Microsoft Dynamics 365F&amp;O. With his vast experience in a number of ERP systems and their solutions, Alexander is a valuable asset to the team.</value>
   </data>
   <data name="ANT" xml:space="preserve">
     <value>Andrew Trusevich</value>
@@ -497,5 +497,8 @@ We are dedicated to providing the best service and support to our clients. If yo
   </data>
   <data name="wglIntro" xml:space="preserve">
     <value>Dyna-Soft and WGL C&amp;P joined forces to form a collaborative international team dedicated to helping businesses in the EU optimize their operations. Drawing on their expertise in Dynamics 365 F&amp;O, the team worked closely with clients to understand their specific needs and deliver tailored ERP solutions that streamlined processes and improved efficiencies. Thanks to their successful partnership and commitment to customer success, the team helped numerous organizations achieve significant improvements in their operations and bottom line.</value>
+  </data>
+  <data name="kappahlIntro" xml:space="preserve">
+    <value>Dyna-Soft partnered with Unitedhours to successfully customize and deploy the D365F&amp;O project for their client KappAhl. Working closely together, we built a retail solution that included POS and integrations to external systems. We went live on time and within budget, delivering the best possible experience to our client. Our partnership with Unitedhours proved to be a valuable asset, and we look forward to working together on future projects.</value>
   </data>
 </root>

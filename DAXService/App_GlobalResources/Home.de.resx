@@ -127,10 +127,10 @@
     <value>Partner und leitender D365FO-Entwickler bei Dyna-Soft. Andrew ist ein Lösungsarchitekt und Team-/Projektmanager, der für seine Fähigkeit bekannt ist, immer bewährte Verfahren zu befolgen und sein Team zu unterstützen. Mit Erfahrung in Microsoft Dynamics AX seit 2000 hat er an der Entwicklung und Unterstützung des Standard-Axapta-Moduls "Cost accounting" teilgenommen. Er ist seit 2004 ein zertifizierter Axapta-Master. Er ist eine wertvolle Ergänzung des Teams und bringt sein umfangreiches Wissen und seine Erfahrung in jedes Projekt ein, an dem er arbeitet. Mit seiner Führung und technischen Expertise hilft er Kunden, ihre Ziele zu erreichen und stellt sicher, dass alle Projekte auf höchstem Niveau abgeschlossen werden.</value>
   </data>
   <data name="ALA" xml:space="preserve">
-    <value>Aliaksandr Ahranovich</value>
+    <value>Alex Agranovich</value>
   </data>
   <data name="ALADescr" xml:space="preserve">
-    <value>Partner und Senior D365FO- und CE-Entwickler bei Dyna-Soft. Aliaksandr ist ein Lösungsarchitekt und Team-/Projektmanager mit über 15 Jahren Erfahrung in der Branche. Er hat Erfahrung mit Microsoft Dynamics AX seit 2005 und mit CRM seit 2011, was ihn zum Experten für ERP- und CRM-Systeme macht. Er ist ein Axapta- und CRM-zertifizierter Professional und ein erfahrener Integration Solution Architect. Aliaksandr hat auch Erfahrung in POS- und ECOM-Entwicklung sowie Azure-Integrationen. Er bringt ein umfangreiches Wissen und Erfahrung in jedes Projekt ein, an dem er arbeitet, und ist bestrebt, Kunden durch maßgeschneiderte Lösungen und nahtlose Integrationen bei der Erreichung ihrer Ziele zu unterstützen.</value>
+    <value>Partner und Senior D365FO- und CE-Entwickler bei Dyna-Soft. Alex ist ein Lösungsarchitekt und Team-/Projektmanager mit über 15 Jahren Erfahrung in der Branche. Er hat Erfahrung mit Microsoft Dynamics AX seit 2005 und mit CRM seit 2011, was ihn zum Experten für ERP- und CRM-Systeme macht. Er ist ein Axapta- und CRM-zertifizierter Professional und ein erfahrener Integration Solution Architect. Alex hat auch Erfahrung in POS- und ECOM-Entwicklung sowie Azure-Integrationen. Er bringt ein umfangreiches Wissen und Erfahrung in jedes Projekt ein, an dem er arbeitet, und ist bestrebt, Kunden durch maßgeschneiderte Lösungen und nahtlose Integrationen bei der Erreichung ihrer Ziele zu unterstützen.</value>
   </data>
   <data name="chemicalIndustry" xml:space="preserve">
     <value>Chemieindustrie</value>
@@ -139,7 +139,7 @@
     <value>Andrew Yaroslavtsev</value>
   </data>
   <data name="ANYDescr" xml:space="preserve">
-    <value>Partner und Senior D365FO-Entwickler bei Dyna-Soft. Andrew ist ein Lösungsarchitekt und Team-/Projektmanager mit über zwei Jahrzehnten Erfahrung in der Branche. Er hat Erfahrung in Microsoft Dynamics AX und Concorde XAL seit 1999. Er ist seit 2004 ein Axapta Certified Master und kennt alle Best Practices und Industriestandards.</value>
+    <value>Partner und leitender D365FO-Entwickler bei Dyna-Soft. Andrew ist ein erfahrener Softwareingenieur und technischer Berater mit nachgewiesener Erfahrung in der Computer-Software-Branche. Erfahren in Dynamics AX / Dynamics 365 Finance &amp; Supply Chain / Dynamics 365 Human Resources, Datenintegration, SQL Server Reporting Services (SSRS), Microsoft Azure Integration Services, Microsoft Power Platform. Starke technische Fachkraft mit einem Bachelor-Abschluss in Informatik.</value>
   </data>
   <data name="companyEmployeesImplemented" xml:space="preserve">
     <value>Wir haben mehr als 250.000 Stunden an Entwicklung in Microsoft Dynamics AX Version 2.1 - 2012 und Microsoft Dynamics 365 umgesetzt und mehr als 200 erfolgreiche Projekte abgeschlossen.</value>
@@ -293,13 +293,13 @@ Unser Expertenteam ist engagiert, unseren Kunden die höchste Qualität an Diens
     <value>Alexander Potonya</value>
   </data>
   <data name="ALPDescr" xml:space="preserve">
-    <value>Senior X++ and D365 developer at Dyna-Soft. Alexander is known for his ability to deliver various solutions and has a wide experience and knowledge in ERP systems, including but not limited to Microsoft Dynamics 365F&amp;O.</value>
+    <value>Senior X++- und D365F&amp;O-Entwickler bei Dyna-Soft, Alexander ist bekannt für seine Fähigkeit, verschiedene Lösungen zu liefern und hat eine breite Erfahrung und Kenntnisse in ERP-Systemen, einschließlich, aber nicht beschränkt auf Microsoft Dynamics 365F&amp;O. Mit seiner umfangreichen Erfahrung in einer Vielzahl von ERP-Systemen und deren Lösungen ist Alexander eine wertvolle Bereicherung für das Team.</value>
   </data>
   <data name="ANT" xml:space="preserve">
     <value>Andrew Trusevich</value>
   </data>
   <data name="ANTDescr" xml:space="preserve">
-    <value>Senior D365FO developer at Dyna-Soft. Andrew has experience in Axapta development since 2011 and is known for his ability to deliver solutions on time and on budget. He is an integration technical lead and brings a wealth of knowledge and experience to every project he works on. He is well-versed in all best practices and industry standards and is dedicated to helping clients achieve their goals through customized solutions and seamless integrations.</value>
+    <value>Senior D365FO-Entwickler bei Dyna-Soft. Andrew verfügt seit 2011 über Erfahrung in der Axapta-Entwicklung und ist bekannt für seine Fähigkeit, Lösungen pünktlich und innerhalb des Budgets zu liefern. Er ist ein Integrationstechnischer Leiter und bringt ein umfangreiches Wissen und Erfahrung in jedes Projekt ein, an dem er arbeitet. Er ist mit allen Best Practices und Branchenstandards bestens vertraut und engagiert sich dafür, Kunden durch maßgeschneiderte Lösungen und nahtlose Integrationen bei der Erreichung ihrer Ziele zu unterstützen.</value>
   </data>
   <data name="azureBasedIntegrations" xml:space="preserve">
     <value>Azure-Entwicklung und Integration mit Dynamics 365</value>
@@ -323,7 +323,7 @@ Unser Expertenteam ist engagiert, unseren Kunden die höchste Qualität an Diens
     <value>Iryna Vorobyova</value>
   </data>
   <data name="IRGDescr" xml:space="preserve">
-    <value>Senior .NET developer at Dyna-Soft. Iryna is a Retail and MS CRM senior developer, solution architect, and integration specialist known for her ability to always deliver the best solutions in a timely manner. With her vast experience in .NET development, she is well-versed in the latest technologies and best practices. She is an expert in Retail and MS CRM development and has great experience in integrating systems.</value>
+    <value>Senior .NET-Entwickler bei Dyna-Soft. Iryna ist eine Retail- und MS-CRM-Senior-Entwicklerin, Lösungsarchitektin und Integrationsspezialistin, die für ihre Fähigkeit bekannt ist, immer die besten Lösungen rechtzeitig zu liefern. Mit ihrer langjährigen Erfahrung in der .NET-Entwicklung ist sie gut vertraut mit den neuesten Technologien und Best Practices. Sie ist eine Expertin für Retail- und MS-CRM-Entwicklung und hat große Erfahrung in der Integration von Systemen.</value>
   </data>
   <data name="JUK" xml:space="preserve">
     <value>Julyana Kruk</value>
@@ -499,5 +499,8 @@ Wir sind bestrebt, unseren Kunden den besten Service und Support zu bieten. Wenn
   </data>
   <data name="wglIntro" xml:space="preserve">
     <value>Dyna-Soft und WGL C&amp;P haben sich zusammengeschlossen, um ein gemeinsames internationales Team zu bilden, das sich der Optimierung von Geschäftsprozessen für Unternehmen in der EU verschrieben hat. Das Team nutzte seine Expertise in Dynamics 365 F&amp;O und arbeitete eng mit Kunden zusammen, um deren spezifische Anforderungen zu verstehen und maßgeschneiderte ERP-Lösungen zu liefern, die Prozesse optimieren und Effizienz verbessern. Dank ihrer erfolgreichen Partnerschaft und ihrem Engagement für den Erfolg ihrer Kunden konnte das Team zahlreichen Organisationen dabei helfen, signifikante Verbesserungen in ihren Betriebsabläufen und ihrem Ergebnis zu erzielen.</value>
+  </data>
+  <data name="kappahlIntro" xml:space="preserve">
+    <value>Dyna-Soft arbeitete mit Unitedhours zusammen, um das D365F&amp;O-Projekt erfolgreich für ihren Kunden KappAhl anzupassen und bereitzustellen. Wir arbeiteten eng zusammen, um eine Einzelhandelslösung zu erstellen, die POS und Integrationen in externe Systeme umfasste. Wir gingen pünktlich und innerhalb des Budgets live und lieferten unserem Kunden das bestmögliche Erlebnis. Unsere Partnerschaft mit Unitedhours erwies sich als wertvolles Gut, und wir freuen uns auf die Zusammenarbeit an zukünftigen Projekten.</value>
   </data>
 </root>
