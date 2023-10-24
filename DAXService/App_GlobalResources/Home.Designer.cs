@@ -19,7 +19,7 @@ namespace Resources {
     // class via a tool like ResGen or Visual Studio.
     // To add or remove a member, edit your .ResX file then rerun ResGen
     // with the /str option or rebuild the Visual Studio project.
-    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.VisualStudio.Web.Application.StronglyTypedResourceProxyBuilder", "16.0.0.0")]
+    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.VisualStudio.Web.Application.StronglyTypedResourceProxyBuilder", "17.0.0.0")]
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
     internal class Home {
@@ -79,7 +79,7 @@ namespace Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Dyna-Soft is a leading provider of development and consulting services for MS Dynamics 365 F&amp;O and CE products. Our team of experts has over 20 years of experience in MS Dynamics 365F&amp;O development and customizations and is constantly updating product and technology knowledge and skills to ensure we are following all best practices.
+        ///   Looks up a localized string similar to  Dyna-Soft is a leading provider of development and consulting services for MS Dynamics 365 F&amp;O and CE products. Our team of experts has over 20 years of experience in MS Dynamics 365F&amp;O development and customizations and is constantly updating product and technology knowledge and skills to ensure we are following all best practices.
         ///We specialize in technical analysis of running systems and post go-life support, helping our clients ensure their systems are running smoothly and efficiently. We work closely  [rest of string was truncated]&quot;;.
         /// </summary>
         internal static string aboutIntro {
@@ -125,7 +125,7 @@ namespace Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to At Dyna-Soft, our mission is to provide professional consulting and development services for our partners and customers in Microsoft Dynamics 365 and CE. We have a wealth of experience in this field, with over 250,000 hours of development in Microsoft Dynamics AX version 2.1 – 2012, and Microsoft Dynamics 365, completing more than 200 successful projects.
+        ///   Looks up a localized string similar to  At Dyna-Soft, our mission is to provide professional consulting and development services for our partners and customers in Microsoft Dynamics 365 and CE. We have a wealth of experience in this field, with over 250,000 hours of development in Microsoft Dynamics AX version 2.1 – 2012, and Microsoft Dynamics 365, completing more than 200 successful projects.
         ///One of our greatest strengths is our stable staff, which allows us to provide consistent, high-quality services to our clients. We are focused on remote  [rest of string was truncated]&quot;;.
         /// </summary>
         internal static string aboutOutro {
@@ -162,7 +162,7 @@ namespace Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Our experience in both ERP and CRM systems allows us to build very robust and predictable integrations, which can be based on a variety of integration platforms, including Scribe and Dual-Write. Our POS and eCOM experience allows us to build scalable and stable solutions for the retail market and reuse our how-tos for different customers. We are dedicated to providing the best service and support to our clients. If you&apos;re looking for a reliable and experienced partner to help you with your MS Dynamics 365 F [rest of string was truncated]&quot;;.
+        ///   Looks up a localized string similar to  Our experience in both ERP and CRM systems allows us to build very robust and predictable integrations, which can be based on a variety of integration platforms, including Scribe and Dual-Write. Our POS and eCOM experience allows us to build scalable and stable solutions for the retail market and reuse our how-tos for different customers. We are dedicated to providing the best service and support to our clients. If you&apos;re looking for a reliable and experienced partner to help you with your MS Dynamics 365 F [rest of string was truncated]&quot;;.
         /// </summary>
         internal static string aboutOutro4 {
             get {
@@ -198,7 +198,7 @@ namespace Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Dyna-Soft successfully partnered with Unitedhours to implement a Retail Dynamics 365 F&amp;O project for customer Ahlens. With over 20 years of experience in MS Dynamics 365 F&amp;O development and customizations, the Dyna-Soft team provided technical analysis, solution design and integration expertise to deliver a comprehensive retail solution. Unitedhours brought their expertise in retail processes to the table, resulting in a smooth and efficient project implementation. The end result was a dynamic retail soluti [rest of string was truncated]&quot;;.
+        ///   Looks up a localized string similar to  Dyna-Soft successfully partnered with Unitedhours to implement a Retail Dynamics 365 F&amp;O project for customer Ahlens. With over 20 years of experience in MS Dynamics 365 F&amp;O development and customizations, the Dyna-Soft team provided technical analysis, solution design and integration expertise to deliver a comprehensive retail solution. Unitedhours brought their expertise in retail processes to the table, resulting in a smooth and efficient project implementation. The end result was a dynamic retail soluti [rest of string was truncated]&quot;;.
         /// </summary>
         internal static string ahlensIntro {
             get {
@@ -216,7 +216,7 @@ namespace Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Partner and senior D365FO developer at Dyna-Soft. Andrew is a solution architect and team/project manager, known for his ability to always follow best practices and support his team. With experience in Microsoft Dynamics AX since 2000, he has participated in the development and support of the standard Axapta module “Cost accounting”. He is an Axapta Certified Master since 2004. He is a valuable asset to the team, bringing his extensive knowledge and experience to every project he works on. With his leadersh [rest of string was truncated]&quot;;.
+        ///   Looks up a localized string similar to  Partner and senior D365FO developer at Dyna-Soft. Andrew is a solution architect and team/project manager, known for his ability to always follow best practices and support his team. With experience in Microsoft Dynamics AX since 2000, he has participated in the development and support of the standard Axapta module “Cost accounting”. He is an Axapta Certified Master since 2004. He is a valuable asset to the team, bringing his extensive knowledge and experience to every project he works on. With his leadersh [rest of string was truncated]&quot;;.
         /// </summary>
         internal static string AKUDescr {
             get {
@@ -234,7 +234,7 @@ namespace Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Partner and senior D365FO and CE developer at Dyna-Soft. Alex is a solution architect and team/project manager with over 15 years of experience in the industry. He has experience in Microsoft Dynamics AX since 2005 and in CRM since 2011, making him an expert in both ERP and CRM systems. He is an Axapta and CRM Certified Professional and an experienced integration solution architect. Alex also has experience in POS and ECOM development, as well as Azure integrations. He brings a wealth of knowledge and exper [rest of string was truncated]&quot;;.
+        ///   Looks up a localized string similar to  Partner and senior D365FO and CE developer at Dyna-Soft. Alex is a solution architect and team/project manager with over 15 years of experience in the industry. He has experience in Microsoft Dynamics AX since 2005 and in CRM since 2011, making him an expert in both ERP and CRM systems. He is an Axapta and CRM Certified Professional and an experienced integration solution architect. Alex also has experience in POS and ECOM development, as well as Azure integrations. He brings a wealth of knowledge and exper [rest of string was truncated]&quot;;.
         /// </summary>
         internal static string ALADescr {
             get {
@@ -351,7 +351,7 @@ namespace Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to At Dyna-Soft, we are proud to have worked alongside AlfaPeople Group, a leading provider of Microsoft Dynamics solutions with offices in Switzerland, United Kingdom, Denmark, Germany, and the United States. Our collaboration with AlfaPeople has allowed us to provide exceptional services to customers across the EU and US, with the combined expertise and resources of both companies. Our joint efforts have resulted in successful projects and satisfied clients, solidifying our partnership with AlfaPeople as a k [rest of string was truncated]&quot;;.
+        ///   Looks up a localized string similar to  At Dyna-Soft, we are proud to have worked alongside AlfaPeople Group, a leading provider of Microsoft Dynamics solutions with offices in Switzerland, United Kingdom, Denmark, Germany, and the United States. Our collaboration with AlfaPeople has allowed us to provide exceptional services to customers across the EU and US, with the combined expertise and resources of both companies. Our joint efforts have resulted in successful projects and satisfied clients, solidifying our partnership with AlfaPeople as a k [rest of string was truncated]&quot;;.
         /// </summary>
         internal static string beingAlfaPartner2 {
             get {
@@ -486,7 +486,7 @@ namespace Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to We were thrilled to be part of a project to upgrade a CRM solution from CRM 4.0 to CRM 2011 and then to CRM Online. Our team of experts provided the necessary support and guidance to make the transition as seamless and effective as possible. This involved not only upgrading the software but also migrating all of the data from the old system to the new one. Our team carefully planned and executed the data migration to ensure a seamless transition and no loss of important information. The upgrade and data mig [rest of string was truncated]&quot;;.
+        ///   Looks up a localized string similar to  We were thrilled to be part of a project to upgrade a CRM solution from CRM 4.0 to CRM 2011 and then to CRM Online. Our team of experts provided the necessary support and guidance to make the transition as seamless and effective as possible. This involved not only upgrading the software but also migrating all of the data from the old system to the new one. Our team carefully planned and executed the data migration to ensure a seamless transition and no loss of important information. The upgrade and data mig [rest of string was truncated]&quot;;.
         /// </summary>
         internal static string derTouristikWork1 {
             get {
@@ -648,7 +648,7 @@ namespace Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Dyna-Soft collaborated with WGL C&amp;P to deliver a comprehensive ERP solution for Fahrrad XXL. The project involved implementing and customizing the D365F&amp;O system to meet the company&apos;s specific needs, including adjustments to the Sales and Procurement processes, improvements to product data management, and streamlined reporting. The team also integrated Scribe for seamless data exchange and implemented PowerApps to simplify business workflows. Thanks to the successful partnership and close collaboration, the [rest of string was truncated]&quot;;.
+        ///   Looks up a localized string similar to  Dyna-Soft collaborated with WGL C&amp;P to deliver a comprehensive ERP solution for Fahrrad XXL. The project involved implementing and customizing the D365F&amp;O system to meet the company&apos;s specific needs, including adjustments to the Sales and Procurement processes, improvements to product data management, and streamlined reporting. The team also integrated Scribe for seamless data exchange and implemented PowerApps to simplify business workflows. Thanks to the successful partnership and close collaboration, the [rest of string was truncated]&quot;;.
         /// </summary>
         internal static string fahrradXXLIntro {
             get {
@@ -1035,7 +1035,7 @@ namespace Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Dyna-Soft teamed up with Alfapeople to help streamline and customize the ERP system for their customer, Stobag. This project involved extensive customization of the product builder, as well as improvements and optimizations to the ERP sales process. Dyna-Soft&apos;s expertise in MS Dynamics 365 F&amp;O, combined with Alfapeople&apos;s knowledge and experience, resulted in a successful implementation that provided significant improvements to Stobag&apos;s operations. With the help of Dyna-Soft, Stobag was able to streamline th [rest of string was truncated]&quot;;.
+        ///   Looks up a localized string similar to  Dyna-Soft teamed up with Alfapeople to help streamline and customize the ERP system for their customer, Stobag. This project involved extensive customization of the product builder, as well as improvements and optimizations to the ERP sales process. Dyna-Soft&apos;s expertise in MS Dynamics 365 F&amp;O, combined with Alfapeople&apos;s knowledge and experience, resulted in a successful implementation that provided significant improvements to Stobag&apos;s operations. With the help of Dyna-Soft, Stobag was able to streamline th [rest of string was truncated]&quot;;.
         /// </summary>
         internal static string stobagIntro {
             get {
@@ -1062,7 +1062,7 @@ namespace Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to At Dyna-Soft, we have a highly skilled and experienced team of professionals who specialize in development and consulting services for MS Dynamics 365 F&amp;O and CE products. Our team members have over 20 years of experience in MS Dynamics 365 F&amp;O development and customizations, and are constantly improving their skills to follow all best practices. Our solution architects and senior developers have extensive knowledge in various technologies, including .NET, retail, CRM, and Azure integrations. Our team membe [rest of string was truncated]&quot;;.
+        ///   Looks up a localized string similar to  At Dyna-Soft, we have a highly skilled and experienced team of professionals who specialize in development and consulting services for MS Dynamics 365 F&amp;O and CE products. Our team members have over 20 years of experience in MS Dynamics 365 F&amp;O development and customizations, and are constantly improving their skills to follow all best practices. Our solution architects and senior developers have extensive knowledge in various technologies, including .NET, retail, CRM, and Azure integrations. Our team membe [rest of string was truncated]&quot;;.
         /// </summary>
         internal static string teamIntro {
             get {
@@ -1071,7 +1071,7 @@ namespace Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Dyna-Soft, together with its partner Unitedhours, successfully implemented a Retail Dynamics 365 F&amp;O project for the largest telecommunications company in Sweden, Telia. Telia aimed to improve its inventory and sales processes, as well as provide a seamless customer experience. Dyna-Soft&apos;s team of experts worked closely with Unitedhours to tailor the POS solution and integrate it with the backend processes and ECOM solution. This resulted in a streamlined and efficient system that met Telia&apos;s needs and expe [rest of string was truncated]&quot;;.
+        ///   Looks up a localized string similar to  Dyna-Soft, together with its partner Unitedhours, successfully implemented a Retail Dynamics 365 F&amp;O project for the largest telecommunications company in Sweden, Telia. Telia aimed to improve its inventory and sales processes, as well as provide a seamless customer experience. Dyna-Soft&apos;s team of experts worked closely with Unitedhours to tailor the POS solution and integrate it with the backend processes and ECOM solution. This resulted in a streamlined and efficient system that met Telia&apos;s needs and expe [rest of string was truncated]&quot;;.
         /// </summary>
         internal static string teliaIntro {
             get {
@@ -1161,7 +1161,7 @@ namespace Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Dyna-Soft and WGL C&amp;P joined forces to form a collaborative international team dedicated to helping businesses in the EU optimize their operations. Drawing on their expertise in Dynamics 365 F&amp;O, the team worked closely with clients to understand their specific needs and deliver tailored ERP solutions that streamlined processes and improved efficiencies. Thanks to their successful partnership and commitment to customer success, the team helped numerous organizations achieve significant improvements in their [rest of string was truncated]&quot;;.
+        ///   Looks up a localized string similar to  Dyna-Soft and WGL C&amp;P joined forces to form a collaborative international team dedicated to helping businesses in the EU optimize their operations. Drawing on their expertise in Dynamics 365 F&amp;O, the team worked closely with clients to understand their specific needs and deliver tailored ERP solutions that streamlined processes and improved efficiencies. Thanks to their successful partnership and commitment to customer success, the team helped numerous organizations achieve significant improvements in their [rest of string was truncated]&quot;;.
         /// </summary>
         internal static string wglIntro {
             get {
